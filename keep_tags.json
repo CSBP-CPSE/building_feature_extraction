@@ -1,0 +1,20 @@
+{
+    "building": [
+        "apartments",
+        "bungalow",
+        "cabin",
+        "detached",
+        "farm",
+        "hotel",
+        "house",
+        "semidetached_house",
+        "static_caravan",
+        "terrace",
+        "cathedral",
+        "chapel",
+        "church",
+        "monastery",
+        "mosque",
+        "temple"
+        ]   
+}
