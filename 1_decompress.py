@@ -22,8 +22,11 @@ class Convert(o.SimpleHandler):
     def relation(self, r):
         self.writer.add_relation(r)
 
-        
-writer = o.SimpleWriter(output_file)
-handler = Convert(writer)
-handler.apply_file(input_file)
-writer.close()
+if os.path.isfile(output_file):
+    print('File with name output_file already exists.')
+else:
+    writer = o.SimpleWriter(output_file)
+    handler = Convert(writer)
+    handler.apply_file(input_file)
+    writer.close()
+print('Done.')

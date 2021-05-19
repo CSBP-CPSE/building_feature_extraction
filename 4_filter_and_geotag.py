@@ -57,12 +57,15 @@ class LocationHandler(o.SimpleHandler):
         except:
             pass
 
-
-with open(output_addresses, 'w', newline='', encoding='utf-8') as csvfile:
-    wkt_factory = o.geom.WKTFactory()
-    fieldnames = ['osm_obj_type', 'latitude', 'longitude', 'addr:unit']
-    fieldnames.extend(keep_tags)
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction='ignore')
-    writer.writeheader()
-    l = LocationHandler(writer)
-    l.apply_file(input_osm_data, locations=True)
+if os.path.isfile(output_addresses):
+    print('File with name output_addresses already exists.')
+else:
+    with open(output_addresses, 'w', newline='', encoding='utf-8') as csvfile:
+        wkt_factory = o.geom.WKTFactory()
+        fieldnames = ['osm_obj_type', 'latitude', 'longitude', 'addr:unit']
+        fieldnames.extend(keep_tags)
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction='ignore')
+        writer.writeheader()
+        l = LocationHandler(writer)
+        l.apply_file(input_osm_data, locations=True)
+print('Done.')

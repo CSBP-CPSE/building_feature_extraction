@@ -63,10 +63,12 @@ class DataWriter(o.SimpleHandler):
             pass
 
 
-if os.path.exists(output_subregion_osm_data):
-    os.remove(output_subregion_osm_data)
-wkt_factory = o.geom.WKTFactory()
-writer = o.SimpleWriter(output_subregion_osm_data)
-h = DataWriter(writer)
-h.apply_file(input_osm_data, locations=True)
-writer.close()
+if os.path.isfile(output_subregion_osm_data):
+    print('File with name output_subregion_osm_data already exists.')
+else:
+    wkt_factory = o.geom.WKTFactory()
+    writer = o.SimpleWriter(output_subregion_osm_data)
+    h = DataWriter(writer)
+    h.apply_file(input_osm_data, locations=True)
+    writer.close()
+print('Done.')
