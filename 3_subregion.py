@@ -11,9 +11,9 @@ import matplotlib.pyplot as plt
 
 
 # Input/Output Filenames & Projections
-kml_input_filename = "ottawa-boundary.kml"  # boundary
-input_osm_data = 'ontario-latest.osm'  # all osm data for a region
-output_subregion_osm_data = 'ottawa.osm'  # 
+kml_input_filename = "3-input-ottawa-boundary.kml"  # boundary
+input_osm_data = '3-input-ontario-nwr.osm'  # all osm data for a region
+output_subregion_osm_data = '4-input-ottawa-nw.osm'
 # Geocoordinates projection
 p1 = Proj('+init=epsg:4326')
 p2 = Proj('+proj=lcc +lon_0=-97.734375 +lat_1=47.6583799 +lat_2=76.5041114 +lat_0=62.0812457 +datum=WGS84 +units=m +no_defs')  # conformal projection
@@ -63,10 +63,12 @@ class DataWriter(o.SimpleHandler):
             pass
 
 
-if os.path.exists(output_subregion_osm_data):
-    os.remove(output_subregion_osm_data)
-wkt_factory = o.geom.WKTFactory()
-writer = o.SimpleWriter(output_subregion_osm_data)
-h = DataWriter(writer)
-h.apply_file(input_osm_data, locations=True)
-writer.close()
+if os.path.isfile(output_subregion_osm_data):
+    print('File with name output_subregion_osm_data already exists.')
+else:
+    wkt_factory = o.geom.WKTFactory()
+    writer = o.SimpleWriter(output_subregion_osm_data)
+    h = DataWriter(writer)
+    h.apply_file(input_osm_data, locations=True)
+    writer.close()
+print('Done.')
