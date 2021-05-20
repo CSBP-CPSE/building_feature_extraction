@@ -45,11 +45,9 @@ def create_type_files(file):
 	        cat = row['building_type']
 	        # Open a new file and write the header
 	        if "," in cat:
-	        	fout = open('unknown.csv'.format(cat), 'w', newline='')
-	        	dw = csv.DictWriter(fout, fieldnames=csvin.fieldnames)
-	        	dw.writeheader()
-	        	outputs[cat] = fout, dw
-	        elif cat not in outputs:
+	        	cat = "unknown"
+
+	        if cat not in outputs:
 	            fout = open('{}.csv'.format(cat), 'w', newline='')
 	            dw = csv.DictWriter(fout, fieldnames=csvin.fieldnames)
 	            dw.writeheader()
@@ -58,7 +56,8 @@ def create_type_files(file):
 	        outputs[cat][1].writerow(row)
 	    # Close all the files
 	    for fout, _ in outputs.values():
-	        fout.close() 
+	        fout.close()
+	    fin.close()
 
 def type_histogram(file):
 	df = pd.read_csv(file)
