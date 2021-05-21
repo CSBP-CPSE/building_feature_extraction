@@ -16,51 +16,6 @@ def get_province():
 
 
 def concatenate_address(in_file):
-    d = dict()
-    f = open(in_file)
-    next(f)
-    for line in f:
-        line = line.strip("\n")
-        (
-            osm_obj_type,
-            latitude,
-            longitude,
-            addr_unit,
-            addr_house,
-            addr_street,
-            building,
-        ) = line.split(",")
-        addr = ""
-        if addr_unit:
-            addr = addr_unit + " "
-        addr = (
-            addr
-            + addr_house
-            + " "
-            + addr_street
-            + ", "
-            + get_city()
-            + ", "
-            + get_province()
-        )
-        if addr in d and d[addr][0] != building:
-            d[addr][0] = d[addr][0] + ", " + building
-        else:
-            d[addr] = [building, osm_obj_type, latitude, longitude]
-
-    with open("dict.csv", "w", newline="") as csv_file:
-        writer = csv.writer(csv_file)
-        writer.writerow(
-            [
-                "building_address",
-                "building_type",
-                "osm_obj_type",
-                "latitude",
-                "longitude",
-            ]
-        )
-        for addr in d:
-            writer.writerow([addr, d[addr][0], d[addr][1], d[addr][2], d[addr][3]])
 
     data = dict()
     with open(in_file) as input:
