@@ -18,24 +18,21 @@ def get_province():
 def concatenate_address(in_file):
 
     data = dict()
+    other = dict()
+
     with open(in_file) as input:
         in_reader = csv.DictReader(input)
         for row in in_reader:
+
             data.setdefault(
-                str(
-                    [
-                        row["addr:unit"],
-                        row["addr:housenumber"],
-                        row["addr:street"],
-                        row["osm_obj_type"],
-                        row["latitude"],
-                        row["longitude"],
-                    ]
-                ),
-                [],
+                str([row["addr:unit"], row["addr:housenumber"], row["addr:street"]]), []
             ).append(row["building"])
 
-    with open("dict1.csv", "w") as out:
+            other[
+                str([row["addr:unit"], row["addr:housenumber"], row["addr:street"]])
+            ] = [row["osm_obj_type"], row["latitude"], row["longitude"]]
+
+    with open("dict.csv", "w") as out:
         writer = csv.writer(out)
         writer.writerow(
             [
@@ -62,7 +59,13 @@ def concatenate_address(in_file):
                 else key[1] + " " + key[2] + ", " + get_city() + ", " + get_province()
             )
             writer.writerow(
-                [addr, ", ".join([elem for elem in val]), key[3], key[4], key[5]]
+                [
+                    addr,
+                    ", ".join([elem for elem in val]),
+                    other[str(key)][0],
+                    other[str(key)][1],
+                    other[str(key)][2],
+                ]
             )
 
 
@@ -73,8 +76,8 @@ def create_type_files(in_file):
         outputs = {}
         for row in csvin:
             cat = row["building_type"]
-            # Open a new file and write the header
-            if "," in cat:
+
+            if len(cat.split(",")) > 1:
                 cat = "unknown"
 
             if cat not in outputs:
@@ -98,7 +101,7 @@ def type_histogram(in_file):
     # plt.title('Residential Buildings in the Ottawa Region per type')
 
     df.loc[df["building_type"].str.contains(","), "building_type"] = "unknown"
-    df["building_type"].hist()
+    df["building_type"].hist(density=1)
     plt.show()
 
 
@@ -112,6 +115,8 @@ def count_duplicates(in_file):
     return count
 
 
+"""
+
 def get_duplicate_file(in_file):
     with open(in_file, "r") as input:
         reader = csv.reader(input)
@@ -124,9 +129,10 @@ def get_duplicate_file(in_file):
             out.close()
         input.close()
 
+"""
 
-concatenate_address("sample-input.csv")
+concatenate_address("5-input-filtered-geotagged.csv")
 create_type_files("dict.csv")
-type_histogram("dict.csv")
-count_duplicates("unknown.csv")
-get_duplicate_file("unknown.csv")
+# type_histogram("dict.csv")
+print(count_duplicates("unknown.csv"))
+# get_duplicate_file("unknown.csv")
