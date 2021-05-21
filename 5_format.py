@@ -32,7 +32,7 @@ def concatenate_address(in_file):
                 str([row["addr:unit"], row["addr:housenumber"], row["addr:street"]])
             ] = [row["osm_obj_type"], row["latitude"], row["longitude"]]
 
-    with open("dict.csv", "w") as out:
+    with open("5_formatCSVs/dict.csv", "w") as out:
         writer = csv.writer(out)
         writer.writerow(
             [
@@ -70,7 +70,7 @@ def concatenate_address(in_file):
 
 
 def create_type_files(in_file):
-    with open(in_file) as fin:
+    with open("5_formatCSVs/" + in_file) as fin:
         csvin = csv.DictReader(fin)
         # Category -> open file lookup
         outputs = {}
@@ -81,7 +81,7 @@ def create_type_files(in_file):
                 cat = "unknown"
 
             if cat not in outputs:
-                fout = open("{}.csv".format(cat), "w", newline="")
+                fout = open("5_formatCSVs/{}.csv".format(cat), "w", newline="")
                 dw = csv.DictWriter(fout, fieldnames=csvin.fieldnames)
                 dw.writeheader()
                 outputs[cat] = fout, dw
@@ -107,7 +107,7 @@ def type_histogram(in_file):
 
 def count_duplicates(in_file):
     count = 0
-    with open(in_file, "r") as input:
+    with open("5_formatCSVs/" + in_file, "r") as input:
         reader = csv.reader(input)
         next(reader)
         for idx, row in enumerate(reader):
