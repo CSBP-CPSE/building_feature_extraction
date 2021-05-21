@@ -12,9 +12,9 @@ def get_province():
 	#this method currently only returns Ottawa but in future implimentations might get the city based off the address
 	return "Ontario"
 
-def concatenate_address(file):
+def concatenate_address(in_file):
 	d = dict()
-	f = open(file)
+	f = open(in_file)
 	next(f)
 	for line in f:
 		line = line.strip('\n')
@@ -36,8 +36,8 @@ def concatenate_address(file):
 		for addr in d:
 			writer.writerow([addr, d[addr][0], d[addr][1], d[addr][2], d[addr][3]])
 
-def create_type_files(file):
-	with open(file) as fin:    
+def create_type_files(in_file):
+	with open(in_file) as fin:    
 	    csvin = csv.DictReader(fin)
 	    # Category -> open file lookup
 	    outputs = {}
@@ -59,8 +59,8 @@ def create_type_files(file):
 	        fout.close()
 	    fin.close()
 
-def type_histogram(file):
-	df = pd.read_csv(file)
+def type_histogram(in_file):
+	df = pd.read_csv(in_file)
 	#data.plot(kind='bar')
 	#plt.ylabel('Amount in the Ottawa Region')
 	#plt.xlabel('Residential Building Types')
@@ -71,6 +71,26 @@ def type_histogram(file):
 	df["building_type"].hist()
 	plt.show()
 
+def count_duplicates(in_file):
+    count = 0
+    with open(in_file, "r") as input:
+        reader = csv.reader(input)
+        next(reader)
+        for idx, row in enumerate(reader):
+            count += len(row[1].split(","))
+    return count
+
+def get_duplicate_file(in_file):
+	with open(in_file, "r") as input:
+		reader = csv.reader(input)
+		with open("unknown_separated.csv", "w") as out:
+			writer = csv.writer(out)
+			for idx, row in enumerate(reader):
+				types = row[1].split(",")
+				for _type in types:
+					writer.writerow([row[0], _type.strip(), row[2], row[3], row[4]]) 
+			out.close()
+		input.close()
 
 
 concatenate_address("addresses_inside_polygon.csv")
