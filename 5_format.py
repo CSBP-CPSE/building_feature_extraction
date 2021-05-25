@@ -114,7 +114,7 @@ def count_duplicates(in_file):
         reader = csv.reader(input)
         next(reader)
         for idx, row in enumerate(reader):
-            count += len(row[1].split(","))
+            count += len(row[1].split(",")) - 1
     return count
 
 
