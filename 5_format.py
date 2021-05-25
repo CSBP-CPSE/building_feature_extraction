@@ -3,6 +3,7 @@
 import pandas as pd
 import csv
 import matplotlib.pyplot as plt
+import os
 
 
 def get_city():
@@ -18,7 +19,6 @@ def get_province():
 def concatenate_address(in_file):
 
     data = dict()
-    other = dict()
 
     with open(in_file) as input:
         in_reader = csv.DictReader(input)
@@ -26,13 +26,16 @@ def concatenate_address(in_file):
 
             data.setdefault(
                 str([row["addr:unit"], row["addr:housenumber"], row["addr:street"]]), []
-            ).append(row["building"])
+            ).append(
+                [
+                    row["building"],
+                    row["osm_obj_type"],
+                    row["latitude"],
+                    row["longitude"],
+                ]
+            )
 
-            other[
-                str([row["addr:unit"], row["addr:housenumber"], row["addr:street"]])
-            ] = [row["osm_obj_type"], row["latitude"], row["longitude"]]
-
-    with open("5_formatCSVs/dict.csv", "w") as out:
+    with open("dict.csv", "w") as out:
         writer = csv.writer(out)
         writer.writerow(
             [
@@ -61,16 +64,16 @@ def concatenate_address(in_file):
             writer.writerow(
                 [
                     addr,
-                    ", ".join([elem for elem in val]),
-                    other[str(key)][0],
-                    other[str(key)][1],
-                    other[str(key)][2],
+                    ", ".join([elem[0] for elem in val]),
+                    val[0][1],
+                    val[0][2],
+                    val[0][3],
                 ]
             )
 
 
 def create_type_files(in_file):
-    with open("5_formatCSVs/" + in_file) as fin:
+    with open(in_file) as fin:
         csvin = csv.DictReader(fin)
         # Category -> open file lookup
         outputs = {}
@@ -81,7 +84,7 @@ def create_type_files(in_file):
                 cat = "unknown"
 
             if cat not in outputs:
-                fout = open("5_formatCSVs/{}.csv".format(cat), "w", newline="")
+                fout = open("types/{}.csv".format(cat), "w", newline="")
                 dw = csv.DictWriter(fout, fieldnames=csvin.fieldnames)
                 dw.writeheader()
                 outputs[cat] = fout, dw
@@ -107,7 +110,7 @@ def type_histogram(in_file):
 
 def count_duplicates(in_file):
     count = 0
-    with open("5_formatCSVs/" + in_file, "r") as input:
+    with open(in_file, "r") as input:
         reader = csv.reader(input)
         next(reader)
         for idx, row in enumerate(reader):
@@ -115,24 +118,13 @@ def count_duplicates(in_file):
     return count
 
 
-"""
-
-def get_duplicate_file(in_file):
-    with open(in_file, "r") as input:
-        reader = csv.reader(input)
-        with open("unknown_separated.csv", "w") as out:
-            writer = csv.writer(out)
-            for idx, row in enumerate(reader):
-                types = row[1].split(",")
-                for _type in types:
-                    writer.writerow([row[0], _type.strip(), row[2], row[3], row[4]])
-            out.close()
-        input.close()
-
-"""
+directory = "types"
+try:
+    os.mkdir(directory)
+except:
+    print("Folder already exists.")
 
 concatenate_address("5-input-filtered-geotagged.csv")
 create_type_files("dict.csv")
-# type_histogram("dict.csv")
-print(count_duplicates("unknown.csv"))
-# get_duplicate_file("unknown.csv")
+type_histogram("dict.csv")
+print(count_duplicates("types/unknown.csv"))
