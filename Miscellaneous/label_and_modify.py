@@ -3,6 +3,8 @@ from PIL import Image
 import os
 from zipfile import ZipFile
 import json
+import pandas as pd
+import pathlib
 
 
 def unzip_folder(path):
@@ -21,28 +23,33 @@ def add_to_folder(input_dir, output_dir):
 
     data = dict()
 
-    with open("building_cat/annotations.json") as data_file:
-        d = json.load(data_file)
+    with open("building_cat/annotations.json", encoding="utf-8") as data_file:
+        data_dict = json.load(data_file)
 
-        with open("building_cat/classes.json") as class_file:
-            _d = json.load(class_file)
+        with open("building_cat/classes.json", encoding="utf-8") as class_file:
+            class_dict = json.load(class_file)
 
-            for key, val in d.items():
+            for key, val in data_dict.items():
 
                 if key == "___sa_version___":
                     continue
 
-                classId = d[key]["instances"][0]["classId"]
-                data[key] = _d[classId - 1]["name"]
+                classId = data_dict[key]["instances"][0]["classId"]
+                data[key] = class_dict[classId - 1]["name"]
 
-                set_exif_title("building_apartments_sample_50/" + key, data[key])
+            for key, val in data.items():
+                set_exif_title(
+                    pathlib.Path("building_apartments_sample_50/" + key),
+                    data[key],
+                )
 
-        class_file.close()
-    data_file.close()
-
-    # for filename in os.listdir(input_dir):
-    #     if filename.endswith(".csv"):
-    #         return
+    for filename in os.listdir(input_dir):
+        if filename.endswith(".csv"):
+            df = pd.read_csv(input_dir + "/" + filename)
+            file_name = filename[:-4]
+            df.at[0, "File_Name"] = file_name[0:-10] + data[file_name + ".jpg"]
+            df.at[0, "Class"] = data[file_name + ".jpg"]
+            df.to_csv(input_dir + "/" + filename, index=False)
 
 
 def set_exif_title(image_file, exif_title):
