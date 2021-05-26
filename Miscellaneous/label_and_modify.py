@@ -5,6 +5,7 @@ from zipfile import ZipFile
 import json
 import pandas as pd
 import pathlib
+import shutil
 
 
 def unzip_folder(path):
@@ -25,31 +26,76 @@ def add_to_folder(input_dir, output_dir):
 
     with open("building_cat/annotations.json", encoding="utf-8") as data_file:
         data_dict = json.load(data_file)
-
         with open("building_cat/classes.json", encoding="utf-8") as class_file:
             class_dict = json.load(class_file)
-
             for key, val in data_dict.items():
-
                 if key == "___sa_version___":
                     continue
-
                 classId = data_dict[key]["instances"][0]["classId"]
                 data[key] = class_dict[classId - 1]["name"]
-
             for key, val in data.items():
                 set_exif_title(
                     pathlib.Path("building_apartments_sample_50/" + key),
                     data[key],
                 )
+    for file in os.listdir(input_dir):
 
+        if file.endswith(".csv"):
+            file_name = file[:-4]
+            _type = data[file_name + ".jpg"]
+            df = pd.read_csv(input_dir + "/" + file)
+            df.at[0, "File_Name"] = file_name[0:-10] + _type
+            df.at[0, "Class"] = _type
+            df.to_csv(input_dir + "/" + file, index=False)
+
+        if file.endswith(".csv") or file.endswith(".jpg"):
+            filename = file.replace("apartments", data[file[:-4] + ".jpg"])
+        else:
+            filename = file.replace("apartments", data[file[:-5] + ".jpg"])
+
+        current_directory = os.getcwd()
+        os.rename(
+            r"{0}/building_apartments_sample_50/{1}".format(current_directory, file),
+            r"{0}/building_apartments_sample_50/{1}".format(
+                current_directory, filename
+            ),
+        )
+
+
+def organize_files(input_dir):
     for filename in os.listdir(input_dir):
-        if filename.endswith(".csv"):
-            df = pd.read_csv(input_dir + "/" + filename)
-            file_name = filename[:-4]
-            df.at[0, "File_Name"] = file_name[0:-10] + data[file_name + ".jpg"]
-            df.at[0, "Class"] = data[file_name + ".jpg"]
-            df.to_csv(input_dir + "/" + filename, index=False)
+        if "condominium_apartment" in os.path.basename(filename):
+            shutil.move(
+                "building_apartments_sample_50/" + filename,
+                "condominium_apartment/" + filename,
+            )
+
+        elif "single_detached" in os.path.basename(filename):
+            shutil.move(
+                "building_apartments_sample_50/" + filename,
+                "single_detached/" + filename,
+            )
+
+        elif "prop_with_multiple_res_units" in os.path.basename(filename):
+            shutil.move(
+                "building_apartments_sample_50/" + filename,
+                "prop_with_multiple_res_units/" + filename,
+            )
+
+        elif "row_house" in os.path.basename(filename):
+            shutil.move(
+                "building_apartments_sample_50/" + filename, "row_house/" + filename
+            )
+
+        elif "semi_detached" in os.path.basename(filename):
+            shutil.move(
+                "building_apartments_sample_50/" + filename, "semi_detached/" + filename
+            )
+
+        elif "undetermined" in os.path.basename(filename):
+            shutil.move(
+                "building_apartments_sample_50/" + filename, "undetermined/" + filename
+            )
 
 
 def set_exif_title(image_file, exif_title):
