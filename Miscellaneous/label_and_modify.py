@@ -15,7 +15,7 @@ def unzip_folder(path):
 
 def create_folder(name):
     current_directory = os.getcwd()
-    final_directory = os.path.join(current_directory, r"".format(name))
+    final_directory = os.path.join(current_directory, r"{0}".format(name))
     if not os.path.exists(final_directory):
         os.makedirs(final_directory)
 
@@ -38,6 +38,7 @@ def add_to_folder(input_dir, output_dir):
                     pathlib.Path("building_apartments_sample_50/" + key),
                     data[key],
                 )
+
     for file in os.listdir(input_dir):
 
         if file.endswith(".csv"):
@@ -50,8 +51,10 @@ def add_to_folder(input_dir, output_dir):
 
         if file.endswith(".csv") or file.endswith(".jpg"):
             filename = file.replace("apartments", data[file[:-4] + ".jpg"])
-        else:
+        elif file.endswith(".json"):
             filename = file.replace("apartments", data[file[:-5] + ".jpg"])
+        else:
+            continue
 
         current_directory = os.getcwd()
         os.rename(
@@ -63,39 +66,41 @@ def add_to_folder(input_dir, output_dir):
 
 
 def organize_files(input_dir):
+
+    create_folder("condominium_apartment")
+    create_folder("single_detached")
+    create_folder("prop_with_multiple_res_units")
+    create_folder("row_house")
+    create_folder("semi_detached")
+    create_folder("undetermined")
+
     for filename in os.listdir(input_dir):
         if "condominium_apartment" in os.path.basename(filename):
             shutil.move(
-                "building_apartments_sample_50/" + filename,
-                "condominium_apartment/" + filename,
+                "building_apartments_sample_50/" + filename, "condominium_apartment/"
             )
 
         elif "single_detached" in os.path.basename(filename):
-            shutil.move(
-                "building_apartments_sample_50/" + filename,
-                "single_detached/" + filename,
-            )
+            shutil.move("building_apartments_sample_50/" + filename, "single_detached/")
 
         elif "prop_with_multiple_res_units" in os.path.basename(filename):
+
             shutil.move(
                 "building_apartments_sample_50/" + filename,
-                "prop_with_multiple_res_units/" + filename,
+                "prop_with_multiple_res_units/",
             )
 
         elif "row_house" in os.path.basename(filename):
-            shutil.move(
-                "building_apartments_sample_50/" + filename, "row_house/" + filename
-            )
+
+            shutil.move("building_apartments_sample_50/" + filename, "row_house/")
 
         elif "semi_detached" in os.path.basename(filename):
-            shutil.move(
-                "building_apartments_sample_50/" + filename, "semi_detached/" + filename
-            )
+
+            shutil.move("building_apartments_sample_50/" + filename, "semi_detached/")
 
         elif "undetermined" in os.path.basename(filename):
-            shutil.move(
-                "building_apartments_sample_50/" + filename, "undetermined/" + filename
-            )
+
+            shutil.move("building_apartments_sample_50/" + filename, "undetermined/")
 
 
 def set_exif_title(image_file, exif_title):
@@ -128,4 +133,6 @@ def set_exif_title(image_file, exif_title):
 # unzip_folder("building_apartments_sample.zip")
 # create_folder("output")
 
+
 add_to_folder("building_apartments_sample_50", "output")
+organize_files("building_apartments_sample_50")
