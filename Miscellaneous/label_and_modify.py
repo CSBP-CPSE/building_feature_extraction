@@ -20,7 +20,7 @@ def create_folder(name):
         os.makedirs(final_directory)
 
 
-def add_to_folder(input_dir, output_dir):
+def classify_and_rename(input_dir):
 
     data = dict()
 
@@ -129,8 +129,7 @@ def set_exif_title(image_file, exif_title):
 
 # unzip_folder("building_cat.zip")
 # unzip_folder("building_apartments_sample.zip")
-# create_folder("output")
 
 
-add_to_folder("building_apartments_sample_50", "output")
+classify_and_rename("building_apartments_sample_50", "output")
 organize_files("building_apartments_sample_50")
