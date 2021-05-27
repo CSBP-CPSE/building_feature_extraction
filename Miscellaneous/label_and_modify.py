@@ -66,41 +66,39 @@ def add_to_folder(input_dir, output_dir):
 
 
 def organize_files(input_dir):
-
-    create_folder("condominium_apartment")
-    create_folder("single_detached")
-    create_folder("prop_with_multiple_res_units")
-    create_folder("row_house")
-    create_folder("semi_detached")
-    create_folder("undetermined")
-
+    input_dir = input_dir+"/"
+    
     for filename in os.listdir(input_dir):
+        
         if "condominium_apartment" in os.path.basename(filename):
-            shutil.move(
-                "building_apartments_sample_50/" + filename, "condominium_apartment/"
-            )
+            if not os.path.exists("condominium_apartment"):
+                os.mkdir("condominium_apartment")
+            shutil.move(input_dir+filename, "condominium_apartment/"+filename)
 
         elif "single_detached" in os.path.basename(filename):
-            shutil.move("building_apartments_sample_50/" + filename, "single_detached/")
+            if not os.path.exists("single_detached"):
+                os.mkdir("single_detached")
+            shutil.move(input_dir+filename, "single_detached/"+filename)
 
         elif "prop_with_multiple_res_units" in os.path.basename(filename):
-
-            shutil.move(
-                "building_apartments_sample_50/" + filename,
-                "prop_with_multiple_res_units/",
-            )
+            if not os.path.exists("prop_with_multiple_res_units"):
+                os.mkdir("prop_with_multiple_res_units")
+            shutil.move(input_dir+filename, "prop_with_multiple_res_units/"+filename)
 
         elif "row_house" in os.path.basename(filename):
-
-            shutil.move("building_apartments_sample_50/" + filename, "row_house/")
+            if not os.path.exists("row_house"):
+                os.mkdir("row_house")
+            shutil.move(input_dir+filename, "row_house/"+filename)
 
         elif "semi_detached" in os.path.basename(filename):
-
-            shutil.move("building_apartments_sample_50/" + filename, "semi_detached/")
+            if not os.path.exists("semi_detached"):
+                os.mkdir("semi_detached")
+            shutil.move(input_dir+filename, "semi_detached/"+filename)
 
         elif "undetermined" in os.path.basename(filename):
-
-            shutil.move("building_apartments_sample_50/" + filename, "undetermined/")
+            if not os.path.exists("undetermined"):
+                os.mkdir("undetermined")
+            shutil.move(input_dir+filename, "undetermined/"+filename)
 
 
 def set_exif_title(image_file, exif_title):
