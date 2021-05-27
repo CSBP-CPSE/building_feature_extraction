@@ -1,53 +1,140 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+import pandas as pd
 import csv
+import matplotlib.pyplot as plt
+import os
+
+input_filename = "5-input-filtered-geotagged.csv"
+intermediate_filename = "5-output-types.csv"
 
 
 def get_city():
-	#this method currently only returns Ottawa but in future implimentations might get the city based off the address
-	return "Ottawa"
+    # this method currently only returns Ottawa but in future implimentations might get the city based off the address
+    return "Ottawa"
+
 
 def get_province():
-	#this method currently only returns Ottawa but in future implimentations might get the city based off the address
-	return "Ontario"
-
-def concatenate_address(file):
-	d = dict()
-	f = open(file)
-	next(f)
-	for line in f:
-		line = line.strip('\n')
-		(addr_house, addr_street, building) = line.split(",")
-		addr = addr_house + " " + addr_street + ", " + get_city() + ", " + get_province()
-		if(addr in d):
-			d[addr] = d[addr] + ", " + building
-		else:
-			d[addr] = building
-
-	with open('dict.csv', 'w', newline='') as csv_file:
-		writer = csv.writer(csv_file)
-		writer.writerow(["building_address", "building_type"])
-		for addr, building in d.items():
-			writer.writerow([addr, building])
-
-concatenate_address("addresses_inside_polygon.csv")
+    # this method currently only returns Ottawa but in future implimentations might get the city based off the address
+    return "Ontario"
 
 
-with open('dict.csv') as fin:    
-    csvin = csv.DictReader(fin)
-    # Category -> open file lookup
-    outputs = {}
-    for row in csvin:
-        cat = row['building_type']
-        # Open a new file and write the header
-        if cat not in outputs:
-            fout = open('{}.csv'.format(cat), 'w', newline='')
-            dw = csv.DictWriter(fout, fieldnames=csvin.fieldnames)
-            dw.writeheader()
-            outputs[cat] = fout, dw
-        # Always write the row
-        outputs[cat][1].writerow(row)
-    # Close all the files
-    for fout, _ in outputs.values():
-        fout.close()
+def concatenate_address(in_file):
+
+    data = dict()
+
+    with open(in_file) as input:
+        in_reader = csv.DictReader(input)
+        for row in in_reader:
+
+            data.setdefault(
+                str([row["addr:unit"], row["addr:housenumber"], row["addr:street"]]), []
+            ).append(
+                [
+                    row["building"],
+                    row["osm_obj_type"],
+                    row["id"],
+                    row["latitude"],
+                    row["longitude"],
+                ]
+            )
+
+    with open(intermediate_filename, "w") as out:
+        writer = csv.writer(out)
+        writer.writerow(
+            [
+                "request_address",
+                "building_address",
+                "building_type",
+                "osm_obj_type",
+                "id",
+                "latitude",
+                "longitude",
+            ]
+        )
+        for key, val in data.items():
+            key = eval(key)
+            request_addr = key[1] + " " + key[2] + ", " + get_city() + ", " + get_province()
+            building_address = (
+                key[0]
+                + "-"
+                + key[1]
+                + " "
+                + key[2]
+                + ", "
+                + get_city()
+                + ", "
+                + get_province()
+                if key[0]
+                else request_addr
+            )
+            
+            writer.writerow(
+                [
+                    request_addr,
+                    building_address,
+                    ", ".join([elem[0] for elem in val]),
+                    val[0][1],
+                    val[0][2],
+                    val[0][3],
+                    val[0][4],
+                ]
+            )
+
+
+def create_type_files(in_file):
+    with open(in_file) as fin:
+        csvin = csv.DictReader(fin)
+        # Category -> open file lookup
+        outputs = {}
+        for row in csvin:
+            cat = row["building_type"]
+
+            if len(cat.split(",")) > 1:
+                cat = "unknown"
+
+            if cat not in outputs:
+                fout = open("types/{}.csv".format(cat), "w", newline="")
+                dw = csv.DictWriter(fout, fieldnames=csvin.fieldnames)
+                dw.writeheader()
+                outputs[cat] = fout, dw
+            # Always write the row
+            outputs[cat][1].writerow(row)
+        # Close all the files
+        for fout, _ in outputs.values():
+            fout.close()
+        fin.close()
+
+
+def type_histogram(in_file):
+    df = pd.read_csv(in_file)
+    # data.plot(kind='bar')
+    # plt.ylabel('Amount in the Ottawa Region')
+    # plt.xlabel('Residential Building Types')
+    # plt.title('Residential Buildings in the Ottawa Region per type')
+
+    df.loc[df["building_type"].str.contains(","), "building_type"] = "unknown"
+    df["building_type"].hist(density=1)
+    plt.show()
+
+
+def count_duplicates(in_file):
+    count = 0
+    with open(in_file, "r") as input:
+        reader = csv.reader(input)
+        next(reader)
+        for idx, row in enumerate(reader):
+            count += len(row[2].split(",")) - 1
+    return count
+
+
+directory = "types"
+try:
+    os.mkdir(directory)
+except:
+    print("Folder already exists.")
+
+concatenate_address(input_filename)
+create_type_files(intermediate_filename)
+type_histogram(intermediate_filename)
+print(count_duplicates("types/unknown.csv"))
