@@ -2,12 +2,12 @@
 # coding: utf-8
 
 import csv
+import os
 import osmium as o
 from pyproj import Proj, itransform
 from shapely import wkt
 from shapely.geometry import LineString
 import sys
-
 
 input_osm_data = '4-input-ottawa-nw.osm'
 output_addresses = '5-input-filtered-geotagged.csv'
@@ -32,6 +32,7 @@ class LocationHandler(o.SimpleHandler):
                 location_dict['latitude'] = round(n.location.lat, 7)
                 location_dict['longitude'] = round(n.location.lon, 7)
                 location_dict['osm_obj_type'] = 'node'
+                location_dict['id'] = n.id
                 writer.writerow(location_dict)
         except:
             pass
@@ -53,6 +54,7 @@ class LocationHandler(o.SimpleHandler):
                 location_dict['latitude'] = round(way_centroid[0], 7)
                 location_dict['longitude'] = round(way_centroid[1], 7)
                 location_dict['osm_obj_type'] = 'way'
+                location_dict['id'] = w.id
                 writer.writerow(location_dict)
         except:
             pass
@@ -62,7 +64,7 @@ if os.path.isfile(output_addresses):
 else:
     with open(output_addresses, 'w', newline='', encoding='utf-8') as csvfile:
         wkt_factory = o.geom.WKTFactory()
-        fieldnames = ['osm_obj_type', 'latitude', 'longitude', 'addr:unit']
+        fieldnames = ['osm_obj_type', 'id', 'latitude', 'longitude', 'addr:unit']
         fieldnames.extend(keep_tags)
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, extrasaction='ignore')
         writer.writeheader()
