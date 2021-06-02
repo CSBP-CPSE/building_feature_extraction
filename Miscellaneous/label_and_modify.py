@@ -35,7 +35,7 @@ def classify_and_rename(input_dir):
                 data[key] = class_dict[classId - 1]["name"]
             for key, val in data.items():
                 set_exif_title(
-                    pathlib.Path("building_apartments_sample_50/" + key),
+                    pathlib.Path("{0}}/".format(input_dir) + key),
                     data[key],
                 )
 
@@ -58,10 +58,8 @@ def classify_and_rename(input_dir):
 
         current_directory = os.getcwd()
         os.rename(
-            r"{0}/building_apartments_sample_50/{1}".format(current_directory, file),
-            r"{0}/building_apartments_sample_50/{1}".format(
-                current_directory, filename
-            ),
+            r"{0}/{1}}/{2}".format(current_directory, input_dir, file),
+            r"{0}/{1}}/{2}".format(current_directory, input_dir, filename),
         )
 
 
@@ -129,8 +127,8 @@ def set_exif_title(image_file, exif_title):
         im.close()
 
 
-# unzip_folder("building_cat.zip")
-# unzip_folder("building_apartments_sample.zip")
+unzip_folder("building_cat.zip")
+unzip_folder("building_apartments_sample_100_v1.zip")
 
-classify_and_rename("building_apartments_sample_50")
-organize_files("building_apartments_sample_50")
+classify_and_rename("building_apartments_sample_100_v1")
+organize_files("building_apartments_sample_100_v1")
