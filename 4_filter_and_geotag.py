@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Keep only OSM data with specific tags and geotag the data
+# Inputs:
+# - .osm of nodes and ways
+# - keep_tags -> list of tags required to keep the node or way
+# Outputs:
+# - .csv of geotagged nodes and ways with the given tags
+
 import csv
 import os
 import osmium as o
@@ -9,14 +16,18 @@ from shapely import wkt
 from shapely.geometry import LineString
 import sys
 
+# input/output filenames
 input_osm_data = '4-input-ottawa-nw.osm'
 output_addresses = '5-input-filtered-geotagged.csv'
+# required tags for data to be kept
 keep_tags = ['addr:housenumber', 'addr:street', 'building']
 
 # Geocoordinates projection
 p1 = Proj('+init=epsg:4326')
-p2 = Proj('+proj=lcc +lon_0=-456.6796875 +lat_1=48.4823944 +lat_2=81.6964789 +lat_0=65.0894367 +datum=WGS84 +units=m +no_defs')  # conformal projection
-# transformer = Transformer.from_crs(CRS('WGS84'), CRS(out_projection))
+# conformal projection
+p2 = Proj('+proj=lcc +lon_0=-456.6796875 +lat_1=48.4823944 '
+          '+lat_2=81.6964789 +lat_0=65.0894367 +datum=WGS84 '
+          '+units=m +no_defs')
 
 
 class LocationHandler(o.SimpleHandler):
@@ -27,7 +38,7 @@ class LocationHandler(o.SimpleHandler):
     def node(self, n):
         try:
             node_tags = n.tags
-            if all (k in node_tags for k in keep_tags):
+            if all(k in node_tags for k in keep_tags):
                 location_dict = {tag.k:tag.v for tag in node_tags}
                 location_dict['latitude'] = round(n.location.lat, 7)
                 location_dict['longitude'] = round(n.location.lon, 7)
@@ -48,7 +59,7 @@ class LocationHandler(o.SimpleHandler):
     def way(self, w):
         try:
             way_tags = w.tags
-            if all (k in way_tags for k in keep_tags):
+            if all(k in way_tags for k in keep_tags):
                 location_dict = {tag.k:tag.v for tag in way_tags}
                 way_centroid = self.way_centroid(w)
                 location_dict['latitude'] = round(way_centroid[0], 7)
@@ -58,6 +69,7 @@ class LocationHandler(o.SimpleHandler):
                 writer.writerow(location_dict)
         except:
             pass
+
 
 if os.path.isfile(output_addresses):
     print('File with name output_addresses already exists.')

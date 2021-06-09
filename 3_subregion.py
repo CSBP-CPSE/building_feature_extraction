@@ -1,5 +1,12 @@
-# This script takes as input a .osm file of all nodes, ways, and relations and a kml file that defines a boundary.
-# The output is a .osm file of the nodes and ways from the input .osm that are inside the boundary.
+#!/usr/bin/env python
+# coding: utf-8
+
+# Keep only the OSM data located inside a given boundary
+# Inputs:
+# - .osm file with all OSM nodes, ways, and relations in a selected region
+# - .kml file that defines a boundary
+# Outputs:
+# - .osm file of the nodes and ways inside the boundary
 
 from fastkml import kml
 import os
@@ -19,7 +26,7 @@ p1 = Proj('+init=epsg:4326')
 p2 = Proj('+proj=lcc +lon_0=-97.734375 +lat_1=47.6583799 +lat_2=76.5041114 +lat_0=62.0812457 +datum=WGS84 +units=m +no_defs')  # conformal projection
 
 
-# Read kml file and project boundary coordinates.
+# Read kml file and project boundary coordinates
 with open(kml_input_filename, 'rb') as myfile:
     doc=myfile.read()
 k = kml.KML()
@@ -27,13 +34,9 @@ k.from_string(doc)
 kml_polygon = list(list(k.features())[0].features())[0].geometry.exterior.coords
 boundary_lnglat = [(point[0], point[1]) for point in kml_polygon]  # list of (lon, lat)
 boundary_xy = [node for node in itransform(p1, p2, boundary_lnglat, switch=True)]
-# x = [p[0] for p in boundary_xy]
-# y = [p[1] for p in boundary_xy]
-# plt.plot(x,y)
-# plt.show()
 boundary_poly_xy = Polygon(boundary_xy)  # Polygon to used as boundary shape below
 
-# write new .osm file.
+# write new .osm file
 class DataWriter(o.SimpleHandler):
     def __init__(self, writer):
         o.SimpleHandler.__init__(self)

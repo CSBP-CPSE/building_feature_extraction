@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Use Overpass API to get OSM data
+# Can be used to obtain all data in a boundary
+# Inputs:
+# - overpass_query -> Overpass API query
+# Outputs:
+# - .osm of the query results
+
 import requests
 import json
 import os.path
