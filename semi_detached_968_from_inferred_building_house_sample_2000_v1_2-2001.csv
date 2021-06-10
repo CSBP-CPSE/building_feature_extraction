@@ -1,0 +1,969 @@
+row,osm_obj_type,id,latitude,longitude,unit,street_no,street_name,osm_tag,full_address,request_address,attached_buildings
+2926,way,188659966,45.3567119,-75.7283488,,1310,Meadowlands Drive East,semi_detached_house,"1310 Meadowlands drive east, Ottawa, ON","1310 Meadowlands drive east, Ottawa, ON",2
+3247,way,206203735,45.3682405,-75.7378187,,107,Central Park Drive,semi_detached_house,"107 Central park drive, Ottawa, ON","107 Central park drive, Ottawa, ON",2
+3433,way,207642149,45.4023198,-75.7432051,,219,Carleton Avenue,semi_detached_house,"219 Carleton avenue, Ottawa, ON","219 Carleton avenue, Ottawa, ON",2
+3537,way,213610363,45.3610587,-75.7938516,,408,Britannia Road,semi_detached_house,"408 Britannia road, Ottawa, ON","408 Britannia road, Ottawa, ON",2
+3539,way,213610365,45.3612714,-75.7939791,,402,Britannia Road,semi_detached_house,"402 Britannia road, Ottawa, ON","402 Britannia road, Ottawa, ON",2
+5297,way,249488484,45.3969437,-75.7402969,,385,Piccadilly Avenue North,semi_detached_house,"385 Piccadilly avenue north, Ottawa, ON","385 Piccadilly avenue north, Ottawa, ON",2
+5513,way,254830149,45.38273,-75.7360409,,1323,Coldrey Avenue,semi_detached_house,"1323 Coldrey avenue, Ottawa, ON","1323 Coldrey avenue, Ottawa, ON",2
+5514,way,254830150,45.3827974,-75.7359085,,1319,Coldrey Avenue,semi_detached_house,"1319 Coldrey avenue, Ottawa, ON","1319 Coldrey avenue, Ottawa, ON",2
+5682,way,255471300,45.3982794,-75.7354368,,11,Warren Avenue,semi_detached_house,"11 Warren avenue, Ottawa, ON","11 Warren avenue, Ottawa, ON",2
+5731,way,255476393,45.3982425,-75.7325237,,184,Huron Avenue North,semi_detached_house,"184 Huron avenue north, Ottawa, ON","184 Huron avenue north, Ottawa, ON",2
+5941,way,257905316,45.3759349,-75.7538846,,836,Broadview Avenue,semi_detached_house,"836 Broadview avenue, Ottawa, ON","836 Broadview avenue, Ottawa, ON",2
+6307,way,260896843,45.4499249,-75.6664624,,27,Bittern Court,semi_detached_house,"27 Bittern court, Ottawa, ON","27 Bittern court, Ottawa, ON",2
+6375,way,261872944,45.3940399,-75.7282423,,127,Kenilworth Street,semi_detached_house,"127 Kenilworth street, Ottawa, ON","127 Kenilworth street, Ottawa, ON",2
+6539,way,262798637,45.3963158,-75.7267085,,550,Parkdale Avenue,semi_detached_house,"550 Parkdale avenue, Ottawa, ON","550 Parkdale avenue, Ottawa, ON",2
+6692,way,264034212,45.392949,-75.7333017,,133,Clarendon Avenue,semi_detached_house,"133 Clarendon avenue, Ottawa, ON","133 Clarendon avenue, Ottawa, ON",2
+7092,way,280612586,45.3676621,-75.7080192,,984,Eiffel Avenue,semi_detached_house,"984 Eiffel avenue, Ottawa, ON","984 Eiffel avenue, Ottawa, ON",2
+7577,way,295419956,45.4097392,-75.6874464,,101,Pretoria Avenue,semi_detached_house,"101 Pretoria avenue, Ottawa, ON","101 Pretoria avenue, Ottawa, ON",2
+8232,way,307655257,45.4704067,-75.4987123,,1540,Prestwick Drive,semi_detached_house,"1540 Prestwick drive, Ottawa, ON","1540 Prestwick drive, Ottawa, ON",2
+9040,way,318393278,45.3618343,-75.794858,,375,Zephyr Avenue,semi_detached_house,"375 Zephyr avenue, Ottawa, ON","375 Zephyr avenue, Ottawa, ON",2
+9689,way,322263238,45.3634873,-75.7919668,,351,Poulin Avenue,semi_detached_house,"351 Poulin avenue, Ottawa, ON","351 Poulin avenue, Ottawa, ON",2
+9711,way,322263261,45.3649841,-75.7919814,,2649,Don Street,semi_detached_house,"2649 Don street, Ottawa, ON","2649 Don street, Ottawa, ON",2
+9718,way,322263274,45.3648461,-75.7924051,,2659,Don Street,semi_detached_house,"2659 Don street, Ottawa, ON","2659 Don street, Ottawa, ON",2
+9733,way,322263301,45.3622991,-75.7918014,,2678,Marie Street,semi_detached_house,"2678 Marie street, Ottawa, ON","2678 Marie street, Ottawa, ON",2
+10064,way,349866229,45.3648669,-75.7426518,,1217 A,Cameo Drive,semi_detached_house,"1217 A Cameo drive, Ottawa, ON","1217 A Cameo drive, Ottawa, ON",2
+10184,way,356133419,45.3580599,-75.7730677,,2033,Kingsley Road,semi_detached_house,"2033 Kingsley road, Ottawa, ON","2033 Kingsley road, Ottawa, ON",2
+10440,way,358356625,45.4810345,-75.5228079,,1088,Ormes Place,semi_detached_house,"1088 Ormes place, Ottawa, ON","1088 Ormes place, Ottawa, ON",2
+10458,way,358356648,45.4813771,-75.5222735,,1089,Ormes Place,semi_detached_house,"1089 Ormes place, Ottawa, ON","1089 Ormes place, Ottawa, ON",2
+10477,way,358360581,45.4826746,-75.5304168,,1124,Avignon Court,semi_detached_house,"1124 Avignon court, Ottawa, ON","1124 Avignon court, Ottawa, ON",2
+10514,way,358360620,45.482595,-75.5304144,,1126,Avignon Court,semi_detached_house,"1126 Avignon court, Ottawa, ON","1126 Avignon court, Ottawa, ON",2
+10530,way,358360641,45.4828287,-75.5252238,,7909,Jeanne-d'Arc Boulevard North,semi_detached_house,"7909 Jeanne-d'arc boulevard north, Ottawa, ON","7909 Jeanne-d'arc boulevard north, Ottawa, ON",2
+12133,way,381169723,45.4034357,-75.7282556,,321,Hinchey Avenue,semi_detached_house,"321 Hinchey avenue, Ottawa, ON","321 Hinchey avenue, Ottawa, ON",2
+12439,way,384132301,45.4083263,-75.7312017,,143,Hinchey Avenue,semi_detached_house,"143 Hinchey avenue, Ottawa, ON","143 Hinchey avenue, Ottawa, ON",2
+12488,way,385058860,45.4078701,-75.7292487,,35,Lyndale Avenue,semi_detached_house,"35 Lyndale avenue, Ottawa, ON","35 Lyndale avenue, Ottawa, ON",2
+12570,way,385064868,45.3990223,-75.7259239,,9,Sims Avenue,semi_detached_house,"9 Sims avenue, Ottawa, ON","9 Sims avenue, Ottawa, ON",2
+12611,way,385065073,45.3994265,-75.7277811,,1196,Gladstone Avenue,semi_detached_house,"1196 Gladstone avenue, Ottawa, ON","1196 Gladstone avenue, Ottawa, ON",2
+12731,way,386103940,45.3987739,-75.728167,,466,Parkdale Avenue,semi_detached_house,"466 Parkdale avenue, Ottawa, ON","466 Parkdale avenue, Ottawa, ON",2
+12946,way,386727965,45.3915012,-75.7425623,,501,Hilson Avenue,semi_detached_house,"501 Hilson avenue, Ottawa, ON","501 Hilson avenue, Ottawa, ON",2
+12971,way,386727992,45.391723,-75.7426726,,495,Hilson Avenue,semi_detached_house,"495 Hilson avenue, Ottawa, ON","495 Hilson avenue, Ottawa, ON",2
+13937,way,389995800,45.3979461,-75.7556592,,300,Beechgrove Avenue,semi_detached_house,"300 Beechgrove avenue, Ottawa, ON","300 Beechgrove avenue, Ottawa, ON",2
+13972,way,389996207,45.3966877,-75.7587051,,243,Atlantis Avenue,semi_detached_house,"243 Atlantis avenue, Ottawa, ON","243 Atlantis avenue, Ottawa, ON",2
+14297,way,399560374,45.3758041,-75.7406125,,1506,Raven Avenue,semi_detached_house,"1506 Raven avenue, Ottawa, ON","1506 Raven avenue, Ottawa, ON",2
+14500,way,399565378,45.3780978,-75.7354038,,992,Kirkwood Avenue,semi_detached_house,"992 Kirkwood avenue, Ottawa, ON","992 Kirkwood avenue, Ottawa, ON",2
+14535,way,399565424,45.3775301,-75.7366047,,1410,Raven Avenue,semi_detached_house,"1410 Raven avenue, Ottawa, ON","1410 Raven avenue, Ottawa, ON",2
+14576,way,399565802,45.3786141,-75.7402009,,1456,Laperriere Avenue,semi_detached_house,"1456 Laperriere avenue, Ottawa, ON","1456 Laperriere avenue, Ottawa, ON",2
+14720,way,420875741,45.2788453,-75.7565868,,70,Sherway Drive,semi_detached_house,"70 Sherway drive, Ottawa, ON","70 Sherway drive, Ottawa, ON",2
+14732,way,420875757,45.2759795,-75.7564172,,126,Sherway Drive,semi_detached_house,"126 Sherway drive, Ottawa, ON","126 Sherway drive, Ottawa, ON",2
+14862,way,421862118,45.2768871,-75.7550953,,172,Burnett's Grove Circle,semi_detached_house,"172 Burnett's grove circle, Ottawa, ON","172 Burnett's grove circle, Ottawa, ON",2
+14886,way,422269296,45.2756021,-75.7561813,,24,Dolan Drive,semi_detached_house,"24 Dolan drive, Ottawa, ON","24 Dolan drive, Ottawa, ON",2
+15003,way,427694434,45.2785885,-75.7532708,,120,Burnett's Grove Circle,semi_detached_house,"120 Burnett's grove circle, Ottawa, ON","120 Burnett's grove circle, Ottawa, ON",2
+15017,way,427694448,45.2763095,-75.755642,,8,Dolan Drive,semi_detached_house,"8 Dolan drive, Ottawa, ON","8 Dolan drive, Ottawa, ON",2
+15045,way,427694484,45.2805836,-75.7545391,,52,Burnett's Grove Circle,semi_detached_house,"52 Burnett's grove circle, Ottawa, ON","52 Burnett's grove circle, Ottawa, ON",2
+15322,way,441852946,45.398644,-75.7209763,,34,Kinnear Street,semi_detached_house,"34 Kinnear street, Ottawa, ON","34 Kinnear street, Ottawa, ON",2
+15467,way,441861819,45.4037309,-75.72215,,80,Irving Avenue,semi_detached_house,"80 Irving avenue, Ottawa, ON","80 Irving avenue, Ottawa, ON",2
+15495,way,441861865,45.4005326,-75.7182072,,129,Young Street,semi_detached_house,"129 Young street, Ottawa, ON","129 Young street, Ottawa, ON",2
+15583,way,441862948,45.401107,-75.7231869,,1095,Gladstone Avenue,semi_detached_house,"1095 Gladstone avenue, Ottawa, ON","1095 Gladstone avenue, Ottawa, ON",2
+15634,way,441863698,45.4017844,-75.7189878,,135,Spadina Avenue,semi_detached_house,"135 Spadina avenue, Ottawa, ON","135 Spadina avenue, Ottawa, ON",2
+17263,way,446397410,45.4544437,-75.4456438,,2470,Trim Road,semi_detached_house,"2470 Trim road, Ottawa, ON","2470 Trim road, Ottawa, ON",2
+17654,way,447222310,45.3347425,-75.6721859,,23,Kingsland Private,semi_detached_house,"23 Kingsland private, Ottawa, ON","23 Kingsland private, Ottawa, ON",2
+17660,way,447222351,45.3338624,-75.670037,,29,McGill Private,semi_detached_house,"29 Mcgill private, Ottawa, ON","29 Mcgill private, Ottawa, ON",2
+18545,way,453302889,45.4266502,-75.663505,,57,Columbus Avenue,semi_detached_house,"57 Columbus avenue, Ottawa, ON","57 Columbus avenue, Ottawa, ON",2
+18901,way,458790305,45.4315454,-75.6948487,,92,St. Andrew Street,semi_detached_house,"92 St. andrew street, Ottawa, ON","92 St. andrew street, Ottawa, ON",2
+18902,way,458790306,45.4314924,-75.6949733,,88,St. Andrew Street,semi_detached_house,"88 St. andrew street, Ottawa, ON","88 St. andrew street, Ottawa, ON",2
+18912,way,458860372,45.4327105,-75.6949732,,111,Bruyère Street,semi_detached_house,"111 Bruyère street, Ottawa, ON","111 Bruyère street, Ottawa, ON",2
+18919,way,458861470,45.4344857,-75.6956558,,113,Dalhousie Street,semi_detached_house,"113 Dalhousie street, Ottawa, ON","113 Dalhousie street, Ottawa, ON",2
+19025,way,459246303,45.4337891,-75.6948127,,157,Cathcart Street,semi_detached_house,"157 Cathcart street, Ottawa, ON","157 Cathcart street, Ottawa, ON",2
+19026,way,459246304,45.4338469,-75.6947313,,163,Cathcart Street,semi_detached_house,"163 Cathcart street, Ottawa, ON","163 Cathcart street, Ottawa, ON",2
+19028,way,459246308,45.4340324,-75.6942346,,187,Cathcart Street,semi_detached_house,"187 Cathcart street, Ottawa, ON","187 Cathcart street, Ottawa, ON",2
+19128,way,459468394,45.4352465,-75.6917078,,106,King Edward Avenue,semi_detached_house,"106 King edward avenue, Ottawa, ON","106 King edward avenue, Ottawa, ON",2
+19150,way,459468730,45.4333488,-75.6927443,,176,Bruyère Street,semi_detached_house,"176 Bruyère street, Ottawa, ON","176 Bruyère street, Ottawa, ON",2
+19529,way,460112314,45.4354519,-75.6864662,,485,St. Patrick Street,semi_detached_house,"485 St. patrick street, Ottawa, ON","485 St. patrick street, Ottawa, ON",2
+19660,way,460237006,45.4032886,-75.7041358,,288,Bell Street South,semi_detached_house,"288 Bell street south, Ottawa, ON","288 Bell street south, Ottawa, ON",2
+19688,way,460240117,45.4038685,-75.704489,,272,Bell Street South,semi_detached_house,"272 Bell street south, Ottawa, ON","272 Bell street south, Ottawa, ON",2
+19689,way,460240118,45.4037988,-75.7046898,,2,Orangeville Street,semi_detached_house,"2 Orangeville street, Ottawa, ON","2 Orangeville street, Ottawa, ON",2
+20019,way,460841737,45.4124547,-75.6975681,,79,James Street,semi_detached_house,"79 James street, Ottawa, ON","79 James street, Ottawa, ON",2
+30074,way,470087539,45.2492035,-75.737175,,2457,Regatta Avenue,semi_detached_house,"2457 Regatta avenue, Ottawa, ON","2457 Regatta avenue, Ottawa, ON",2
+33168,way,470293909,45.476763,-75.4500608,,2357,Glandriel Crescent,semi_detached_house,"2357 Glandriel crescent, Ottawa, ON","2357 Glandriel crescent, Ottawa, ON",2
+35256,way,470424304,45.2623868,-75.7618898,,281,Broxburn Crescent,semi_detached_house,"281 Broxburn crescent, Ottawa, ON","281 Broxburn crescent, Ottawa, ON",2
+35571,way,470424635,45.2610092,-75.7631986,,267,Harthill Way,semi_detached_house,"267 Harthill way, Ottawa, ON","267 Harthill way, Ottawa, ON",2
+35934,way,470425012,45.2613766,-75.7635087,,279,Harthill Way,semi_detached_house,"279 Harthill way, Ottawa, ON","279 Harthill way, Ottawa, ON",2
+36206,way,470425292,45.2744238,-75.7624159,,214,Sherway Drive,semi_detached_house,"214 Sherway drive, Ottawa, ON","214 Sherway drive, Ottawa, ON",2
+37002,way,470426118,45.2617997,-75.7632996,,217,Harthill Way,semi_detached_house,"217 Harthill way, Ottawa, ON","217 Harthill way, Ottawa, ON",2
+37182,way,470442324,45.2738022,-75.7615794,,26,Aldgate Crescent,semi_detached_house,"26 Aldgate crescent, Ottawa, ON","26 Aldgate crescent, Ottawa, ON",2
+37736,way,470443761,45.2724597,-75.7503702,,55,Exeter Drive,semi_detached_house,"55 Exeter drive, Ottawa, ON","55 Exeter drive, Ottawa, ON",2
+37768,way,470443796,45.2743095,-75.7565491,,65,Dolan Drive,semi_detached_house,"65 Dolan drive, Ottawa, ON","65 Dolan drive, Ottawa, ON",2
+37975,way,470444016,45.2738302,-75.7613053,,30,Aldgate Crescent,semi_detached_house,"30 Aldgate crescent, Ottawa, ON","30 Aldgate crescent, Ottawa, ON",2
+38136,way,470444184,45.2711649,-75.7548669,,15,Tulane Crescent,semi_detached_house,"15 Tulane crescent, Ottawa, ON","15 Tulane crescent, Ottawa, ON",2
+38230,way,470444281,45.2711171,-75.7545531,,11,Tulane Crescent,semi_detached_house,"11 Tulane crescent, Ottawa, ON","11 Tulane crescent, Ottawa, ON",2
+39635,way,470453237,45.2726249,-75.7198571,,182,Sorento Street,semi_detached_house,"182 Sorento street, Ottawa, ON","182 Sorento street, Ottawa, ON",2
+42840,way,470836413,45.2719277,-75.7172017,,235,Moss Grove Street,semi_detached_house,"235 Moss grove street, Ottawa, ON","235 Moss grove street, Ottawa, ON",2
+44208,way,470869425,45.286942,-75.7528625,,25,Fieldgate Drive,semi_detached_house,"25 Fieldgate drive, Ottawa, ON","25 Fieldgate drive, Ottawa, ON",2
+44412,way,470869647,45.2888271,-75.7545909,,128,Fieldgate Drive,semi_detached_house,"128 Fieldgate drive, Ottawa, ON","128 Fieldgate drive, Ottawa, ON",2
+44468,way,470869703,45.2837929,-75.7515448,,28,Foxfield Drive,semi_detached_house,"28 Foxfield drive, Ottawa, ON","28 Foxfield drive, Ottawa, ON",2
+44713,way,470869950,45.2872485,-75.7558726,,80,Fieldgate Drive,semi_detached_house,"80 Fieldgate drive, Ottawa, ON","80 Fieldgate drive, Ottawa, ON",2
+44831,way,470870071,45.287076,-75.7557681,,76,Fieldgate Drive,semi_detached_house,"76 Fieldgate drive, Ottawa, ON","76 Fieldgate drive, Ottawa, ON",2
+44983,way,470870225,45.2822252,-75.7570474,,46,Ventnor Way,semi_detached_house,"46 Ventnor way, Ottawa, ON","46 Ventnor way, Ottawa, ON",2
+45152,way,470870474,45.2837078,-75.7517914,,24,Foxfield Drive,semi_detached_house,"24 Foxfield drive, Ottawa, ON","24 Foxfield drive, Ottawa, ON",2
+45197,way,470870520,45.2763509,-75.7510478,,46,Alberni Street,semi_detached_house,"46 Alberni street, Ottawa, ON","46 Alberni street, Ottawa, ON",2
+45325,way,470870660,45.2781949,-75.7579168,,13,Tedwyn Drive,semi_detached_house,"13 Tedwyn drive, Ottawa, ON","13 Tedwyn drive, Ottawa, ON",2
+45406,way,470870746,45.2863912,-75.7520811,,32,Knollsbrook Drive,semi_detached_house,"32 Knollsbrook drive, Ottawa, ON","32 Knollsbrook drive, Ottawa, ON",2
+45471,way,470870814,45.2867711,-75.7520219,,16,Fieldgate Drive,semi_detached_house,"16 Fieldgate drive, Ottawa, ON","16 Fieldgate drive, Ottawa, ON",2
+45500,way,470870843,45.2836122,-75.7549179,,7,Ventnor Way,semi_detached_house,"7 Ventnor way, Ottawa, ON","7 Ventnor way, Ottawa, ON",2
+45552,way,470870895,45.2820591,-75.7574404,,52,Ventnor Way,semi_detached_house,"52 Ventnor way, Ottawa, ON","52 Ventnor way, Ottawa, ON",2
+45579,way,470870923,45.2878122,-75.7416003,,1,Boulder Way,semi_detached_house,"1 Boulder way, Ottawa, ON","1 Boulder way, Ottawa, ON",2
+45791,way,471109702,45.2439646,-75.9109057,,189,Hartsmere Drive,semi_detached_house,"189 Hartsmere drive, Ottawa, ON","189 Hartsmere drive, Ottawa, ON",2
+53038,way,471306318,45.2792577,-75.7356362,,124,Calaveras Avenue,semi_detached_house,"124 Calaveras avenue, Ottawa, ON","124 Calaveras avenue, Ottawa, ON",2
+53201,way,471306488,45.2822233,-75.7315831,,99,Fairlop Way,semi_detached_house,"99 Fairlop way, Ottawa, ON","99 Fairlop way, Ottawa, ON",2
+53307,way,471306601,45.2863399,-75.7301079,,113,Claridge Drive,semi_detached_house,"113 Claridge drive, Ottawa, ON","113 Claridge drive, Ottawa, ON",2
+53580,way,471306946,45.2791922,-75.7305467,,3,Gleeson Way,semi_detached_house,"3 Gleeson way, Ottawa, ON","3 Gleeson way, Ottawa, ON",2
+54459,way,471307949,45.2820073,-75.7377188,,89,Upminster Way,semi_detached_house,"89 Upminster way, Ottawa, ON","89 Upminster way, Ottawa, ON",2
+54612,way,471308139,45.2873175,-75.7283258,,102,Watershield Ridge,semi_detached_house,"102 Watershield ridge, Ottawa, ON","102 Watershield ridge, Ottawa, ON",2
+54630,way,471308159,45.2780874,-75.7287083,,110,Deerfox Drive,semi_detached_house,"110 Deerfox drive, Ottawa, ON","110 Deerfox drive, Ottawa, ON",2
+54988,way,471308603,45.2828555,-75.7377047,,65,Upminster Way,semi_detached_house,"65 Upminster way, Ottawa, ON","65 Upminster way, Ottawa, ON",2
+55042,way,471308660,45.278326,-75.7281046,,96,Deerfox Drive,semi_detached_house,"96 Deerfox drive, Ottawa, ON","96 Deerfox drive, Ottawa, ON",2
+55493,way,471309137,45.278872,-75.7310624,,36,Palmadeo Drive,semi_detached_house,"36 Palmadeo drive, Ottawa, ON","36 Palmadeo drive, Ottawa, ON",2
+55730,way,471309399,45.2799584,-75.7340218,,90,Calaveras Avenue,semi_detached_house,"90 Calaveras avenue, Ottawa, ON","90 Calaveras avenue, Ottawa, ON",2
+55916,way,471313986,45.2819506,-75.7123045,,140,Waterbridge Drive,semi_detached_house,"140 Waterbridge drive, Ottawa, ON","140 Waterbridge drive, Ottawa, ON",2
+56640,way,471314813,45.2756482,-75.6982189,,307,Riversedge Crescent,semi_detached_house,"307 Riversedge crescent, Ottawa, ON","307 Riversedge crescent, Ottawa, ON",2
+56903,way,471315164,45.2768081,-75.6984892,,214,Tewsley Drive,semi_detached_house,"214 Tewsley drive, Ottawa, ON","214 Tewsley drive, Ottawa, ON",2
+56948,way,471315342,45.2832712,-75.7055821,,58,Selhurst Avenue,semi_detached_house,"58 Selhurst avenue, Ottawa, ON","58 Selhurst avenue, Ottawa, ON",2
+57438,way,471316075,45.2760136,-75.6984333,,310,Riversedge Crescent,semi_detached_house,"310 Riversedge crescent, Ottawa, ON","310 Riversedge crescent, Ottawa, ON",2
+57600,way,471316247,45.2769486,-75.6981434,,222,Tewsley Drive,semi_detached_house,"222 Tewsley drive, Ottawa, ON","222 Tewsley drive, Ottawa, ON",2
+57822,way,471316507,45.2764339,-75.6983137,,213,Tewsley Drive,semi_detached_house,"213 Tewsley drive, Ottawa, ON","213 Tewsley drive, Ottawa, ON",2
+58549,way,471330679,45.2926132,-75.7397627,,53,Sutcliffe Terrace,semi_detached_house,"53 Sutcliffe terrace, Ottawa, ON","53 Sutcliffe terrace, Ottawa, ON",2
+59475,way,471491405,45.2651205,-75.9280775,,1329,Stittsville Main Street,semi_detached_house,"1329 Stittsville main street, Ottawa, ON","1329 Stittsville main street, Ottawa, ON",2
+59541,way,471498105,45.2706866,-75.8547511,,109,Freeport Drive,semi_detached_house,"109 Freeport drive, Ottawa, ON","109 Freeport drive, Ottawa, ON",2
+63217,way,471675935,45.3317694,-75.745449,,115,Benlea Drive,semi_detached_house,"115 Benlea drive, Ottawa, ON","115 Benlea drive, Ottawa, ON",2
+63391,way,471676221,45.3325965,-75.745772,,2,Lansfield Way,semi_detached_house,"2 Lansfield way, Ottawa, ON","2 Lansfield way, Ottawa, ON",2
+63614,way,471676511,45.3325281,-75.7459905,,26,Kidgrove Garden,semi_detached_house,"26 Kidgrove garden, Ottawa, ON","26 Kidgrove garden, Ottawa, ON",2
+63822,way,471676885,45.3319262,-75.7425084,,75,Benlea Drive,semi_detached_house,"75 Benlea drive, Ottawa, ON","75 Benlea drive, Ottawa, ON",2
+63865,way,471676938,45.3335126,-75.7445859,,5,Kidgrove Garden,semi_detached_house,"5 Kidgrove garden, Ottawa, ON","5 Kidgrove garden, Ottawa, ON",2
+64421,way,471797473,45.2724002,-75.9276753,,27,Stowgrass Crescent,semi_detached_house,"27 Stowgrass crescent, Ottawa, ON","27 Stowgrass crescent, Ottawa, ON",2
+64526,way,471797684,45.2715769,-75.9279348,,12,Stowgrass Crescent,semi_detached_house,"12 Stowgrass crescent, Ottawa, ON","12 Stowgrass crescent, Ottawa, ON",2
+64567,way,471797776,45.2717615,-75.9277002,,16,Stowgrass Crescent,semi_detached_house,"16 Stowgrass crescent, Ottawa, ON","16 Stowgrass crescent, Ottawa, ON",2
+66155,way,471811930,45.277549,-75.9296272,,268,Mojave Crescent,semi_detached_house,"268 Mojave crescent, Ottawa, ON","268 Mojave crescent, Ottawa, ON",2
+66335,way,471812133,45.2770668,-75.9279953,,188,Mojave Crescent,semi_detached_house,"188 Mojave crescent, Ottawa, ON","188 Mojave crescent, Ottawa, ON",2
+66404,way,471812227,45.2781656,-75.9286564,,237,Mojave Crescent,semi_detached_house,"237 Mojave crescent, Ottawa, ON","237 Mojave crescent, Ottawa, ON",2
+66420,way,471812245,45.2771609,-75.929452,,514,Cherokee Way,semi_detached_house,"514 Cherokee way, Ottawa, ON","514 Cherokee way, Ottawa, ON",2
+74549,way,472168481,45.3339748,-75.7374514,,130,Woodfield Drive,semi_detached_house,"130 Woodfield drive, Ottawa, ON","130 Woodfield drive, Ottawa, ON",2
+74580,way,472168518,45.3352376,-75.7337174,,22,Downsview Crescent,semi_detached_house,"22 Downsview crescent, Ottawa, ON","22 Downsview crescent, Ottawa, ON",2
+74694,way,472168651,45.3340426,-75.7355253,,69,Downsview Crescent,semi_detached_house,"69 Downsview crescent, Ottawa, ON","69 Downsview crescent, Ottawa, ON",2
+74701,way,472168658,45.3348582,-75.7333374,,35,Downsview Crescent,semi_detached_house,"35 Downsview crescent, Ottawa, ON","35 Downsview crescent, Ottawa, ON",2
+74824,way,472168867,45.3362158,-75.7329402,,66,Woodfield Drive,semi_detached_house,"66 Woodfield drive, Ottawa, ON","66 Woodfield drive, Ottawa, ON",2
+74874,way,472169167,45.2740129,-75.6884265,,4156,Green Gables Lane,semi_detached_house,"4156 Green gables lane, Ottawa, ON","4156 Green gables lane, Ottawa, ON",2
+75178,way,472211907,45.4772201,-75.4562947,,2231,Mondavi Street,semi_detached_house,"2231 Mondavi street, Ottawa, ON","2231 Mondavi street, Ottawa, ON",2
+81097,way,472233804,45.3338494,-75.764117,,107,Chartwell Avenue,semi_detached_house,"107 Chartwell avenue, Ottawa, ON","107 Chartwell avenue, Ottawa, ON",2
+81115,way,472233822,45.3332844,-75.7632253,,23,Colfax Street,semi_detached_house,"23 Colfax street, Ottawa, ON","23 Colfax street, Ottawa, ON",2
+81243,way,472233957,45.3331922,-75.7626518,,32,Bertona Street,semi_detached_house,"32 Bertona street, Ottawa, ON","32 Bertona street, Ottawa, ON",2
+81309,way,472234024,45.3337191,-75.7638936,,35,Colfax Street,semi_detached_house,"35 Colfax street, Ottawa, ON","35 Colfax street, Ottawa, ON",2
+81807,way,472236362,45.3287577,-75.77508,,98,Elvaston Avenue,semi_detached_house,"98 Elvaston avenue, Ottawa, ON","98 Elvaston avenue, Ottawa, ON",2
+83370,way,472250058,45.3258422,-75.7945434,,45,Hobart Crescent,semi_detached_house,"45 Hobart crescent, Ottawa, ON","45 Hobart crescent, Ottawa, ON",2
+83396,way,472250085,45.3268581,-75.7905467,,116,Hobart Crescent,semi_detached_house,"116 Hobart crescent, Ottawa, ON","116 Hobart crescent, Ottawa, ON",2
+83619,way,472250309,45.3263924,-75.790213,,121,Hobart Crescent,semi_detached_house,"121 Hobart crescent, Ottawa, ON","121 Hobart crescent, Ottawa, ON",2
+83637,way,472250342,45.3268773,-75.789285,,171,McClellan Road,semi_detached_house,"171 Mcclellan road, Ottawa, ON","171 Mcclellan road, Ottawa, ON",2
+83650,way,472250355,45.3256551,-75.792161,,89,Hobart Crescent,semi_detached_house,"89 Hobart crescent, Ottawa, ON","89 Hobart crescent, Ottawa, ON",2
+84344,way,472253289,45.3298384,-75.7782801,,49,Bainbridge Avenue,semi_detached_house,"49 Bainbridge avenue, Ottawa, ON","49 Bainbridge avenue, Ottawa, ON",2
+84474,way,472253470,45.3314672,-75.7758417,,21,Shoreham Avenue,semi_detached_house,"21 Shoreham avenue, Ottawa, ON","21 Shoreham avenue, Ottawa, ON",2
+84505,way,472253502,45.3316229,-75.7763926,,22,Shoreham Avenue,semi_detached_house,"22 Shoreham avenue, Ottawa, ON","22 Shoreham avenue, Ottawa, ON",2
+84522,way,472253519,45.3291695,-75.7751765,,61,Elvaston Avenue,semi_detached_house,"61 Elvaston avenue, Ottawa, ON","61 Elvaston avenue, Ottawa, ON",2
+84533,way,472253530,45.3345966,-75.7814522,,15,Westfield Crescent,semi_detached_house,"15 Westfield crescent, Ottawa, ON","15 Westfield crescent, Ottawa, ON",2
+84604,way,472253612,45.3294984,-75.7747354,,27,Winlock Crescent,semi_detached_house,"27 Winlock crescent, Ottawa, ON","27 Winlock crescent, Ottawa, ON",2
+84675,way,472254681,45.3290455,-75.7923038,,103,McClellan Road,semi_detached_house,"103 Mcclellan road, Ottawa, ON","103 Mcclellan road, Ottawa, ON",2
+84894,way,472254907,45.3335952,-75.7919963,,77,Abingdon Drive,semi_detached_house,"77 Abingdon drive, Ottawa, ON","77 Abingdon drive, Ottawa, ON",2
+87011,way,472269495,45.3377463,-75.7856028,,3,Meadowbank Drive,semi_detached_house,"3 Meadowbank drive, Ottawa, ON","3 Meadowbank drive, Ottawa, ON",2
+87162,way,472269812,45.3374302,-75.785104,,8,Meadowbank Drive,semi_detached_house,"8 Meadowbank drive, Ottawa, ON","8 Meadowbank drive, Ottawa, ON",2
+87502,way,472271750,45.3382614,-75.7830347,,40,Meadowbank Drive,semi_detached_house,"40 Meadowbank drive, Ottawa, ON","40 Meadowbank drive, Ottawa, ON",2
+87658,way,472271951,45.3383624,-75.7827822,,44,Meadowbank Drive,semi_detached_house,"44 Meadowbank drive, Ottawa, ON","44 Meadowbank drive, Ottawa, ON",2
+87673,way,472272004,45.3386774,-75.7833407,,39,Meadowbank Drive,semi_detached_house,"39 Meadowbank drive, Ottawa, ON","39 Meadowbank drive, Ottawa, ON",2
+87772,way,472297179,45.3073863,-75.9046561,,71,McGibbon Drive,semi_detached_house,"71 Mcgibbon drive, Ottawa, ON","71 Mcgibbon drive, Ottawa, ON",2
+87788,way,472299423,45.3142397,-75.9186845,,1,Highmont Court,semi_detached_house,"1 Highmont court, Ottawa, ON","1 Highmont court, Ottawa, ON",2
+89482,way,472329321,45.2821582,-75.8705229,,629,Moorpark Avenue,semi_detached_house,"629 Moorpark avenue, Ottawa, ON","629 Moorpark avenue, Ottawa, ON",2
+89496,way,472329352,45.2820254,-75.8710929,,617,Moorpark Avenue,semi_detached_house,"617 Moorpark avenue, Ottawa, ON","617 Moorpark avenue, Ottawa, ON",2
+90477,way,472365523,45.3122319,-75.8854322,,31,Chimo Drive,semi_detached_house,"31 Chimo drive, Ottawa, ON","31 Chimo drive, Ottawa, ON",2
+90689,way,472365780,45.308593,-75.8879275,,12,Berton Place,semi_detached_house,"12 Berton place, Ottawa, ON","12 Berton place, Ottawa, ON",2
+90781,way,472377593,45.2905893,-75.8832654,,45,Sheldrake Drive,semi_detached_house,"45 Sheldrake drive, Ottawa, ON","45 Sheldrake drive, Ottawa, ON",2
+90841,way,472377662,45.2904569,-75.8827584,,46,Sheldrake Drive,semi_detached_house,"46 Sheldrake drive, Ottawa, ON","46 Sheldrake drive, Ottawa, ON",2
+91331,way,472378183,45.3045356,-75.879384,,42,Bachman Terrace,semi_detached_house,"42 Bachman terrace, Ottawa, ON","42 Bachman terrace, Ottawa, ON",2
+91350,way,472378206,45.2911145,-75.8747859,,60,Shouldice Crescent,semi_detached_house,"60 Shouldice crescent, Ottawa, ON","60 Shouldice crescent, Ottawa, ON",2
+91575,way,472378440,45.291973,-75.8721384,,71,Rothesay Drive,semi_detached_house,"71 Rothesay drive, Ottawa, ON","71 Rothesay drive, Ottawa, ON",2
+92210,way,472379249,45.2938937,-75.887608,,45,Melanie Crescent,semi_detached_house,"45 Melanie crescent, Ottawa, ON","45 Melanie crescent, Ottawa, ON",2
+92231,way,472379271,45.2929747,-75.8894198,,50,Winchester Drive,semi_detached_house,"50 Winchester drive, Ottawa, ON","50 Winchester drive, Ottawa, ON",2
+92594,way,472381232,45.2920951,-75.8721207,,69,Rothesay Drive,semi_detached_house,"69 Rothesay drive, Ottawa, ON","69 Rothesay drive, Ottawa, ON",2
+92774,way,472388977,45.3180303,-75.6054811,,4110,Kelly Farm Drive,semi_detached_house,"4110 Kelly farm drive, Ottawa, ON","4110 Kelly farm drive, Ottawa, ON",2
+92939,way,472389155,45.3184826,-75.6057565,,4103,Kelly Farm Drive,semi_detached_house,"4103 Kelly farm drive, Ottawa, ON","4103 Kelly farm drive, Ottawa, ON",2
+93040,way,472389261,45.3171572,-75.5950415,,764,Cedar Creek Drive,semi_detached_house,"764 Cedar creek drive, Ottawa, ON","764 Cedar creek drive, Ottawa, ON",2
+93135,way,472389359,45.3176021,-75.595385,,750,Cedar Creek Drive,semi_detached_house,"750 Cedar creek drive, Ottawa, ON","750 Cedar creek drive, Ottawa, ON",2
+95372,way,472401919,45.3413735,-75.7427119,,28,Stanwood Drive,semi_detached_house,"28 Stanwood drive, Ottawa, ON","28 Stanwood drive, Ottawa, ON",2
+95420,way,472402071,45.3429254,-75.7429227,,108,Fieldrow Street,semi_detached_house,"108 Fieldrow street, Ottawa, ON","108 Fieldrow street, Ottawa, ON",2
+96609,way,472407983,45.3429965,-75.7323029,,123,Viewmount Drive,semi_detached_house,"123 Viewmount drive, Ottawa, ON","123 Viewmount drive, Ottawa, ON",2
+96671,way,472408047,45.3428989,-75.731275,,162,Viewmount Drive,semi_detached_house,"162 Viewmount drive, Ottawa, ON","162 Viewmount drive, Ottawa, ON",2
+96936,way,472408341,45.3423092,-75.7328105,,138,Viewmount Drive,semi_detached_house,"138 Viewmount drive, Ottawa, ON","138 Viewmount drive, Ottawa, ON",2
+97771,way,472421366,45.2750679,-75.6874127,,4266,Green Gables Lane,semi_detached_house,"4266 Green gables lane, Ottawa, ON","4266 Green gables lane, Ottawa, ON",2
+98082,way,472421713,45.2751951,-75.6870886,,4270,Green Gables Lane,semi_detached_house,"4270 Green gables lane, Ottawa, ON","4270 Green gables lane, Ottawa, ON",2
+98423,way,472422077,45.2756159,-75.6851462,,4456,Bittersweet Place,semi_detached_house,"4456 Bittersweet place, Ottawa, ON","4456 Bittersweet place, Ottawa, ON",2
+98428,way,472422082,45.2795123,-75.6888456,,4287,Owl Valley Drive,semi_detached_house,"4287 Owl valley drive, Ottawa, ON","4287 Owl valley drive, Ottawa, ON",2
+99134,way,472422864,45.2799146,-75.6893995,,4280,Owl Valley Drive,semi_detached_house,"4280 Owl valley drive, Ottawa, ON","4280 Owl valley drive, Ottawa, ON",2
+99313,way,472423220,45.2793696,-75.6884059,,4229,Owl Valley Drive,semi_detached_house,"4229 Owl valley drive, Ottawa, ON","4229 Owl valley drive, Ottawa, ON",2
+99970,way,472430758,45.4853347,-75.5078194,,322,Pintail Terrace,semi_detached_house,"322 Pintail terrace, Ottawa, ON","322 Pintail terrace, Ottawa, ON",2
+100161,way,472430954,45.486365,-75.5058724,,352,Mockingbird Drive,semi_detached_house,"352 Mockingbird drive, Ottawa, ON","352 Mockingbird drive, Ottawa, ON",2
+100665,way,472631243,45.2805254,-75.8570615,,136,Granite Court,semi_detached_house,"136 Granite court, Ottawa, ON","136 Granite court, Ottawa, ON",2
+100701,way,472631281,45.2799865,-75.8569255,,129,Granite Court,semi_detached_house,"129 Granite court, Ottawa, ON","129 Granite court, Ottawa, ON",2
+100714,way,472631314,45.2790059,-75.8531181,,32,Milner Downs Crescent,semi_detached_house,"32 Milner downs crescent, Ottawa, ON","32 Milner downs crescent, Ottawa, ON",2
+100759,way,472631390,45.2797176,-75.8519341,,66,Milner Downs Crescent,semi_detached_house,"66 Milner downs crescent, Ottawa, ON","66 Milner downs crescent, Ottawa, ON",2
+100953,way,472638661,45.3240534,-75.5975107,,472,Stalwart Crescent,semi_detached_house,"472 Stalwart crescent, Ottawa, ON","472 Stalwart crescent, Ottawa, ON",2
+100972,way,472638717,45.3230793,-75.6017267,,130,Flat Sedge Crescent,semi_detached_house,"130 Flat sedge crescent, Ottawa, ON","130 Flat sedge crescent, Ottawa, ON",2
+100986,way,472638745,45.3229786,-75.5979355,,876,White Alder Avenue,semi_detached_house,"876 White alder avenue, Ottawa, ON","876 White alder avenue, Ottawa, ON",2
+101004,way,472638766,45.3221793,-75.5999196,,828,White Alder Avenue,semi_detached_house,"828 White alder avenue, Ottawa, ON","828 White alder avenue, Ottawa, ON",2
+103188,way,472747659,45.2912976,-75.8688236,,1 A,Hawley Crescent,semi_detached_house,"1 A Hawley crescent, Ottawa, ON","1 A Hawley crescent, Ottawa, ON",2
+103190,way,472747662,45.2918806,-75.8692911,,9 B,Hawley Crescent,semi_detached_house,"9 B Hawley crescent, Ottawa, ON","9 B Hawley crescent, Ottawa, ON",2
+103470,way,472751553,45.2852379,-75.9225013,,347,Warmstone Drive,semi_detached_house,"347 Warmstone drive, Ottawa, ON","347 Warmstone drive, Ottawa, ON",2
+104119,way,472772169,45.3000751,-75.8973037,,26,Shaw Court,semi_detached_house,"26 Shaw court, Ottawa, ON","26 Shaw court, Ottawa, ON",2
+104126,way,472772189,45.304063,-75.8982116,,20,Naismith Crescent,semi_detached_house,"20 Naismith crescent, Ottawa, ON","20 Naismith crescent, Ottawa, ON",2
+104879,way,472842385,45.275683,-75.6878125,,4257,Green Gables Lane,semi_detached_house,"4257 Green gables lane, Ottawa, ON","4257 Green gables lane, Ottawa, ON",2
+104894,way,472843084,45.275232,-75.6889961,,4235,Green Gables Lane,semi_detached_house,"4235 Green gables lane, Ottawa, ON","4235 Green gables lane, Ottawa, ON",2
+104895,way,472843085,45.2751554,-75.689055,,4233,Green Gables Lane,semi_detached_house,"4233 Green gables lane, Ottawa, ON","4233 Green gables lane, Ottawa, ON",2
+104901,way,472843532,45.2729679,-75.689188,,4187,Green Gables Lane,semi_detached_house,"4187 Green gables lane, Ottawa, ON","4187 Green gables lane, Ottawa, ON",2
+104918,way,472843882,45.2736699,-75.6875975,,4161,Green Gables Lane,semi_detached_house,"4161 Green gables lane, Ottawa, ON","4161 Green gables lane, Ottawa, ON",2
+105713,way,473014187,45.3075723,-75.8944767,,45,Nanook Crescent,semi_detached_house,"45 Nanook crescent, Ottawa, ON","45 Nanook crescent, Ottawa, ON",2
+105957,way,473030503,45.3274862,-75.8995914,,109,Leacock Drive,semi_detached_house,"109 Leacock drive, Ottawa, ON","109 Leacock drive, Ottawa, ON",2
+110265,way,473152481,45.3172644,-75.8308703,,19,Tarquin Crescent,semi_detached_house,"19 Tarquin crescent, Ottawa, ON","19 Tarquin crescent, Ottawa, ON",2
+110307,way,473152538,45.3176029,-75.8383106,,7,Ariel Court,semi_detached_house,"7 Ariel court, Ottawa, ON","7 Ariel court, Ottawa, ON",2
+110433,way,473152687,45.3184162,-75.8351025,,41,Cymbeline Drive,semi_detached_house,"41 Cymbeline drive, Ottawa, ON","41 Cymbeline drive, Ottawa, ON",2
+110444,way,473152700,45.3179119,-75.8367538,,17,Cymbeline Drive,semi_detached_house,"17 Cymbeline drive, Ottawa, ON","17 Cymbeline drive, Ottawa, ON",2
+111210,way,473163867,45.3218464,-75.8314373,,7 B,Hadley Circle,semi_detached_house,"7 B Hadley circle, Ottawa, ON","7 B Hadley circle, Ottawa, ON",2
+111571,way,473169328,45.3278046,-75.8911538,,93,Penfield Drive,semi_detached_house,"93 Penfield drive, Ottawa, ON","93 Penfield drive, Ottawa, ON",2
+111627,way,473169672,45.3298744,-75.8923311,,133,Penfield Drive,semi_detached_house,"133 Penfield drive, Ottawa, ON","133 Penfield drive, Ottawa, ON",2
+114581,way,473213774,45.3554582,-75.8077786,,37,Oakley Avenue,semi_detached_house,"37 Oakley avenue, Ottawa, ON","37 Oakley avenue, Ottawa, ON",2
+114610,way,473220087,45.443267,-75.6030531,,1851,Elmridge Drive,semi_detached_house,"1851 Elmridge drive, Ottawa, ON","1851 Elmridge drive, Ottawa, ON",2
+114623,way,473220101,45.4431638,-75.6012605,,1878,Elmridge Drive,semi_detached_house,"1878 Elmridge drive, Ottawa, ON","1878 Elmridge drive, Ottawa, ON",2
+114690,way,473220172,45.443156,-75.6019707,,1868,Elmridge Drive,semi_detached_house,"1868 Elmridge drive, Ottawa, ON","1868 Elmridge drive, Ottawa, ON",2
+114701,way,473220183,45.4402903,-75.6013551,,1830,Cloverlawn Crescent,semi_detached_house,"1830 Cloverlawn crescent, Ottawa, ON","1830 Cloverlawn crescent, Ottawa, ON",2
+114711,way,473220193,45.438026,-75.603352,,1119,Elmlea Drive,semi_detached_house,"1119 Elmlea drive, Ottawa, ON","1119 Elmlea drive, Ottawa, ON",2
+114724,way,473220206,45.4384474,-75.60398,,1128,Elmlea Drive,semi_detached_house,"1128 Elmlea drive, Ottawa, ON","1128 Elmlea drive, Ottawa, ON",2
+114758,way,473220246,45.4419726,-75.6050901,,1815,Applegrove Court,semi_detached_house,"1815 Applegrove court, Ottawa, ON","1815 Applegrove court, Ottawa, ON",2
+114767,way,473220256,45.442952,-75.6027621,,1856,Elmridge Drive,semi_detached_house,"1856 Elmridge drive, Ottawa, ON","1856 Elmridge drive, Ottawa, ON",2
+114785,way,473220274,45.4440239,-75.5918267,,1056,Laporte Street,semi_detached_house,"1056 Laporte street, Ottawa, ON","1056 Laporte street, Ottawa, ON",2
+114815,way,473220313,45.4432845,-75.6067219,,47,Steel Street,semi_detached_house,"47 Steel street, Ottawa, ON","47 Steel street, Ottawa, ON",2
+114888,way,473220403,45.441618,-75.6045655,,1818,Applegrove Court,semi_detached_house,"1818 Applegrove court, Ottawa, ON","1818 Applegrove court, Ottawa, ON",2
+114913,way,473220438,45.4401557,-75.6017154,,1836,Cloverlawn Crescent,semi_detached_house,"1836 Cloverlawn crescent, Ottawa, ON","1836 Cloverlawn crescent, Ottawa, ON",2
+114984,way,473220519,45.4393894,-75.6005582,,1078,Cloverlawn Court,semi_detached_house,"1078 Cloverlawn court, Ottawa, ON","1078 Cloverlawn court, Ottawa, ON",2
+115083,way,473220626,45.4435315,-75.6007895,,1883,Elmridge Drive,semi_detached_house,"1883 Elmridge drive, Ottawa, ON","1883 Elmridge drive, Ottawa, ON",2
+115127,way,473220672,45.4406737,-75.6013912,,1787,Cloverlawn Crescent,semi_detached_house,"1787 Cloverlawn crescent, Ottawa, ON","1787 Cloverlawn crescent, Ottawa, ON",2
+115152,way,473220698,45.4435016,-75.6021086,,1865,Elmridge Drive,semi_detached_house,"1865 Elmridge drive, Ottawa, ON","1865 Elmridge drive, Ottawa, ON",2
+115157,way,473220703,45.4400295,-75.6022758,,1844,Cloverlawn Crescent,semi_detached_house,"1844 Cloverlawn crescent, Ottawa, ON","1844 Cloverlawn crescent, Ottawa, ON",2
+115161,way,473220707,45.4435186,-75.6025337,,951,Elmsmere Road,semi_detached_house,"951 Elmsmere road, Ottawa, ON","951 Elmsmere road, Ottawa, ON",2
+116355,way,473243028,45.2747196,-75.6853877,,4463,Bittersweet Place,semi_detached_house,"4463 Bittersweet place, Ottawa, ON","4463 Bittersweet place, Ottawa, ON",2
+116754,way,473332271,45.3504505,-75.7979344,,12,Splinter Crescent,semi_detached_house,"12 Splinter crescent, Ottawa, ON","12 Splinter crescent, Ottawa, ON",2
+116755,way,473332272,45.3489701,-75.803881,,16,Kevin Avenue,semi_detached_house,"16 Kevin avenue, Ottawa, ON","16 Kevin avenue, Ottawa, ON",2
+116782,way,473332299,45.350814,-75.7968445,,36,Splinter Crescent,semi_detached_house,"36 Splinter crescent, Ottawa, ON","36 Splinter crescent, Ottawa, ON",2
+116784,way,473332301,45.3492925,-75.7973223,,96,Splinter Crescent,semi_detached_house,"96 Splinter crescent, Ottawa, ON","96 Splinter crescent, Ottawa, ON",2
+116785,way,473332302,45.3492939,-75.798822,,1035,Barwell Avenue,semi_detached_house,"1035 Barwell avenue, Ottawa, ON","1035 Barwell avenue, Ottawa, ON",2
+116816,way,473332335,45.3506486,-75.7974091,,24,Splinter Crescent,semi_detached_house,"24 Splinter crescent, Ottawa, ON","24 Splinter crescent, Ottawa, ON",2
+116821,way,473332340,45.350514,-75.7977562,,16,Splinter Crescent,semi_detached_house,"16 Splinter crescent, Ottawa, ON","16 Splinter crescent, Ottawa, ON",2
+116830,way,473332349,45.3501763,-75.7973352,,21,Splinter Crescent,semi_detached_house,"21 Splinter crescent, Ottawa, ON","21 Splinter crescent, Ottawa, ON",2
+116839,way,473332362,45.3468882,-75.7971746,,1138,Alenmede Crescent,semi_detached_house,"1138 Alenmede crescent, Ottawa, ON","1138 Alenmede crescent, Ottawa, ON",2
+116845,way,473332368,45.3507007,-75.7972241,,28,Splinter Crescent,semi_detached_house,"28 Splinter crescent, Ottawa, ON","28 Splinter crescent, Ottawa, ON",2
+116852,way,473332375,45.3466862,-75.798303,,1116,Alenmede Crescent,semi_detached_house,"1116 Alenmede crescent, Ottawa, ON","1116 Alenmede crescent, Ottawa, ON",2
+117194,way,473344784,45.3583333,-75.8026834,,87,Doane Street,semi_detached_house,"87 Doane street, Ottawa, ON","87 Doane street, Ottawa, ON",2
+117535,way,473666562,45.345349,-75.7721478,,20,Covington Place,semi_detached_house,"20 Covington place, Ottawa, ON","20 Covington place, Ottawa, ON",2
+117599,way,473666628,45.3503116,-75.7712266,,1339,Bloomsbury Crescent,semi_detached_house,"1339 Bloomsbury crescent, Ottawa, ON","1339 Bloomsbury crescent, Ottawa, ON",2
+118730,way,473994910,45.359101,-75.7161488,,32,Wigan Drive,semi_detached_house,"32 Wigan drive, Ottawa, ON","32 Wigan drive, Ottawa, ON",2
+119349,way,474000690,45.3593336,-75.7461751,,1588,Ainsley Drive,semi_detached_house,"1588 Ainsley drive, Ottawa, ON","1588 Ainsley drive, Ottawa, ON",2
+119361,way,474000719,45.3564234,-75.750556,,1700,Baseline Road,semi_detached_house,"1700 Baseline road, Ottawa, ON","1700 Baseline road, Ottawa, ON",2
+119362,way,474000722,45.3586318,-75.7478776,,1626,Ainsley Drive,semi_detached_house,"1626 Ainsley drive, Ottawa, ON","1626 Ainsley drive, Ottawa, ON",2
+119371,way,474000742,45.3590093,-75.7460038,,1587,Baseline Road,semi_detached_house,"1587 Baseline road, Ottawa, ON","1587 Baseline road, Ottawa, ON",2
+119867,way,474010441,45.3546282,-75.7263759,,21,Mulvagh Avenue,semi_detached_house,"21 Mulvagh avenue, Ottawa, ON","21 Mulvagh avenue, Ottawa, ON",2
+119882,way,474010456,45.3523512,-75.7236033,,108,Chesterton Drive,semi_detached_house,"108 Chesterton drive, Ottawa, ON","108 Chesterton drive, Ottawa, ON",2
+119886,way,474010460,45.3558188,-75.7264492,,44,Tiverton Drive,semi_detached_house,"44 Tiverton drive, Ottawa, ON","44 Tiverton drive, Ottawa, ON",2
+119927,way,474010501,45.3531759,-75.7242169,,13,Woodmount Crescent,semi_detached_house,"13 Woodmount crescent, Ottawa, ON","13 Woodmount crescent, Ottawa, ON",2
+119958,way,474010533,45.3574848,-75.7280926,,3,Eagle Lane,semi_detached_house,"3 Eagle lane, Ottawa, ON","3 Eagle lane, Ottawa, ON",2
+119970,way,474010545,45.3574701,-75.7257668,,25,Newbury Avenue,semi_detached_house,"25 Newbury avenue, Ottawa, ON","25 Newbury avenue, Ottawa, ON",2
+119991,way,474010571,45.353918,-75.7260619,,53,Woodmount Crescent,semi_detached_house,"53 Woodmount crescent, Ottawa, ON","53 Woodmount crescent, Ottawa, ON",2
+120015,way,474010596,45.3525874,-75.727254,,28,Southview Crescent,semi_detached_house,"28 Southview crescent, Ottawa, ON","28 Southview crescent, Ottawa, ON",2
+120608,way,474026882,45.3648098,-75.7259365,,120,Encore Private,semi_detached_house,"120 Encore private, Ottawa, ON","120 Encore private, Ottawa, ON",2
+121269,way,474038477,45.3518927,-75.7734952,,1269,Highgate Road,semi_detached_house,"1269 Highgate road, Ottawa, ON","1269 Highgate road, Ottawa, ON",2
+121879,way,474082081,45.4772484,-75.4565086,,2227,Mondavi Street,semi_detached_house,"2227 Mondavi street, Ottawa, ON","2227 Mondavi street, Ottawa, ON",2
+124293,way,474250928,45.390943,-75.6690557,,2058,Blossom Drive,semi_detached_house,"2058 Blossom drive, Ottawa, ON","2058 Blossom drive, Ottawa, ON",2
+124576,way,474256537,45.3524132,-75.6651653,,97,Pigeon Terrace,semi_detached_house,"97 Pigeon terrace, Ottawa, ON","97 Pigeon terrace, Ottawa, ON",2
+125586,way,474372419,45.446561,-75.6736195,,102,Maple Lane,semi_detached_house,"102 Maple lane, Ottawa, ON","102 Maple lane, Ottawa, ON",2
+126036,way,474425480,45.445959,-75.6769607,,43,Rockcliffe Way,semi_detached_house,"43 Rockcliffe way, Ottawa, ON","43 Rockcliffe way, Ottawa, ON",2
+126133,way,474457827,45.4001669,-75.6860966,,115,Holmwood Avenue,semi_detached_house,"115 Holmwood avenue, Ottawa, ON","115 Holmwood avenue, Ottawa, ON",2
+127049,way,474458868,45.3995032,-75.6918083,,6,Morris Street,semi_detached_house,"6 Morris street, Ottawa, ON","6 Morris street, Ottawa, ON",2
+127070,way,474458914,45.399089,-75.6933268,,270,Fifth Avenue,semi_detached_house,"270 Fifth avenue, Ottawa, ON","270 Fifth avenue, Ottawa, ON",2
+127140,way,474459147,45.4043436,-75.6857173,,59,Third Avenue,semi_detached_house,"59 Third avenue, Ottawa, ON","59 Third avenue, Ottawa, ON",2
+127143,way,474459153,45.4026458,-75.6927656,,290 A,First Avenue,semi_detached_house,"290 A First avenue, Ottawa, ON","290 A First avenue, Ottawa, ON",2
+127144,way,474459154,45.4007827,-75.6855206,,40,Clarey Avenue,semi_detached_house,"40 Clarey avenue, Ottawa, ON","40 Clarey avenue, Ottawa, ON",2
+127148,way,474459160,45.4038539,-75.6910404,,239,First Avenue,semi_detached_house,"239 First avenue, Ottawa, ON","239 First avenue, Ottawa, ON",2
+128375,way,474627024,45.3784518,-75.7719119,,2109,Honeywell Avenue,semi_detached_house,"2109 Honeywell avenue, Ottawa, ON","2109 Honeywell avenue, Ottawa, ON",2
+128932,way,474635340,45.357204,-75.7664585,,2238,Iris Street,semi_detached_house,"2238 Iris street, Ottawa, ON","2238 Iris street, Ottawa, ON",2
+129001,way,474664026,45.2446163,-75.9089075,,160,Hartsmere Drive,semi_detached_house,"160 Hartsmere drive, Ottawa, ON","160 Hartsmere drive, Ottawa, ON",2
+129019,way,474664044,45.2444863,-75.9091251,,164,Hartsmere Drive,semi_detached_house,"164 Hartsmere drive, Ottawa, ON","164 Hartsmere drive, Ottawa, ON",2
+129283,way,474717236,45.3551479,-75.7924969,,2767,Harwood Avenue,semi_detached_house,"2767 Harwood avenue, Ottawa, ON","2767 Harwood avenue, Ottawa, ON",2
+129307,way,474717263,45.3591265,-75.7921156,,852,Rob Roy Avenue,semi_detached_house,"852 Rob roy avenue, Ottawa, ON","852 Rob roy avenue, Ottawa, ON",2
+129391,way,474717349,45.3571084,-75.793412,,872,Pinewood Crescent,semi_detached_house,"872 Pinewood crescent, Ottawa, ON","872 Pinewood crescent, Ottawa, ON",2
+129504,way,474717479,45.3576269,-75.7905397,,907,Rob Roy Avenue,semi_detached_house,"907 Rob roy avenue, Ottawa, ON","907 Rob roy avenue, Ottawa, ON",2
+129550,way,474717526,45.3549909,-75.7933105,,932,Pinecrest Road,semi_detached_house,"932 Pinecrest road, Ottawa, ON","932 Pinecrest road, Ottawa, ON",2
+129612,way,474717594,45.3589748,-75.7913201,,863,Rob Roy Avenue,semi_detached_house,"863 Rob roy avenue, Ottawa, ON","863 Rob roy avenue, Ottawa, ON",2
+129615,way,474717597,45.3582447,-75.790443,,882 A,Maplewood Avenue,semi_detached_house,"882 A Maplewood avenue, Ottawa, ON","882 A Maplewood avenue, Ottawa, ON",2
+129654,way,474717636,45.3546237,-75.7929442,,2793,St. Stephen's Street,semi_detached_house,"2793 St. stephen's street, Ottawa, ON","2793 St. stephen's street, Ottawa, ON",2
+129706,way,474717694,45.3568518,-75.7936319,,881,Pinecrest Road,semi_detached_house,"881 Pinecrest road, Ottawa, ON","881 Pinecrest road, Ottawa, ON",2
+129874,way,474719952,45.3525437,-75.7738615,,1251,Highgate Road,semi_detached_house,"1251 Highgate road, Ottawa, ON","1251 Highgate road, Ottawa, ON",2
+129883,way,474719961,45.3576557,-75.7736875,,2049,Kingsley Road,semi_detached_house,"2049 Kingsley road, Ottawa, ON","2049 Kingsley road, Ottawa, ON",2
+130293,way,474727727,45.2491517,-75.7371344,,2459,Regatta Avenue,semi_detached_house,"2459 Regatta avenue, Ottawa, ON","2459 Regatta avenue, Ottawa, ON",2
+130837,way,474837524,45.3733694,-75.757907,,858,Riddell Avenue North,semi_detached_house,"858 Riddell avenue north, Ottawa, ON","858 Riddell avenue north, Ottawa, ON",2
+130844,way,474837535,45.3742189,-75.756322,,849,Maitland Avenue,semi_detached_house,"849 Maitland avenue, Ottawa, ON","849 Maitland avenue, Ottawa, ON",2
+130869,way,474837567,45.3738366,-75.7616103,,801,Maplecrest Avenue,semi_detached_house,"801 Maplecrest avenue, Ottawa, ON","801 Maplecrest avenue, Ottawa, ON",2
+131797,way,474881372,45.3639364,-75.7427243,,1319,Maitland Avenue,semi_detached_house,"1319 Maitland avenue, Ottawa, ON","1319 Maitland avenue, Ottawa, ON",2
+131830,way,474881452,45.3652988,-75.7429206,,1201,Cameo Drive,semi_detached_house,"1201 Cameo drive, Ottawa, ON","1201 Cameo drive, Ottawa, ON",2
+132344,way,474903829,45.3783989,-75.7324099,,1010,Panet Street,semi_detached_house,"1010 Panet street, Ottawa, ON","1010 Panet street, Ottawa, ON",2
+132349,way,474903845,45.3805637,-75.7374079,,901,Kirkwood Avenue,semi_detached_house,"901 Kirkwood avenue, Ottawa, ON","901 Kirkwood avenue, Ottawa, ON",2
+133463,way,475085827,45.3805422,-75.7519585,,710,Cole Avenue South,semi_detached_house,"710 Cole avenue south, Ottawa, ON","710 Cole avenue south, Ottawa, ON",2
+133567,way,475114387,45.3854505,-75.7461675,,269,Dovercourt Avenue,semi_detached_house,"269 Dovercourt avenue, Ottawa, ON","269 Dovercourt avenue, Ottawa, ON",2
+133994,way,475114869,45.3875706,-75.7453708,13,232,Clare Street,semi_detached_house,"13-232 Clare street, Ottawa, ON","232 Clare street, Ottawa, ON",2
+134003,way,475114878,45.3850356,-75.7425248,,208,Switzer Avenue,semi_detached_house,"208 Switzer avenue, Ottawa, ON","208 Switzer avenue, Ottawa, ON",2
+134056,way,475114978,45.3831815,-75.7443314,,260,Currell Avenue,semi_detached_house,"260 Currell avenue, Ottawa, ON","260 Currell avenue, Ottawa, ON",2
+134436,way,475293277,45.3723267,-75.764332,,811,Hare Avenue,semi_detached_house,"811 Hare avenue, Ottawa, ON","811 Hare avenue, Ottawa, ON",2
+134438,way,475293279,45.3681791,-75.7718973,,2228,Fox Crescent,semi_detached_house,"2228 Fox crescent, Ottawa, ON","2228 Fox crescent, Ottawa, ON",2
+134956,way,475306534,45.3715593,-75.7757972,5,2269,Lawn Avenue,semi_detached_house,"5-2269 Lawn avenue, Ottawa, ON","2269 Lawn avenue, Ottawa, ON",2
+135162,way,475309209,45.3981565,-75.6983184,,848,Bronson Avenue,semi_detached_house,"848 Bronson avenue, Ottawa, ON","848 Bronson avenue, Ottawa, ON",2
+136564,way,478631270,45.441263,-75.6689195,,63,Marier Avenue,semi_detached_house,"63 Marier avenue, Ottawa, ON","63 Marier avenue, Ottawa, ON",2
+136758,way,478631492,45.4408725,-75.6669103,,108,Ste-Cécile Street,semi_detached_house,"108 Ste-cécile street, Ottawa, ON","108 Ste-cécile street, Ottawa, ON",2
+137410,way,478830640,45.4436449,-75.6795089,,130,Noel Street,semi_detached_house,"130 Noel street, Ottawa, ON","130 Noel street, Ottawa, ON",2
+138833,way,478859492,45.3983019,-75.6906226,,217,Holmwood Avenue,semi_detached_house,"217 Holmwood avenue, Ottawa, ON","217 Holmwood avenue, Ottawa, ON",2
+138836,way,478859495,45.3919059,-75.691623,,25,Pansy Avenue,semi_detached_house,"25 Pansy avenue, Ottawa, ON","25 Pansy avenue, Ottawa, ON",2
+138844,way,478859503,45.3952853,-75.6919859,,550 A,Queen Elizabeth Driveway,semi_detached_house,"550 A Queen elizabeth driveway, Ottawa, ON","550 A Queen elizabeth driveway, Ottawa, ON",2
+138866,way,478859525,45.3977362,-75.6952102,,17,Gordon Street,semi_detached_house,"17 Gordon street, Ottawa, ON","17 Gordon street, Ottawa, ON",2
+139095,way,478960705,45.4019412,-75.7174447,,167,Bayswater Avenue,semi_detached_house,"167 Bayswater avenue, Ottawa, ON","167 Bayswater avenue, Ottawa, ON",2
+139737,way,478969457,45.3934987,-75.7568271,,375,Wilmont Avenue,semi_detached_house,"375 Wilmont avenue, Ottawa, ON","375 Wilmont avenue, Ottawa, ON",2
+139742,way,478969464,45.3925217,-75.7584962,,352,Roosevelt Avenue,semi_detached_house,"352 Roosevelt avenue, Ottawa, ON","352 Roosevelt avenue, Ottawa, ON",2
+139768,way,478970257,45.3935261,-75.7533101,,365,Winona Avenue,semi_detached_house,"365 Winona avenue, Ottawa, ON","365 Winona avenue, Ottawa, ON",2
+140017,way,478971938,45.3972815,-75.7126608,,174,Hickory Street,semi_detached_house,"174 Hickory street, Ottawa, ON","174 Hickory street, Ottawa, ON",2
+140683,way,479043963,45.4091541,-75.6984154,,494,McLeod Street,semi_detached_house,"494 Mcleod street, Ottawa, ON","494 Mcleod street, Ottawa, ON",2
+141313,way,479048263,45.4245164,-75.6549716,,201,Prince Albert Street,semi_detached_house,"201 Prince albert street, Ottawa, ON","201 Prince albert street, Ottawa, ON",2
+141374,way,479048345,45.4260524,-75.6560905,,252,Glynn Avenue,semi_detached_house,"252 Glynn avenue, Ottawa, ON","252 Glynn avenue, Ottawa, ON",2
+141375,way,479048347,45.4286838,-75.6519848,,374,Fullerton Avenue,semi_detached_house,"374 Fullerton avenue, Ottawa, ON","374 Fullerton avenue, Ottawa, ON",2
+141390,way,479048403,45.4280996,-75.6546007,,319,Donald Street,semi_detached_house,"319 Donald street, Ottawa, ON","319 Donald street, Ottawa, ON",2
+141391,way,479048404,45.428102,-75.6543973,,323,Donald Street,semi_detached_house,"323 Donald street, Ottawa, ON","323 Donald street, Ottawa, ON",2
+141606,way,479196839,45.2781503,-75.7580276,,15,Tedwyn Drive,semi_detached_house,"15 Tedwyn drive, Ottawa, ON","15 Tedwyn drive, Ottawa, ON",2
+141638,way,479196894,45.274242,-75.7565988,,67,Dolan Drive,semi_detached_house,"67 Dolan drive, Ottawa, ON","67 Dolan drive, Ottawa, ON",2
+141643,way,479196899,45.2734634,-75.7572602,,87,Dolan Drive,semi_detached_house,"87 Dolan drive, Ottawa, ON","87 Dolan drive, Ottawa, ON",2
+141751,way,479197012,45.2738499,-75.7598078,,182 B,Sherway Drive,semi_detached_house,"182 B Sherway drive, Ottawa, ON","182 B Sherway drive, Ottawa, ON",2
+141757,way,479197018,45.2734597,-75.7611613,,53,Aldgate Crescent,semi_detached_house,"53 Aldgate crescent, Ottawa, ON","53 Aldgate crescent, Ottawa, ON",2
+141762,way,479197023,45.2741135,-75.7613851,,196,Sherway Drive,semi_detached_house,"196 Sherway drive, Ottawa, ON","196 Sherway drive, Ottawa, ON",2
+141852,way,479197121,45.2746097,-75.7595146,,6,Vanessa Terrace,semi_detached_house,"6 Vanessa terrace, Ottawa, ON","6 Vanessa terrace, Ottawa, ON",2
+141855,way,479197124,45.2757985,-75.7604998,,30,Vanessa Terrace,semi_detached_house,"30 Vanessa terrace, Ottawa, ON","30 Vanessa terrace, Ottawa, ON",2
+141859,way,479197128,45.2751476,-75.7599848,,14,Vanessa Terrace,semi_detached_house,"14 Vanessa terrace, Ottawa, ON","14 Vanessa terrace, Ottawa, ON",2
+142246,way,479507124,45.4055951,-75.7042667,,373,Arlington Avenue,semi_detached_house,"373 Arlington avenue, Ottawa, ON","373 Arlington avenue, Ottawa, ON",2
+142468,way,479507368,45.4035624,-75.6992531,,114,Renfrew Avenue,semi_detached_house,"114 Renfrew avenue, Ottawa, ON","114 Renfrew avenue, Ottawa, ON",2
+143080,way,479511892,45.3906316,-75.669151,,2070,Blossom Drive,semi_detached_house,"2070 Blossom drive, Ottawa, ON","2070 Blossom drive, Ottawa, ON",2
+143389,way,479515357,45.3792449,-75.7257854,,1196,Dorchester Avenue,semi_detached_house,"1196 Dorchester avenue, Ottawa, ON","1196 Dorchester avenue, Ottawa, ON",2
+143401,way,479515376,45.3795613,-75.7280852,,1229,Emperor Avenue,semi_detached_house,"1229 Emperor avenue, Ottawa, ON","1229 Emperor avenue, Ottawa, ON",2
+143409,way,479515387,45.3789792,-75.7223561,,1142,Trent Street,semi_detached_house,"1142 Trent street, Ottawa, ON","1142 Trent street, Ottawa, ON",2
+143621,way,479521677,45.4231875,-75.6779283,,267,Somerset Street East,semi_detached_house,"267 Somerset street east, Ottawa, ON","267 Somerset street east, Ottawa, ON",2
+143970,way,479538405,45.4247524,-75.6472176,,370,Prince Albert Street,semi_detached_house,"370 Prince albert street, Ottawa, ON","370 Prince albert street, Ottawa, ON",2
+143984,way,479538421,45.4247536,-75.6514814,,267,Prince Albert Street,semi_detached_house,"267 Prince albert street, Ottawa, ON","267 Prince albert street, Ottawa, ON",2
+143995,way,479538435,45.4260069,-75.6517351,,313,King George Street,semi_detached_house,"313 King george street, Ottawa, ON","313 King george street, Ottawa, ON",2
+144000,way,479538454,45.4253923,-75.6425005,,523,Prince Albert Street,semi_detached_house,"523 Prince albert street, Ottawa, ON","523 Prince albert street, Ottawa, ON",2
+144115,way,479538624,45.4257594,-75.6509332,,330,King George Street,semi_detached_house,"330 King george street, Ottawa, ON","330 King george street, Ottawa, ON",2
+144588,way,479739910,45.439689,-75.661353,,277,Shakespeare Street,semi_detached_house,"277 Shakespeare street, Ottawa, ON","277 Shakespeare street, Ottawa, ON",2
+145264,way,479743842,45.3948163,-75.6842741,,11,Euclid Avenue,semi_detached_house,"11 Euclid avenue, Ottawa, ON","11 Euclid avenue, Ottawa, ON",2
+145305,way,479743883,45.3939471,-75.6793766,,148,Belmont Avenue,semi_detached_house,"148 Belmont avenue, Ottawa, ON","148 Belmont avenue, Ottawa, ON",2
+145629,way,479753796,45.402633,-75.7164859,,181,Breezehill Avenue North,semi_detached_house,"181 Breezehill avenue north, Ottawa, ON","181 Breezehill avenue north, Ottawa, ON",2
+146081,way,479757110,45.4365836,-75.6447068,,730,St-Laurent Boulevard,semi_detached_house,"730 St-laurent boulevard, Ottawa, ON","730 St-laurent boulevard, Ottawa, ON",2
+146107,way,479757158,45.4339408,-75.6476504,,457,Guy Street,semi_detached_house,"457 Guy street, Ottawa, ON","457 Guy street, Ottawa, ON",2
+146124,way,479757195,45.4330221,-75.6446079,,532,Mutual Street,semi_detached_house,"532 Mutual street, Ottawa, ON","532 Mutual street, Ottawa, ON",2
+146798,way,479764087,45.43624,-75.6257458,,12,Lotus Court,semi_detached_house,"12 Lotus court, Ottawa, ON","12 Lotus court, Ottawa, ON",2
+146810,way,479764104,45.4363938,-75.6255665,,13,Lotus Court,semi_detached_house,"13 Lotus court, Ottawa, ON","13 Lotus court, Ottawa, ON",2
+146821,way,479764115,45.4333358,-75.6194479,,1427,Leigh Crescent,semi_detached_house,"1427 Leigh crescent, Ottawa, ON","1427 Leigh crescent, Ottawa, ON",2
+146831,way,479764125,45.4360397,-75.6267953,,970,Charlton Drive,semi_detached_house,"970 Charlton drive, Ottawa, ON","970 Charlton drive, Ottawa, ON",2
+146846,way,479764140,45.4362736,-75.6246212,,1297,Lotus Street,semi_detached_house,"1297 Lotus street, Ottawa, ON","1297 Lotus street, Ottawa, ON",2
+147786,way,479798018,45.4010118,-75.6759904,,79,Riverdale Avenue,semi_detached_house,"79 Riverdale avenue, Ottawa, ON","79 Riverdale avenue, Ottawa, ON",2
+147809,way,479798047,45.3987621,-75.6770635,,27,Avenue Road,semi_detached_house,"27 Avenue road, Ottawa, ON","27 Avenue road, Ottawa, ON",2
+148179,way,479809007,45.3664861,-75.7064714,,974,Debra Avenue,semi_detached_house,"974 Debra avenue, Ottawa, ON","974 Debra avenue, Ottawa, ON",2
+148195,way,479809024,45.365534,-75.7061249,,988,Meadowlands Drive,semi_detached_house,"988 Meadowlands drive, Ottawa, ON","988 Meadowlands drive, Ottawa, ON",2
+148418,way,479810726,45.3677197,-75.7092028,,1388,Claymor Avenue,semi_detached_house,"1388 Claymor avenue, Ottawa, ON","1388 Claymor avenue, Ottawa, ON",2
+148798,way,479875883,45.38411,-75.733276,,1257 A,Coldrey Avenue,semi_detached_house,"1257 A Coldrey avenue, Ottawa, ON","1257 A Coldrey avenue, Ottawa, ON",2
+149078,way,479919479,45.3607615,-75.7094522,,1093 A,Normandy Crescent,semi_detached_house,"1093 A Normandy crescent, Ottawa, ON","1093 A Normandy crescent, Ottawa, ON",2
+149118,way,479919536,45.3675926,-75.7091288,,1392,Claymor Avenue,semi_detached_house,"1392 Claymor avenue, Ottawa, ON","1392 Claymor avenue, Ottawa, ON",2
+149237,way,479919675,45.3653874,-75.7078364,,1466,Claymor Avenue,semi_detached_house,"1466 Claymor avenue, Ottawa, ON","1466 Claymor avenue, Ottawa, ON",2
+149298,way,479919740,45.3649593,-75.7074749,,1017,Meadowlands Drive,semi_detached_house,"1017 Meadowlands drive, Ottawa, ON","1017 Meadowlands drive, Ottawa, ON",2
+149527,way,479921953,45.379765,-75.7760371,,55,Woodroffe Avenue,semi_detached_house,"55 Woodroffe avenue, Ottawa, ON","55 Woodroffe avenue, Ottawa, ON",2
+149534,way,479921960,45.378644,-75.7753187,,89,Woodroffe Avenue,semi_detached_house,"89 Woodroffe avenue, Ottawa, ON","89 Woodroffe avenue, Ottawa, ON",2
+149565,way,479921993,45.3797408,-75.7756132,,2167,Saunders Avenue,semi_detached_house,"2167 Saunders avenue, Ottawa, ON","2167 Saunders avenue, Ottawa, ON",2
+149927,way,480069344,45.3822709,-75.7486476,,691,Edison Avenue,semi_detached_house,"691 Edison avenue, Ottawa, ON","691 Edison avenue, Ottawa, ON",2
+150085,way,480073310,45.3499223,-75.6634324,,3418,Mccarthy Road,semi_detached_house,"3418 Mccarthy road, Ottawa, ON","3418 Mccarthy road, Ottawa, ON",2
+150376,way,480073646,45.3444505,-75.6684599,,76,Erin Crescent,semi_detached_house,"76 Erin crescent, Ottawa, ON","76 Erin crescent, Ottawa, ON",2
+150443,way,480073724,45.3494528,-75.6641792,,34,Killdeer Bay,semi_detached_house,"34 Killdeer bay, Ottawa, ON","34 Killdeer bay, Ottawa, ON",2
+151561,way,481046263,45.4409455,-75.6861388,,123,Keefer Street,semi_detached_house,"123 Keefer street, Ottawa, ON","123 Keefer street, Ottawa, ON",2
+151567,way,481046277,45.4422095,-75.689761,,78,Union Street,semi_detached_house,"78 Union street, Ottawa, ON","78 Union street, Ottawa, ON",2
+152141,way,481215520,45.3685446,-75.743553,,1113,Clyde Avenue,semi_detached_house,"1113 Clyde avenue, Ottawa, ON","1113 Clyde avenue, Ottawa, ON",2
+152211,way,481217604,45.4069506,-75.7195312,,1047,Somerset Street West,semi_detached_house,"1047 Somerset street west, Ottawa, ON","1047 Somerset street west, Ottawa, ON",2
+153036,way,481361349,45.4381686,-75.6467413,,672,Morin Street,semi_detached_house,"672 Morin street, Ottawa, ON","672 Morin street, Ottawa, ON",2
+153139,way,481361539,45.4392574,-75.6467178,,643,Morin Street,semi_detached_house,"643 Morin street, Ottawa, ON","643 Morin street, Ottawa, ON",2
+153339,way,481367173,45.4154954,-75.678764,,77,Havelock Street,semi_detached_house,"77 Havelock street, Ottawa, ON","77 Havelock street, Ottawa, ON",2
+153724,way,481375308,45.4355327,-75.664333,,269,Émond Street,semi_detached_house,"269 Émond street, Ottawa, ON","269 Émond street, Ottawa, ON",2
+153731,way,481375315,45.4359655,-75.6665964,,219,Desrosiers Street,semi_detached_house,"219 Desrosiers street, Ottawa, ON","219 Desrosiers street, Ottawa, ON",2
+154012,way,481435621,45.4256338,-75.68103,,300,Nelson Street,semi_detached_house,"300 Nelson street, Ottawa, ON","300 Nelson street, Ottawa, ON",2
+154206,way,481444137,45.3614845,-75.7868168,,840,Norton Avenue,semi_detached_house,"840 Norton avenue, Ottawa, ON","840 Norton avenue, Ottawa, ON",2
+154336,way,481444306,45.3621713,-75.7882606,,804,Forest Street South,semi_detached_house,"804 Forest street south, Ottawa, ON","804 Forest street south, Ottawa, ON",2
+154379,way,481444355,45.3612256,-75.7877473,,836,Forest Street South,semi_detached_house,"836 Forest street south, Ottawa, ON","836 Forest street south, Ottawa, ON",2
+154434,way,481446454,45.4350917,-75.6791449,,471,Clarence Street East,semi_detached_house,"471 Clarence street east, Ottawa, ON","471 Clarence street east, Ottawa, ON",2
+155036,way,481677753,45.4087431,-75.6797131,,119,Drummond Street,semi_detached_house,"119 Drummond street, Ottawa, ON","119 Drummond street, Ottawa, ON",2
+155260,way,481678142,45.4099714,-75.6838504,,224,Queen Elizabeth Driveway,semi_detached_house,"224 Queen elizabeth driveway, Ottawa, ON","224 Queen elizabeth driveway, Ottawa, ON",2
+155276,way,481678161,45.4131284,-75.6767032,,132,Concord Street South,semi_detached_house,"132 Concord street south, Ottawa, ON","132 Concord street south, Ottawa, ON",2
+156210,way,481825581,45.408746,-75.6898924,,183,Pretoria Avenue,semi_detached_house,"183 Pretoria avenue, Ottawa, ON","183 Pretoria avenue, Ottawa, ON",2
+156900,way,482250038,45.4077156,-75.6903412,,219,Strathcona Avenue,semi_detached_house,"219 Strathcona avenue, Ottawa, ON","219 Strathcona avenue, Ottawa, ON",2
+159229,way,482474543,45.3471742,-75.6599743,,3452,Wyman Crescent,semi_detached_house,"3452 Wyman crescent, Ottawa, ON","3452 Wyman crescent, Ottawa, ON",2
+159348,way,482531591,45.3894503,-75.6895963,,141,Grove Avenue,semi_detached_house,"141 Grove avenue, Ottawa, ON","141 Grove avenue, Ottawa, ON",2
+160394,way,482662109,45.3435453,-75.6639347,,2318,Cotter's Crescent,semi_detached_house,"2318 Cotter's crescent, Ottawa, ON","2318 Cotter's crescent, Ottawa, ON",2
+160408,way,482662152,45.344105,-75.6708394,,10,Erin Crescent,semi_detached_house,"10 Erin crescent, Ottawa, ON","10 Erin crescent, Ottawa, ON",2
+160506,way,482662329,45.341799,-75.6715807,,316,Wisteria Crescent,semi_detached_house,"316 Wisteria crescent, Ottawa, ON","316 Wisteria crescent, Ottawa, ON",2
+160577,way,482662436,45.3442607,-75.6650995,,2292,Cotter's Crescent,semi_detached_house,"2292 Cotter's crescent, Ottawa, ON","2292 Cotter's crescent, Ottawa, ON",2
+161006,way,482704782,45.3925574,-75.6191798,,2301,Joliffe Street,semi_detached_house,"2301 Joliffe street, Ottawa, ON","2301 Joliffe street, Ottawa, ON",2
+161529,way,482719798,45.3664197,-75.7392037,,17,Coleridge Street,semi_detached_house,"17 Coleridge street, Ottawa, ON","17 Coleridge street, Ottawa, ON",2
+161706,way,482740054,45.375266,-75.7307489,,1344,Trenton Avenue,semi_detached_house,"1344 Trenton avenue, Ottawa, ON","1344 Trenton avenue, Ottawa, ON",2
+162008,way,482831412,45.342945,-75.6349902,,188,Parkin Circle,semi_detached_house,"188 Parkin circle, Ottawa, ON","188 Parkin circle, Ottawa, ON",2
+162103,way,482831512,45.3422242,-75.634817,,336,Parkin Circle,semi_detached_house,"336 Parkin circle, Ottawa, ON","336 Parkin circle, Ottawa, ON",2
+162115,way,482831526,45.3428758,-75.6351493,,184,Parkin Circle,semi_detached_house,"184 Parkin circle, Ottawa, ON","184 Parkin circle, Ottawa, ON",2
+162141,way,482831556,45.3394097,-75.6342506,,102,Maple Key Private,semi_detached_house,"102 Maple key private, Ottawa, ON","102 Maple key private, Ottawa, ON",2
+162212,way,482831632,45.3429778,-75.6329711,,300,Parkin Circle,semi_detached_house,"300 Parkin circle, Ottawa, ON","300 Parkin circle, Ottawa, ON",2
+162281,way,482831724,45.3430687,-75.6338791,,54,Stedman Street,semi_detached_house,"54 Stedman street, Ottawa, ON","54 Stedman street, Ottawa, ON",2
+162576,way,482836925,45.3467979,-75.634047,,1506,Goth Avenue,semi_detached_house,"1506 Goth avenue, Ottawa, ON","1506 Goth avenue, Ottawa, ON",2
+162584,way,482836934,45.3457563,-75.6366498,,1452,Goth Avenue,semi_detached_house,"1452 Goth avenue, Ottawa, ON","1452 Goth avenue, Ottawa, ON",2
+162703,way,482837093,45.3474927,-75.638963,,3045,Mannering Court,semi_detached_house,"3045 Mannering court, Ottawa, ON","3045 Mannering court, Ottawa, ON",2
+162706,way,482837098,45.3467516,-75.6372029,,2841,Gothwood Place,semi_detached_house,"2841 Gothwood place, Ottawa, ON","2841 Gothwood place, Ottawa, ON",2
+163277,way,482920160,45.3651863,-75.6812781,,44,Sandhurst Court,semi_detached_house,"44 Sandhurst court, Ottawa, ON","44 Sandhurst court, Ottawa, ON",2
+163302,way,482920185,45.3628036,-75.6837476,,42,Walton Court,semi_detached_house,"42 Walton court, Ottawa, ON","42 Walton court, Ottawa, ON",2
+163472,way,482920499,45.3660281,-75.6815483,,5,Sandhurst Court,semi_detached_house,"5 Sandhurst court, Ottawa, ON","5 Sandhurst court, Ottawa, ON",2
+164179,way,482931620,45.2777458,-75.8491523,,121,Grassy Plains Drive,semi_detached_house,"121 Grassy plains drive, Ottawa, ON","121 Grassy plains drive, Ottawa, ON",2
+165132,way,483045421,45.4351708,-75.565019,,16,Northpark Drive,semi_detached_house,"16 Northpark drive, Ottawa, ON","16 Northpark drive, Ottawa, ON",2
+165199,way,483045502,45.4317174,-75.5676259,,12,Southpark Drive,semi_detached_house,"12 Southpark drive, Ottawa, ON","12 Southpark drive, Ottawa, ON",2
+165682,way,483047917,45.3797041,-75.6765466,,1549,Clover Street,semi_detached_house,"1549 Clover street, Ottawa, ON","1549 Clover street, Ottawa, ON",2
+165692,way,483047928,45.3753843,-75.6759461,,2475,Clover Street,semi_detached_house,"2475 Clover street, Ottawa, ON","2475 Clover street, Ottawa, ON",2
+165725,way,483047965,45.3754798,-75.675949,,2471,Clover Street,semi_detached_house,"2471 Clover street, Ottawa, ON","2471 Clover street, Ottawa, ON",2
+165792,way,483048057,45.3798645,-75.6765438,,1547,Clover Street,semi_detached_house,"1547 Clover street, Ottawa, ON","1547 Clover street, Ottawa, ON",2
+165830,way,483048096,45.3804153,-75.6752595,,1061,Aldéa Avenue,semi_detached_house,"1061 Aldéa avenue, Ottawa, ON","1061 Aldéa avenue, Ottawa, ON",2
+165937,way,483056440,45.3833499,-75.6749121,,1481,Brûlé Avenue,semi_detached_house,"1481 Brûlé avenue, Ottawa, ON","1481 Brûlé avenue, Ottawa, ON",2
+166331,way,483070227,45.3444096,-75.6614225,,2296,Shanegal Crescent,semi_detached_house,"2296 Shanegal crescent, Ottawa, ON","2296 Shanegal crescent, Ottawa, ON",2
+167726,way,483110875,45.4058298,-75.6368413,,1621,Dixie Street,semi_detached_house,"1621 Dixie street, Ottawa, ON","1621 Dixie street, Ottawa, ON",2
+167840,way,483110993,45.4005214,-75.639356,,682,Hastings Avenue,semi_detached_house,"682 Hastings avenue, Ottawa, ON","682 Hastings avenue, Ottawa, ON",2
+167977,way,483111225,45.4001757,-75.6394022,,677,Smyth Road,semi_detached_house,"677 Smyth road, Ottawa, ON","677 Smyth road, Ottawa, ON",2
+168588,way,483215316,45.3566926,-75.6451719,,3501,Southgate Road,semi_detached_house,"3501 Southgate road, Ottawa, ON","3501 Southgate road, Ottawa, ON",2
+168601,way,483215329,45.355616,-75.6475708,,3441,Southgate Road,semi_detached_house,"3441 Southgate road, Ottawa, ON","3441 Southgate road, Ottawa, ON",2
+168638,way,483215367,45.356334,-75.6488534,,1315,Fontenay Crescent,semi_detached_house,"1315 Fontenay crescent, Ottawa, ON","1315 Fontenay crescent, Ottawa, ON",2
+168749,way,483215484,45.3559624,-75.6486793,,1308,Fontenay Crescent,semi_detached_house,"1308 Fontenay crescent, Ottawa, ON","1308 Fontenay crescent, Ottawa, ON",2
+168778,way,483246203,45.3816452,-75.6723137,,1128,Apolydore Avenue,semi_detached_house,"1128 Apolydore avenue, Ottawa, ON","1128 Apolydore avenue, Ottawa, ON",2
+169077,way,483246595,45.375947,-75.6629324,,1264,Portland Avenue,semi_detached_house,"1264 Portland avenue, Ottawa, ON","1264 Portland avenue, Ottawa, ON",2
+169190,way,483246723,45.3768518,-75.6730924,,2435,Clémentine Boulevard,semi_detached_house,"2435 Clémentine boulevard, Ottawa, ON","2435 Clémentine boulevard, Ottawa, ON",2
+169697,way,483275135,45.3915533,-75.6118506,,2437,Walkley Road,semi_detached_house,"2437 Walkley road, Ottawa, ON","2437 Walkley road, Ottawa, ON",2
+169822,way,483275282,45.3917838,-75.6112121,,2453,Walkley Road,semi_detached_house,"2453 Walkley road, Ottawa, ON","2453 Walkley road, Ottawa, ON",2
+169902,way,483275381,45.3916259,-75.6186396,,2163,St-Laurent Boulevard,semi_detached_house,"2163 St-laurent boulevard, Ottawa, ON","2163 St-laurent boulevard, Ottawa, ON",2
+170004,way,483275502,45.3911402,-75.6128804,,2413,Walkley Road,semi_detached_house,"2413 Walkley road, Ottawa, ON","2413 Walkley road, Ottawa, ON",2
+170961,way,483307243,45.4550729,-75.5913144,,785,Salaberry Street,semi_detached_house,"785 Salaberry street, Ottawa, ON","785 Salaberry street, Ottawa, ON",2
+170969,way,483307254,45.4565395,-75.5921258,,2176,Bickerton Avenue,semi_detached_house,"2176 Bickerton avenue, Ottawa, ON","2176 Bickerton avenue, Ottawa, ON",2
+171010,way,483307346,45.4529448,-75.5932495,,823,Eastvale Drive,semi_detached_house,"823 Eastvale drive, Ottawa, ON","823 Eastvale drive, Ottawa, ON",2
+171061,way,483307427,45.4600048,-75.5951178,,2131,Casey Avenue,semi_detached_house,"2131 Casey avenue, Ottawa, ON","2131 Casey avenue, Ottawa, ON",2
+171516,way,483311265,45.4520933,-75.6014613,,2059,Gatineau View Crescent,semi_detached_house,"2059 Gatineau view crescent, Ottawa, ON","2059 Gatineau view crescent, Ottawa, ON",2
+172366,way,483449950,45.4608086,-75.5959633,,2247,Fillmore Crescent,semi_detached_house,"2247 Fillmore crescent, Ottawa, ON","2247 Fillmore crescent, Ottawa, ON",2
+173147,way,483659833,45.3637717,-75.6446525,,44,Gentle Gate Crescent,semi_detached_house,"44 Gentle gate crescent, Ottawa, ON","44 Gentle gate crescent, Ottawa, ON",2
+173185,way,483659872,45.3642369,-75.6446475,,35,Gentle Gate Crescent,semi_detached_house,"35 Gentle gate crescent, Ottawa, ON","35 Gentle gate crescent, Ottawa, ON",2
+173336,way,483660145,45.3632666,-75.6447718,,97,Celtic Court,semi_detached_house,"97 Celtic court, Ottawa, ON","97 Celtic court, Ottawa, ON",2
+173387,way,483660201,45.3615552,-75.6467673,,36,Greenboro Crescent,semi_detached_house,"36 Greenboro crescent, Ottawa, ON","36 Greenboro crescent, Ottawa, ON",2
+173404,way,483660222,45.3636513,-75.644564,,48,Gentle Gate Crescent,semi_detached_house,"48 Gentle gate crescent, Ottawa, ON","48 Gentle gate crescent, Ottawa, ON",2
+173485,way,483660332,45.3615172,-75.6445515,,92,Greenboro Crescent,semi_detached_house,"92 Greenboro crescent, Ottawa, ON","92 Greenboro crescent, Ottawa, ON",2
+174009,way,483702323,45.3805597,-75.6432317,,1697,Heron Road,semi_detached_house,"1697 Heron road, Ottawa, ON","1697 Heron road, Ottawa, ON",2
+174222,way,483702572,45.3802764,-75.6486373,,2391,Briar Hill Drive,semi_detached_house,"2391 Briar hill drive, Ottawa, ON","2391 Briar hill drive, Ottawa, ON",2
+174923,way,483712163,45.4405873,-75.6392325,,677,Cummings Avenue,semi_detached_house,"677 Cummings avenue, Ottawa, ON","677 Cummings avenue, Ottawa, ON",2
+174974,way,483712216,45.4375985,-75.638617,,755,Borthwick Avenue,semi_detached_house,"755 Borthwick avenue, Ottawa, ON","755 Borthwick avenue, Ottawa, ON",2
+175098,way,483712533,45.438517,-75.6381039,,737,Cummings Avenue,semi_detached_house,"737 Cummings avenue, Ottawa, ON","737 Cummings avenue, Ottawa, ON",2
+175524,way,483720317,45.4419723,-75.6281137,,717 A,Carson's Road,semi_detached_house,"717 A Carson's road, Ottawa, ON","717 A Carson's road, Ottawa, ON",2
+175927,way,483735320,45.3714083,-75.6601345,,1272,Walkley Road,semi_detached_house,"1272 Walkley road, Ottawa, ON","1272 Walkley road, Ottawa, ON",2
+176143,way,483739504,45.4341615,-75.6378308,,857,Trojan Avenue,semi_detached_house,"857 Trojan avenue, Ottawa, ON","857 Trojan avenue, Ottawa, ON",2
+178049,way,484009406,45.4469214,-75.5920432,,984,Miss Ottawa Street,semi_detached_house,"984 Miss ottawa street, Ottawa, ON","984 Miss ottawa street, Ottawa, ON",2
+178156,way,484079284,45.4267282,-75.6403728,,694,Alesther Street,semi_detached_house,"694 Alesther street, Ottawa, ON","694 Alesther street, Ottawa, ON",2
+179764,way,484343036,45.4560795,-75.5346542,,1714,Sapins Garden,semi_detached_house,"1714 Sapins garden, Ottawa, ON","1714 Sapins garden, Ottawa, ON",2
+180877,way,484351656,45.4640247,-75.5422721,,1267,Marenger Street,semi_detached_house,"1267 Marenger street, Ottawa, ON","1267 Marenger street, Ottawa, ON",2
+180882,way,484351662,45.4675859,-75.55164,,1097,Burgundy Lane,semi_detached_house,"1097 Burgundy lane, Ottawa, ON","1097 Burgundy lane, Ottawa, ON",2
+181152,way,484370931,45.466702,-75.5330578,,1340,Boyer Road,semi_detached_house,"1340 Boyer road, Ottawa, ON","1340 Boyer road, Ottawa, ON",2
+181281,way,484384540,45.4745604,-75.5353649,,1097,St. Jovite Ridge,semi_detached_house,"1097 St. jovite ridge, Ottawa, ON","1097 St. jovite ridge, Ottawa, ON",2
+181300,way,484384560,45.4750793,-75.5338892,,1125,Taffy Lane,semi_detached_house,"1125 Taffy lane, Ottawa, ON","1125 Taffy lane, Ottawa, ON",2
+181413,way,484384697,45.4729326,-75.5319247,,1772,Stoneboat Crescent,semi_detached_house,"1772 Stoneboat crescent, Ottawa, ON","1772 Stoneboat crescent, Ottawa, ON",2
+181573,way,484384891,45.4725169,-75.5311233,,1787,Stoneboat Crescent,semi_detached_house,"1787 Stoneboat crescent, Ottawa, ON","1787 Stoneboat crescent, Ottawa, ON",2
+181610,way,484384949,45.4748904,-75.5337852,,1121,Taffy Lane,semi_detached_house,"1121 Taffy lane, Ottawa, ON","1121 Taffy lane, Ottawa, ON",2
+181626,way,484384984,45.4749169,-75.5327477,,1103,Taffy Lane,semi_detached_house,"1103 Taffy lane, Ottawa, ON","1103 Taffy lane, Ottawa, ON",2
+182623,way,484449041,45.3334028,-75.7395291,,23,Benlea Drive,semi_detached_house,"23 Benlea drive, Ottawa, ON","23 Benlea drive, Ottawa, ON",2
+183319,way,484530016,45.4560523,-75.5143567,,6669,Leblond Street,semi_detached_house,"6669 Leblond street, Ottawa, ON","6669 Leblond street, Ottawa, ON",2
+184546,way,484564187,45.4769492,-75.5413453,,1136,St-Emmanuel Terrace,semi_detached_house,"1136 St-emmanuel terrace, Ottawa, ON","1136 St-emmanuel terrace, Ottawa, ON",2
+184764,way,484564423,45.4776179,-75.5415877,,1157,St-Emmanuel Terrace,semi_detached_house,"1157 St-emmanuel terrace, Ottawa, ON","1157 St-emmanuel terrace, Ottawa, ON",2
+185038,way,484582601,45.4669977,-75.5530825,,1121,Burgundy Lane,semi_detached_house,"1121 Burgundy lane, Ottawa, ON","1121 Burgundy lane, Ottawa, ON",2
+185039,way,484582602,45.4678484,-75.5538509,,1143,Burgundy Lane,semi_detached_house,"1143 Burgundy lane, Ottawa, ON","1143 Burgundy lane, Ottawa, ON",2
+185983,way,484711840,45.4839942,-75.5122474,,882,Lawnsberry Drive,semi_detached_house,"882 Lawnsberry drive, Ottawa, ON","882 Lawnsberry drive, Ottawa, ON",2
+186391,way,484712347,45.485898,-75.5154233,,8058,Jeanne-d'Arc Boulevard North,semi_detached_house,"8058 Jeanne-d'arc boulevard north, Ottawa, ON","8058 Jeanne-d'arc boulevard north, Ottawa, ON",2
+187047,way,484737245,45.4752269,-75.5453376,,1092,St. Lucia Place,semi_detached_house,"1092 St. lucia place, Ottawa, ON","1092 St. lucia place, Ottawa, ON",2
+187557,way,484749711,45.4845519,-75.5218004,,1133,Grenoble Crescent,semi_detached_house,"1133 Grenoble crescent, Ottawa, ON","1133 Grenoble crescent, Ottawa, ON",2
+187693,way,484749868,45.4850924,-75.5239298,,7954,Décarie Drive,semi_detached_house,"7954 Décarie drive, Ottawa, ON","7954 Décarie drive, Ottawa, ON",2
+187713,way,484749897,45.4844637,-75.5245756,,1062,Grenoble Crescent,semi_detached_house,"1062 Grenoble crescent, Ottawa, ON","1062 Grenoble crescent, Ottawa, ON",2
+187763,way,484749953,45.4854248,-75.5279704,,7897,Décarie Drive,semi_detached_house,"7897 Décarie drive, Ottawa, ON","7897 Décarie drive, Ottawa, ON",2
+188466,way,484968829,45.4828036,-75.515,,886,Borland Drive,semi_detached_house,"886 Borland drive, Ottawa, ON","886 Borland drive, Ottawa, ON",2
+188877,way,485437724,45.4309351,-75.6861289,,238,York Street,semi_detached_house,"238 York street, Ottawa, ON","238 York street, Ottawa, ON",2
+188943,way,486245570,45.2722905,-75.7530293,,4,Amherst Crescent,semi_detached_house,"4 Amherst crescent, Ottawa, ON","4 Amherst crescent, Ottawa, ON",2
+188944,way,486245571,45.2722457,-75.7532626,,6,Amherst Crescent,semi_detached_house,"6 Amherst crescent, Ottawa, ON","6 Amherst crescent, Ottawa, ON",2
+188976,way,486245603,45.2709807,-75.7540797,,6,Exeter Drive,semi_detached_house,"6 Exeter drive, Ottawa, ON","6 Exeter drive, Ottawa, ON",2
+188984,way,486245611,45.2714898,-75.7553964,,25,Tulane Crescent,semi_detached_house,"25 Tulane crescent, Ottawa, ON","25 Tulane crescent, Ottawa, ON",2
+189027,way,486245654,45.2824963,-75.7562917,,30,Malvern Drive,semi_detached_house,"30 Malvern drive, Ottawa, ON","30 Malvern drive, Ottawa, ON",2
+189036,way,486245671,45.2832279,-75.7558798,,16,Ventnor Way,semi_detached_house,"16 Ventnor way, Ottawa, ON","16 Ventnor way, Ottawa, ON",2
+189498,way,507675400,45.293634,-75.7373374,,19,Montana Way,semi_detached_house,"19 Montana way, Ottawa, ON","19 Montana way, Ottawa, ON",2
+189501,way,507675403,45.2938699,-75.7378856,,29,Montana Way,semi_detached_house,"29 Montana way, Ottawa, ON","29 Montana way, Ottawa, ON",2
+189504,way,507675406,45.2941381,-75.7385152,,41,Montana Way,semi_detached_house,"41 Montana way, Ottawa, ON","41 Montana way, Ottawa, ON",2
+189542,way,507853766,45.3664498,-75.7391323,,15,Coleridge Street,semi_detached_house,"15 Coleridge street, Ottawa, ON","15 Coleridge street, Ottawa, ON",2
+189545,way,507853769,45.3668742,-75.7376393,,141,Central Park Drive,semi_detached_house,"141 Central park drive, Ottawa, ON","141 Central park drive, Ottawa, ON",2
+190585,way,521687231,45.3155096,-75.5993765,,4254,Kelly Farm Drive,semi_detached_house,"4254 Kelly farm drive, Ottawa, ON","4254 Kelly farm drive, Ottawa, ON",2
+190899,way,532766773,45.2480931,-75.7352497,,529,Egret Way,semi_detached_house,"529 Egret way, Ottawa, ON","529 Egret way, Ottawa, ON",2
+191222,way,535397867,45.4525891,-75.5215052,,1836,Chaîne Court,semi_detached_house,"1836 Chaîne court, Ottawa, ON","1836 Chaîne court, Ottawa, ON",2
+191379,way,537564465,45.275774,-75.9295253,,338,Horseshoe Crescent,semi_detached_house,"338 Horseshoe crescent, Ottawa, ON","338 Horseshoe crescent, Ottawa, ON",2
+191390,way,537564476,45.2753686,-75.929685,,256,Horseshoe Crescent,semi_detached_house,"256 Horseshoe crescent, Ottawa, ON","256 Horseshoe crescent, Ottawa, ON",2
+191419,way,537564505,45.2747028,-75.929271,,283,Horseshoe Crescent,semi_detached_house,"283 Horseshoe crescent, Ottawa, ON","283 Horseshoe crescent, Ottawa, ON",2
+191447,way,537564542,45.2709269,-75.9291489,,4,Amberlakes Drive,semi_detached_house,"4 Amberlakes drive, Ottawa, ON","4 Amberlakes drive, Ottawa, ON",2
+191451,way,537564549,45.2699254,-75.925617,,49,Amberlakes Drive,semi_detached_house,"49 Amberlakes drive, Ottawa, ON","49 Amberlakes drive, Ottawa, ON",2
+191456,way,537564554,45.2707938,-75.9258735,,94,Amberlakes Drive,semi_detached_house,"94 Amberlakes drive, Ottawa, ON","94 Amberlakes drive, Ottawa, ON",2
+191504,way,538584351,45.3567545,-75.6409881,,175,Solera Circle,semi_detached_house,"175 Solera circle, Ottawa, ON","175 Solera circle, Ottawa, ON",2
+191525,way,538584372,45.3608687,-75.646323,,52,Greenboro Crescent,semi_detached_house,"52 Greenboro crescent, Ottawa, ON","52 Greenboro crescent, Ottawa, ON",2
+191527,way,538584374,45.361524,-75.6466855,,38,Greenboro Crescent,semi_detached_house,"38 Greenboro crescent, Ottawa, ON","38 Greenboro crescent, Ottawa, ON",2
+191528,way,538584375,45.3618267,-75.64692,,30,Greenboro Crescent,semi_detached_house,"30 Greenboro crescent, Ottawa, ON","30 Greenboro crescent, Ottawa, ON",2
+191532,way,538584379,45.3621543,-75.6457917,,16,Fallow Court,semi_detached_house,"16 Fallow court, Ottawa, ON","16 Fallow court, Ottawa, ON",2
+191533,way,538584380,45.3619634,-75.6457019,,19,Fallow Court,semi_detached_house,"19 Fallow court, Ottawa, ON","19 Fallow court, Ottawa, ON",2
+191557,way,538584404,45.3642256,-75.644448,,39,Gentle Gate Crescent,semi_detached_house,"39 Gentle gate crescent, Ottawa, ON","39 Gentle gate crescent, Ottawa, ON",2
+191561,way,538584415,45.362934,-75.6458554,,77,Celtic Court,semi_detached_house,"77 Celtic court, Ottawa, ON","77 Celtic court, Ottawa, ON",2
+191562,way,538584416,45.3627106,-75.6446219,,109,Celtic Court,semi_detached_house,"109 Celtic court, Ottawa, ON","109 Celtic court, Ottawa, ON",2
+191567,way,538584421,45.3626868,-75.6454685,,127,Celtic Court,semi_detached_house,"127 Celtic court, Ottawa, ON","127 Celtic court, Ottawa, ON",2
+191598,way,538584453,45.3469031,-75.6607049,,3438,Wyman Crescent,semi_detached_house,"3438 Wyman crescent, Ottawa, ON","3438 Wyman crescent, Ottawa, ON",2
+191603,way,538584458,45.3444275,-75.6612857,,2298,Shanegal Crescent,semi_detached_house,"2298 Shanegal crescent, Ottawa, ON","2298 Shanegal crescent, Ottawa, ON",2
+191610,way,538584465,45.3438546,-75.6622208,,2281,Shanegal Crescent,semi_detached_house,"2281 Shanegal crescent, Ottawa, ON","2281 Shanegal crescent, Ottawa, ON",2
+191612,way,538584467,45.3439408,-75.6616672,,2289,Shanegal Crescent,semi_detached_house,"2289 Shanegal crescent, Ottawa, ON","2289 Shanegal crescent, Ottawa, ON",2
+191621,way,538584476,45.343355,-75.661237,,2332,Shanegal Crescent,semi_detached_house,"2332 Shanegal crescent, Ottawa, ON","2332 Shanegal crescent, Ottawa, ON",2
+191652,way,538584510,45.3434272,-75.6643328,,2312,Cotter's Crescent,semi_detached_house,"2312 Cotter's crescent, Ottawa, ON","2312 Cotter's crescent, Ottawa, ON",2
+191778,way,541589440,45.2776374,-75.7526209,,3,Glacier Street,semi_detached_house,"3 Glacier street, Ottawa, ON","3 Glacier street, Ottawa, ON",2
+191887,way,541589550,45.2622961,-75.7636767,,201,Harthill Way,semi_detached_house,"201 Harthill way, Ottawa, ON","201 Harthill way, Ottawa, ON",2
+191905,way,541589568,45.2620101,-75.7616098,,269,Broxburn Crescent,semi_detached_house,"269 Broxburn crescent, Ottawa, ON","269 Broxburn crescent, Ottawa, ON",2
+191908,way,541589571,45.2624313,-75.7619475,,283,Broxburn Crescent,semi_detached_house,"283 Broxburn crescent, Ottawa, ON","283 Broxburn crescent, Ottawa, ON",2
+192039,way,541746171,45.3533276,-75.7928713,,969,Watson Street,semi_detached_house,"969 Watson street, Ottawa, ON","969 Watson street, Ottawa, ON",2
+192381,way,543418460,45.2875095,-75.7560501,,86,Fieldgate Drive,semi_detached_house,"86 Fieldgate drive, Ottawa, ON","86 Fieldgate drive, Ottawa, ON",2
+192382,way,543418461,45.2873534,-75.7559186,,82,Fieldgate Drive,semi_detached_house,"82 Fieldgate drive, Ottawa, ON","82 Fieldgate drive, Ottawa, ON",2
+193356,way,545360489,45.3639614,-75.7913734,,2652,Conn Street,semi_detached_house,"2652 Conn street, Ottawa, ON","2652 Conn street, Ottawa, ON",2
+193555,way,546222378,45.348021,-75.6472175,,2553,Hunter's Point Crescent,semi_detached_house,"2553 Hunter's point crescent, Ottawa, ON","2553 Hunter's point crescent, Ottawa, ON",2
+193556,way,546222379,45.3479213,-75.6471505,,2549,Hunter's Point Crescent,semi_detached_house,"2549 Hunter's point crescent, Ottawa, ON","2549 Hunter's point crescent, Ottawa, ON",2
+193561,way,546222387,45.347161,-75.6477362,,2519,Hunter's Point Crescent,semi_detached_house,"2519 Hunter's point crescent, Ottawa, ON","2519 Hunter's point crescent, Ottawa, ON",2
+195500,way,546645059,45.318543,-75.8375094,,50,Oberon Street,semi_detached_house,"50 Oberon street, Ottawa, ON","50 Oberon street, Ottawa, ON",2
+195507,way,546645066,45.3173994,-75.8377027,,45,Ariel Court,semi_detached_house,"45 Ariel court, Ottawa, ON","45 Ariel court, Ottawa, ON",2
+195523,way,546645082,45.317625,-75.839262,,22,Oberon Street,semi_detached_house,"22 Oberon street, Ottawa, ON","22 Oberon street, Ottawa, ON",2
+195921,way,546723474,45.3329787,-75.7636661,,22,Colfax Street,semi_detached_house,"22 Colfax street, Ottawa, ON","22 Colfax street, Ottawa, ON",2
+195927,way,546723480,45.3336366,-75.7630057,,42,Bertona Street,semi_detached_house,"42 Bertona street, Ottawa, ON","42 Bertona street, Ottawa, ON",2
+195946,way,546725684,45.3212335,-75.7818532,,49,Midland Crescent,semi_detached_house,"49 Midland crescent, Ottawa, ON","49 Midland crescent, Ottawa, ON",2
+195975,way,546731735,45.3282571,-75.7772787,,66,Elvaston Avenue,semi_detached_house,"66 Elvaston avenue, Ottawa, ON","66 Elvaston avenue, Ottawa, ON",2
+196000,way,546731761,45.3304087,-75.7771276,,48,Shoreham Avenue,semi_detached_house,"48 Shoreham avenue, Ottawa, ON","48 Shoreham avenue, Ottawa, ON",2
+196025,way,546731786,45.3314262,-75.7747411,,31,Bentworth Crescent,semi_detached_house,"31 Bentworth crescent, Ottawa, ON","31 Bentworth crescent, Ottawa, ON",2
+196040,way,546731802,45.3313642,-75.7765561,,28,Shoreham Avenue,semi_detached_house,"28 Shoreham avenue, Ottawa, ON","28 Shoreham avenue, Ottawa, ON",2
+196054,way,546731816,45.3321249,-75.7782613,,81,Craig Henry Drive,semi_detached_house,"81 Craig henry drive, Ottawa, ON","81 Craig henry drive, Ottawa, ON",2
+196119,way,546731887,45.3256892,-75.7920039,,91,Hobart Crescent,semi_detached_house,"91 Hobart crescent, Ottawa, ON","91 Hobart crescent, Ottawa, ON",2
+196131,way,546731924,45.3259167,-75.7945858,,43,Hobart Crescent,semi_detached_house,"43 Hobart crescent, Ottawa, ON","43 Hobart crescent, Ottawa, ON",2
+196268,way,546732156,45.3271363,-75.7900256,,159,McClellan Road,semi_detached_house,"159 Mcclellan road, Ottawa, ON","159 Mcclellan road, Ottawa, ON",2
+196280,way,546734801,45.3361896,-75.7343404,,85,Woodfield Drive,semi_detached_house,"85 Woodfield drive, Ottawa, ON","85 Woodfield drive, Ottawa, ON",2
+196321,way,546734842,45.3362362,-75.7328208,,64,Woodfield Drive,semi_detached_house,"64 Woodfield drive, Ottawa, ON","64 Woodfield drive, Ottawa, ON",2
+196322,way,546734843,45.3359724,-75.7328197,,7,Downsview Crescent,semi_detached_house,"7 Downsview crescent, Ottawa, ON","7 Downsview crescent, Ottawa, ON",2
+196325,way,546734846,45.3356033,-75.7332353,,12,Downsview Crescent,semi_detached_house,"12 Downsview crescent, Ottawa, ON","12 Downsview crescent, Ottawa, ON",2
+196327,way,546734848,45.3356118,-75.7326446,,15,Downsview Crescent,semi_detached_house,"15 Downsview crescent, Ottawa, ON","15 Downsview crescent, Ottawa, ON",2
+196328,way,546734849,45.3354904,-75.7326106,,17,Downsview Crescent,semi_detached_house,"17 Downsview crescent, Ottawa, ON","17 Downsview crescent, Ottawa, ON",2
+196356,way,546734877,45.3362853,-75.737748,,31,Nestow Drive,semi_detached_house,"31 Nestow drive, Ottawa, ON","31 Nestow drive, Ottawa, ON",2
+196362,way,546734886,45.3356648,-75.7381042,,26,Nestow Drive,semi_detached_house,"26 Nestow drive, Ottawa, ON","26 Nestow drive, Ottawa, ON",2
+196423,way,546734948,45.3308109,-75.748269,,1,Foxmeadow Lane,semi_detached_house,"1 Foxmeadow lane, Ottawa, ON","1 Foxmeadow lane, Ottawa, ON",2
+196441,way,546734966,45.3327869,-75.7453201,,20,Kidgrove Garden,semi_detached_house,"20 Kidgrove garden, Ottawa, ON","20 Kidgrove garden, Ottawa, ON",2
+196442,way,546734967,45.3328564,-75.745041,,16,Kidgrove Garden,semi_detached_house,"16 Kidgrove garden, Ottawa, ON","16 Kidgrove garden, Ottawa, ON",2
+196483,way,546737306,45.3338069,-75.7898134,,49,Abingdon Drive,semi_detached_house,"49 Abingdon drive, Ottawa, ON","49 Abingdon drive, Ottawa, ON",2
+196813,way,546743609,45.3346897,-75.7802733,,12,Lindhurst Crescent,semi_detached_house,"12 Lindhurst crescent, Ottawa, ON","12 Lindhurst crescent, Ottawa, ON",2
+196821,way,546743618,45.3344885,-75.7827152,,33,Westfield Crescent,semi_detached_house,"33 Westfield crescent, Ottawa, ON","33 Westfield crescent, Ottawa, ON",2
+197202,way,546744046,45.3389304,-75.7826747,,49,Meadowbank Drive,semi_detached_house,"49 Meadowbank drive, Ottawa, ON","49 Meadowbank drive, Ottawa, ON",2
+197207,way,546744051,45.3384238,-75.7826594,,46,Meadowbank Drive,semi_detached_house,"46 Meadowbank drive, Ottawa, ON","46 Meadowbank drive, Ottawa, ON",2
+197753,way,546939815,45.3987245,-75.6771527,,25,Avenue Road,semi_detached_house,"25 Avenue road, Ottawa, ON","25 Avenue road, Ottawa, ON",2
+197865,way,546954139,45.3647089,-75.6868429,,730,Mooney's Bay Place,semi_detached_house,"730 Mooney's bay place, Ottawa, ON","730 Mooney's bay place, Ottawa, ON",2
+198071,way,546960616,45.3436517,-75.7409866,,78,Fieldrow Street,semi_detached_house,"78 Fieldrow street, Ottawa, ON","78 Fieldrow street, Ottawa, ON",2
+198086,way,546961428,45.3427584,-75.7316314,,156,Viewmount Drive,semi_detached_house,"156 Viewmount drive, Ottawa, ON","156 Viewmount drive, Ottawa, ON",2
+198095,way,546961458,45.3428304,-75.7396785,,31,Aldercrest Drive,semi_detached_house,"31 Aldercrest drive, Ottawa, ON","31 Aldercrest drive, Ottawa, ON",2
+198802,way,547157354,45.3639814,-75.7455302,,1253,Maitland Avenue,semi_detached_house,"1253 Maitland avenue, Ottawa, ON","1253 Maitland avenue, Ottawa, ON",2
+198803,way,547157355,45.3639611,-75.745291,,1259,Maitland Avenue,semi_detached_house,"1259 Maitland avenue, Ottawa, ON","1259 Maitland avenue, Ottawa, ON",2
+198812,way,547157364,45.3639268,-75.7431453,,1313,Maitland Avenue,semi_detached_house,"1313 Maitland avenue, Ottawa, ON","1313 Maitland avenue, Ottawa, ON",2
+198880,way,547157457,45.3586822,-75.7451302,,3,Pender Street,semi_detached_house,"3 Pender street, Ottawa, ON","3 Pender street, Ottawa, ON",2
+198908,way,547157491,45.3593969,-75.7451326,,1561,Baseline Road,semi_detached_house,"1561 Baseline road, Ottawa, ON","1561 Baseline road, Ottawa, ON",2
+198909,way,547157492,45.3594415,-75.7450069,,1557,Baseline Road,semi_detached_house,"1557 Baseline road, Ottawa, ON","1557 Baseline road, Ottawa, ON",2
+198910,way,547157493,45.359537,-75.744669,,1350,Henry Farm Drive,semi_detached_house,"1350 Henry farm drive, Ottawa, ON","1350 Henry farm drive, Ottawa, ON",2
+198915,way,547157498,45.3604222,-75.7454199,,1318,Henry Farm Drive,semi_detached_house,"1318 Henry farm drive, Ottawa, ON","1318 Henry farm drive, Ottawa, ON",2
+198922,way,547162119,45.3608929,-75.7200452,,1207,Meadowlands Drive East,semi_detached_house,"1207 Meadowlands drive east, Ottawa, ON","1207 Meadowlands drive east, Ottawa, ON",2
+199005,way,547162202,45.3524005,-75.7260057,,5,Southview Crescent,semi_detached_house,"5 Southview crescent, Ottawa, ON","5 Southview crescent, Ottawa, ON",2
+199027,way,547162224,45.3535397,-75.7277543,,52,Mulvagh Avenue,semi_detached_house,"52 Mulvagh avenue, Ottawa, ON","52 Mulvagh avenue, Ottawa, ON",2
+199070,way,547162267,45.3574087,-75.7247482,,14,Newbury Avenue,semi_detached_house,"14 Newbury avenue, Ottawa, ON","14 Newbury avenue, Ottawa, ON",2
+199073,way,547162270,45.3570712,-75.7255289,,28,Newbury Avenue,semi_detached_house,"28 Newbury avenue, Ottawa, ON","28 Newbury avenue, Ottawa, ON",2
+199077,way,547162274,45.3568567,-75.7259909,,36,Newbury Avenue,semi_detached_house,"36 Newbury avenue, Ottawa, ON","36 Newbury avenue, Ottawa, ON",2
+199081,way,547162278,45.3564229,-75.7262035,,51,Tiverton Drive,semi_detached_house,"51 Tiverton drive, Ottawa, ON","51 Tiverton drive, Ottawa, ON",2
+199202,way,547162399,45.3647704,-75.7259987,,118,Encore Private,semi_detached_house,"118 Encore private, Ottawa, ON","118 Encore private, Ottawa, ON",2
+199478,way,547163610,45.3504889,-75.7258009,,60,Bowhill Avenue,semi_detached_house,"60 Bowhill avenue, Ottawa, ON","60 Bowhill avenue, Ottawa, ON",2
+199485,way,547163617,45.3512268,-75.7240283,,30,Bowhill Avenue,semi_detached_house,"30 Bowhill avenue, Ottawa, ON","30 Bowhill avenue, Ottawa, ON",2
+199493,way,547163625,45.3518661,-75.72409,,25,Bowhill Avenue,semi_detached_house,"25 Bowhill avenue, Ottawa, ON","25 Bowhill avenue, Ottawa, ON",2
+199535,way,547166929,45.3507627,-75.8303405,,140,Connemara Private,semi_detached_house,"140 Connemara private, Ottawa, ON","140 Connemara private, Ottawa, ON",2
+199561,way,547167947,45.3272463,-75.899136,,101,Leacock Drive,semi_detached_house,"101 Leacock drive, Ottawa, ON","101 Leacock drive, Ottawa, ON",2
+199842,way,547172741,45.307259,-75.8938744,,35,Nanook Crescent,semi_detached_house,"35 Nanook crescent, Ottawa, ON","35 Nanook crescent, Ottawa, ON",2
+201225,way,547367542,45.305485,-75.8998603,,11,Sewell Way,semi_detached_house,"11 Sewell way, Ottawa, ON","11 Sewell way, Ottawa, ON",2
+201389,way,547367706,45.2845621,-75.9216134,,375,Warmstone Drive,semi_detached_house,"375 Warmstone drive, Ottawa, ON","375 Warmstone drive, Ottawa, ON",2
+201398,way,547367715,45.2849344,-75.9213409,,372,Warmstone Drive,semi_detached_house,"372 Warmstone drive, Ottawa, ON","372 Warmstone drive, Ottawa, ON",2
+201407,way,547367724,45.2856164,-75.9221915,,344,Warmstone Drive,semi_detached_house,"344 Warmstone drive, Ottawa, ON","344 Warmstone drive, Ottawa, ON",2
+202188,way,547499695,45.3619681,-75.7881494,,814,Forest Street South,semi_detached_house,"814 Forest street south, Ottawa, ON","814 Forest street south, Ottawa, ON",2
+202217,way,547499726,45.3600498,-75.7875507,,865,Alpine Avenue,semi_detached_house,"865 Alpine avenue, Ottawa, ON","865 Alpine avenue, Ottawa, ON",2
+202293,way,547544617,45.402406,-75.6286604,,1867,Russell Road,semi_detached_house,"1867 Russell road, Ottawa, ON","1867 Russell road, Ottawa, ON",2
+202316,way,547545455,45.4010165,-75.6278845,,915,Smyth Road,semi_detached_house,"915 Smyth road, Ottawa, ON","915 Smyth road, Ottawa, ON",2
+202362,way,547547821,45.350034,-75.7977507,,11,Splinter Crescent,semi_detached_house,"11 Splinter crescent, Ottawa, ON","11 Splinter crescent, Ottawa, ON",2
+202368,way,547547827,45.3497518,-75.7973854,,89,Splinter Crescent,semi_detached_house,"89 Splinter crescent, Ottawa, ON","89 Splinter crescent, Ottawa, ON",2
+202374,way,547547833,45.3495975,-75.7964286,,76,Splinter Crescent,semi_detached_house,"76 Splinter crescent, Ottawa, ON","76 Splinter crescent, Ottawa, ON",2
+202418,way,547547877,45.3478123,-75.7992008,,1071,Alenmede Crescent,semi_detached_house,"1071 Alenmede crescent, Ottawa, ON","1071 Alenmede crescent, Ottawa, ON",2
+202437,way,547548949,45.3492614,-75.7759479,,1225,Cobden Road,semi_detached_house,"1225 Cobden road, Ottawa, ON","1225 Cobden road, Ottawa, ON",2
+202450,way,547548963,45.3520568,-75.773586,,1263,Highgate Road,semi_detached_house,"1263 Highgate road, Ottawa, ON","1263 Highgate road, Ottawa, ON",2
+202456,way,547548969,45.3511919,-75.773674,,1286,Highgate Road,semi_detached_house,"1286 Highgate road, Ottawa, ON","1286 Highgate road, Ottawa, ON",2
+202463,way,547548976,45.35075,-75.771535,,1330,Highgate Road,semi_detached_house,"1330 Highgate road, Ottawa, ON","1330 Highgate road, Ottawa, ON",2
+202522,way,547553309,45.3642317,-75.7702925,,952,Woodroffe Avenue,semi_detached_house,"952 Woodroffe avenue, Ottawa, ON","952 Woodroffe avenue, Ottawa, ON",2
+202541,way,547558712,45.3725165,-75.7644394,,807,Hare Avenue,semi_detached_house,"807 Hare avenue, Ottawa, ON","807 Hare avenue, Ottawa, ON",2
+202572,way,547558743,45.3803005,-75.7745941,,81,Lockhart Avenue North,semi_detached_house,"81 Lockhart avenue north, Ottawa, ON","81 Lockhart avenue north, Ottawa, ON",2
+202620,way,547558791,45.3684374,-75.7773715,,484 B,Richardson Avenue,semi_detached_house,"484 B Richardson avenue, Ottawa, ON","484 B Richardson avenue, Ottawa, ON",2
+202644,way,547558816,45.3711492,-75.7735517,,446,Ancaster Avenue,semi_detached_house,"446 Ancaster avenue, Ottawa, ON","446 Ancaster avenue, Ottawa, ON",2
+202653,way,547558834,45.3746058,-75.7756045,,204,Ancaster Avenue,semi_detached_house,"204 Ancaster avenue, Ottawa, ON","204 Ancaster avenue, Ottawa, ON",2
+202665,way,547558849,45.3751255,-75.7743557,,197,Compton Avenue,semi_detached_house,"197 Compton avenue, Ottawa, ON","197 Compton avenue, Ottawa, ON",2
+203024,way,547568076,45.2871837,-75.7313387,,111,Beatrice Drive,semi_detached_house,"111 Beatrice drive, Ottawa, ON","111 Beatrice drive, Ottawa, ON",2
+203219,way,547568290,45.2826535,-75.7377779,,71,Upminster Way,semi_detached_house,"71 Upminster way, Ottawa, ON","71 Upminster way, Ottawa, ON",2
+203223,way,547568294,45.2825247,-75.7382661,,302,Claridge Drive,semi_detached_house,"302 Claridge drive, Ottawa, ON","302 Claridge drive, Ottawa, ON",2
+203515,way,547568596,45.2897289,-75.7388844,,172,Mountshannon Drive,semi_detached_house,"172 Mountshannon drive, Ottawa, ON","172 Mountshannon drive, Ottawa, ON",2
+203634,way,547781285,45.4770894,-75.5426929,,1067,St-Emmanuel Terrace,semi_detached_house,"1067 St-emmanuel terrace, Ottawa, ON","1067 St-emmanuel terrace, Ottawa, ON",2
+203639,way,547781290,45.4761438,-75.542309,,1087,St-Emmanuel Terrace,semi_detached_house,"1087 St-emmanuel terrace, Ottawa, ON","1087 St-emmanuel terrace, Ottawa, ON",2
+203685,way,547781661,45.4757795,-75.5450332,,1083,St. Lucia Place,semi_detached_house,"1083 St. lucia place, Ottawa, ON","1083 St. lucia place, Ottawa, ON",2
+203758,way,547783501,45.4684605,-75.5503573,,1069,Burgundy Lane,semi_detached_house,"1069 Burgundy lane, Ottawa, ON","1069 Burgundy lane, Ottawa, ON",2
+203779,way,547783522,45.4643266,-75.5424505,,1255,Marenger Street,semi_detached_house,"1255 Marenger street, Ottawa, ON","1255 Marenger street, Ottawa, ON",2
+204261,way,547801128,45.367221,-75.7082508,,1413,Claymor Avenue,semi_detached_house,"1413 Claymor avenue, Ottawa, ON","1413 Claymor avenue, Ottawa, ON",2
+204351,way,547801408,45.3653719,-75.7057032,,969,Greenbriar Avenue,semi_detached_house,"969 Greenbriar avenue, Ottawa, ON","969 Greenbriar avenue, Ottawa, ON",2
+204372,way,547801429,45.360721,-75.7095351,,1093 B,Normandy Crescent,semi_detached_house,"1093 B Normandy crescent, Ottawa, ON","1093 B Normandy crescent, Ottawa, ON",2
+204389,way,547801446,45.3590561,-75.7162573,,34,Wigan Drive,semi_detached_house,"34 Wigan drive, Ottawa, ON","34 Wigan drive, Ottawa, ON",2
+204473,way,548034084,45.3822742,-75.7512435,,673,Roosevelt Avenue,semi_detached_house,"673 Roosevelt avenue, Ottawa, ON","673 Roosevelt avenue, Ottawa, ON",2
+204507,way,548034120,45.3737636,-75.7615705,,803,Maplecrest Avenue,semi_detached_house,"803 Maplecrest avenue, Ottawa, ON","803 Maplecrest avenue, Ottawa, ON",2
+204522,way,548034135,45.374647,-75.7531721,,870,Broadview Avenue,semi_detached_house,"870 Broadview avenue, Ottawa, ON","870 Broadview avenue, Ottawa, ON",2
+204525,way,548034138,45.3757107,-75.7538024,,842,Broadview Avenue,semi_detached_house,"842 Broadview avenue, Ottawa, ON","842 Broadview avenue, Ottawa, ON",2
+204566,way,548034194,45.3737729,-75.7568099,,856,Maitland Avenue,semi_detached_house,"856 Maitland avenue, Ottawa, ON","856 Maitland avenue, Ottawa, ON",2
+204588,way,548034216,45.3685876,-75.755236,,1004,Riddell Avenue South,semi_detached_house,"1004 Riddell avenue south, Ottawa, ON","1004 Riddell avenue south, Ottawa, ON",2
+204594,way,548034222,45.3677773,-75.7541512,,1035,Riddell Avenue South,semi_detached_house,"1035 Riddell avenue south, Ottawa, ON","1035 Riddell avenue south, Ottawa, ON",2
+204700,way,548036857,45.3346196,-75.6689917,,54,Niverville Private,semi_detached_house,"54 Niverville private, Ottawa, ON","54 Niverville private, Ottawa, ON",2
+204722,way,548036879,45.3344754,-75.6719585,,17,Kingsland Private,semi_detached_house,"17 Kingsland private, Ottawa, ON","17 Kingsland private, Ottawa, ON",2
+204767,way,548047014,45.3973306,-75.7574992,,234,Churchill Avenue North,semi_detached_house,"234 Churchill avenue north, Ottawa, ON","234 Churchill avenue north, Ottawa, ON",2
+204794,way,548047041,45.3949446,-75.7587939,,289,Kirchoffer Avenue,semi_detached_house,"289 Kirchoffer avenue, Ottawa, ON","289 Kirchoffer avenue, Ottawa, ON",2
+204806,way,548047055,45.385476,-75.7460885,,267,Dovercourt Avenue,semi_detached_house,"267 Dovercourt avenue, Ottawa, ON","267 Dovercourt avenue, Ottawa, ON",2
+204808,way,548047057,45.3859853,-75.746895,,275 A,Duncairn Avenue,semi_detached_house,"275 A Duncairn avenue, Ottawa, ON","275 A Duncairn avenue, Ottawa, ON",2
+204815,way,548047064,45.3855375,-75.7423672,,197,Switzer Avenue,semi_detached_house,"197 Switzer avenue, Ottawa, ON","197 Switzer avenue, Ottawa, ON",2
+204831,way,548047080,45.3845133,-75.7478351,,310,Dovercourt Avenue,semi_detached_house,"310 Dovercourt avenue, Ottawa, ON","310 Dovercourt avenue, Ottawa, ON",2
+204840,way,548047091,45.3842333,-75.7509541,,623,Melbourne Avenue,semi_detached_house,"623 Melbourne avenue, Ottawa, ON","623 Melbourne avenue, Ottawa, ON",2
+204846,way,548047097,45.3852541,-75.7536305,,576,Roosevelt Avenue,semi_detached_house,"576 Roosevelt avenue, Ottawa, ON","576 Roosevelt avenue, Ottawa, ON",2
+204854,way,548047105,45.3857094,-75.7544848,,557,Cole Avenue,semi_detached_house,"557 Cole avenue, Ottawa, ON","557 Cole avenue, Ottawa, ON",2
+204907,way,548047159,45.3925922,-75.7496337,,420,Tweedsmuir Avenue,semi_detached_house,"420 Tweedsmuir avenue, Ottawa, ON","420 Tweedsmuir avenue, Ottawa, ON",2
+204999,way,548047251,45.3970986,-75.7397739,,388,Mayfair Avenue,semi_detached_house,"388 Mayfair avenue, Ottawa, ON","388 Mayfair avenue, Ottawa, ON",2
+205012,way,548047264,45.3917184,-75.7439445,,157,Nora Street,semi_detached_house,"157 Nora street, Ottawa, ON","157 Nora street, Ottawa, ON",2
+205013,way,548047265,45.3912855,-75.7438459,,160,Nora Street,semi_detached_house,"160 Nora street, Ottawa, ON","160 Nora street, Ottawa, ON",2
+205033,way,548047285,45.387901,-75.7441196,,203,Westhaven Crescent,semi_detached_house,"203 Westhaven crescent, Ottawa, ON","203 Westhaven crescent, Ottawa, ON",2
+205078,way,548047332,45.3879587,-75.7543124,,394,Kenwood Avenue,semi_detached_house,"394 Kenwood avenue, Ottawa, ON","394 Kenwood avenue, Ottawa, ON",2
+205138,way,548797867,45.3511953,-75.6655376,,46,Pigeon Terrace,semi_detached_house,"46 Pigeon terrace, Ottawa, ON","46 Pigeon terrace, Ottawa, ON",2
+205140,way,548797869,45.3486577,-75.6641315,,900,Cahill Drive West,semi_detached_house,"900 Cahill drive west, Ottawa, ON","900 Cahill drive west, Ottawa, ON",2
+205154,way,548797883,45.3492555,-75.6628545,,3444,Mccarthy Road,semi_detached_house,"3444 Mccarthy road, Ottawa, ON","3444 Mccarthy road, Ottawa, ON",2
+205225,way,548797955,45.344534,-75.6706834,,5,Erin Crescent,semi_detached_house,"5 Erin crescent, Ottawa, ON","5 Erin crescent, Ottawa, ON",2
+205229,way,548797959,45.344171,-75.6701149,,37,Erin Crescent,semi_detached_house,"37 Erin crescent, Ottawa, ON","37 Erin crescent, Ottawa, ON",2
+205231,way,548797961,45.3443162,-75.6698296,,45,Erin Crescent,semi_detached_house,"45 Erin crescent, Ottawa, ON","45 Erin crescent, Ottawa, ON",2
+205239,way,548797969,45.3447752,-75.6703494,,119,Erin Crescent,semi_detached_house,"119 Erin crescent, Ottawa, ON","119 Erin crescent, Ottawa, ON",2
+205250,way,548797980,45.3444143,-75.6685161,,74,Erin Crescent,semi_detached_house,"74 Erin crescent, Ottawa, ON","74 Erin crescent, Ottawa, ON",2
+205620,way,548800170,45.3589215,-75.6523082,,3297,Southgate Road,semi_detached_house,"3297 Southgate road, Ottawa, ON","3297 Southgate road, Ottawa, ON",2
+205627,way,548800177,45.3599609,-75.6536781,,3259,Southgate Road,semi_detached_house,"3259 Southgate road, Ottawa, ON","3259 Southgate road, Ottawa, ON",2
+205640,way,548800190,45.3524809,-75.66433,,86,Pigeon Terrace,semi_detached_house,"86 Pigeon terrace, Ottawa, ON","86 Pigeon terrace, Ottawa, ON",2
+205667,way,548801919,45.3433579,-75.6382933,,1392,Ridgedale Street,semi_detached_house,"1392 Ridgedale street, Ottawa, ON","1392 Ridgedale street, Ottawa, ON",2
+205679,way,548801948,45.3466015,-75.6364295,,2848,Gothwood Place,semi_detached_house,"2848 Gothwood place, Ottawa, ON","2848 Gothwood place, Ottawa, ON",2
+205688,way,548801975,45.3467755,-75.6376986,,2835,Gothwood Place,semi_detached_house,"2835 Gothwood place, Ottawa, ON","2835 Gothwood place, Ottawa, ON",2
+205692,way,548801987,45.3470249,-75.6364942,,2851,Gothwood Place,semi_detached_house,"2851 Gothwood place, Ottawa, ON","2851 Gothwood place, Ottawa, ON",2
+205715,way,548802030,45.3457281,-75.6367512,,1450,Goth Avenue,semi_detached_house,"1450 Goth avenue, Ottawa, ON","1450 Goth avenue, Ottawa, ON",2
+205742,way,548802057,45.3432123,-75.6323933,,286,Parkin Circle,semi_detached_house,"286 Parkin circle, Ottawa, ON","286 Parkin circle, Ottawa, ON",2
+205858,way,548876782,45.3684918,-75.7072379,,957,Eiffel Avenue,semi_detached_house,"957 Eiffel avenue, Ottawa, ON","957 Eiffel avenue, Ottawa, ON",2
+205898,way,549072482,45.3974366,-75.713311,,187,Hickory Street,semi_detached_house,"187 Hickory street, Ottawa, ON","187 Hickory street, Ottawa, ON",2
+205936,way,549075452,45.384087,-75.7333347,,1257 B,Coldrey Avenue,semi_detached_house,"1257 B Coldrey avenue, Ottawa, ON","1257 B Coldrey avenue, Ottawa, ON",2
+205954,way,549075470,45.3972045,-75.7307504,,194,Holland Avenue,semi_detached_house,"194 Holland avenue, Ottawa, ON","194 Holland avenue, Ottawa, ON",2
+205955,way,549075471,45.3965744,-75.7303595,,210,Holland Avenue,semi_detached_house,"210 Holland avenue, Ottawa, ON","210 Holland avenue, Ottawa, ON",2
+205964,way,549075480,45.3961241,-75.727934,,332,Hamilton Avenue South,semi_detached_house,"332 Hamilton avenue south, Ottawa, ON","332 Hamilton avenue south, Ottawa, ON",2
+205975,way,549075492,45.3944467,-75.7284462,,365,Holland Avenue,semi_detached_house,"365 Holland avenue, Ottawa, ON","365 Holland avenue, Ottawa, ON",2
+206023,way,549075541,45.3920324,-75.7336806,,36,Geneva Street,semi_detached_house,"36 Geneva street, Ottawa, ON","36 Geneva street, Ottawa, ON",2
+206034,way,549075552,45.3978835,-75.7301707,,49,Tyndall Street,semi_detached_house,"49 Tyndall street, Ottawa, ON","49 Tyndall street, Ottawa, ON",2
+206050,way,549075570,45.3981913,-75.7324953,,186,Huron Avenue North,semi_detached_house,"186 Huron avenue north, Ottawa, ON","186 Huron avenue north, Ottawa, ON",2
+206080,way,549080360,45.4022614,-75.7431734,,221,Carleton Avenue,semi_detached_house,"221 Carleton avenue, Ottawa, ON","221 Carleton avenue, Ottawa, ON",2
+206086,way,549080366,45.3986437,-75.7437898,,312,Oakdale Avenue,semi_detached_house,"312 Oakdale avenue, Ottawa, ON","312 Oakdale avenue, Ottawa, ON",2
+206139,way,549080419,45.3989868,-75.7566932,,307,Selby Avenue,semi_detached_house,"307 Selby avenue, Ottawa, ON","307 Selby avenue, Ottawa, ON",2
+206144,way,549080424,45.4000499,-75.7559208,,283,Ferndale Avenue,semi_detached_house,"283 Ferndale avenue, Ottawa, ON","283 Ferndale avenue, Ottawa, ON",2
+206316,way,549191601,45.3989734,-75.7300091,,149,Hinton Avenue North,semi_detached_house,"149 Hinton avenue north, Ottawa, ON","149 Hinton avenue north, Ottawa, ON",2
+206325,way,549191610,45.3996104,-75.7259804,,1,Foster Street,semi_detached_house,"1 Foster street, Ottawa, ON","1 Foster street, Ottawa, ON",2
+206327,way,549191612,45.3992576,-75.7270897,,31,Foster Street,semi_detached_house,"31 Foster street, Ottawa, ON","31 Foster street, Ottawa, ON",2
+206388,way,549191685,45.4078216,-75.7294191,,39,Lyndale Avenue,semi_detached_house,"39 Lyndale avenue, Ottawa, ON","39 Lyndale avenue, Ottawa, ON",2
+206463,way,549260007,45.4020225,-75.7167119,,198,Breezehill Avenue North,semi_detached_house,"198 Breezehill avenue north, Ottawa, ON","198 Breezehill avenue north, Ottawa, ON",2
+206493,way,549260038,45.4012247,-75.7159724,,93,Young Street,semi_detached_house,"93 Young street, Ottawa, ON","93 Young street, Ottawa, ON",2
+217101,way,562612858,45.3713795,-75.7805355,,1140,Richmond Road,semi_detached_house,"1140 Richmond road, Ottawa, ON","1140 Richmond road, Ottawa, ON",2
+217531,way,563080353,45.3037579,-75.9333296,,416,Country Glen Way,semi_detached_house,"416 Country glen way, Ottawa, ON","416 Country glen way, Ottawa, ON",2
+219116,way,564125291,45.2822256,-75.8563124,,124,Passageway Private,semi_detached_house,"124 Passageway private, Ottawa, ON","124 Passageway private, Ottawa, ON",2
+219415,way,564396301,45.2751541,-75.784737,,1132,Cobble Hill Drive,semi_detached_house,"1132 Cobble hill drive, Ottawa, ON","1132 Cobble hill drive, Ottawa, ON",2
+219420,way,564396311,45.2748898,-75.7852514,,1129,Cobble Hill Drive,semi_detached_house,"1129 Cobble hill drive, Ottawa, ON","1129 Cobble hill drive, Ottawa, ON",2
+219754,way,564788566,45.2743276,-75.7821054,,217,Fergus Crescent,semi_detached_house,"217 Fergus crescent, Ottawa, ON","217 Fergus crescent, Ottawa, ON",2
+219791,way,564788611,45.2738914,-75.7820055,,212,Fergus Crescent,semi_detached_house,"212 Fergus crescent, Ottawa, ON","212 Fergus crescent, Ottawa, ON",2
+221096,way,566763623,45.4011262,-75.7231274,,1093,Gladstone Avenue,semi_detached_house,"1093 Gladstone avenue, Ottawa, ON","1093 Gladstone avenue, Ottawa, ON",2
+221415,way,566860037,45.3975191,-75.6971736,,354,Fifth Avenue,semi_detached_house,"354 Fifth avenue, Ottawa, ON","354 Fifth avenue, Ottawa, ON",2
+221740,way,567196207,45.2849363,-75.7354808,,209,Claridge Drive,semi_detached_house,"209 Claridge drive, Ottawa, ON","209 Claridge drive, Ottawa, ON",2
+221757,way,567216400,45.2804763,-75.7445418,,165,Highbury Park Drive,semi_detached_house,"165 Highbury park drive, Ottawa, ON","165 Highbury park drive, Ottawa, ON",2
+221763,way,567216406,45.2803129,-75.7449834,,155,Highbury Park Drive,semi_detached_house,"155 Highbury park drive, Ottawa, ON","155 Highbury park drive, Ottawa, ON",2
+221778,way,567216421,45.2798676,-75.7446837,,154,Highbury Park Drive,semi_detached_house,"154 Highbury park drive, Ottawa, ON","154 Highbury park drive, Ottawa, ON",2
+221804,way,567216448,45.2791214,-75.7463709,,114,Highbury Park Drive,semi_detached_house,"114 Highbury park drive, Ottawa, ON","114 Highbury park drive, Ottawa, ON",2
+221817,way,567216461,45.2798261,-75.7460989,,129,Highbury Park Drive,semi_detached_house,"129 Highbury park drive, Ottawa, ON","129 Highbury park drive, Ottawa, ON",2
+221820,way,567216464,45.2795645,-75.7465973,,117,Highbury Park Drive,semi_detached_house,"117 Highbury park drive, Ottawa, ON","117 Highbury park drive, Ottawa, ON",2
+223507,way,568323387,45.3597492,-75.355547,,5582,Rockdale Road,semi_detached_house,"5582 Rockdale road, Ottawa, ON","5582 Rockdale road, Ottawa, ON",2
+223829,way,568518726,45.4842405,-75.5238754,,1075,Grenoble Crescent,semi_detached_house,"1075 Grenoble crescent, Ottawa, ON","1075 Grenoble crescent, Ottawa, ON",2
+223902,way,568522594,45.4855294,-75.5229532,,7968,Décarie Drive,semi_detached_house,"7968 Décarie drive, Ottawa, ON","7968 Décarie drive, Ottawa, ON",2
+223916,way,568523572,45.4850606,-75.5256214,,7938,Décarie Drive,semi_detached_house,"7938 Décarie drive, Ottawa, ON","7938 Décarie drive, Ottawa, ON",2
+224119,way,568589672,45.3784581,-75.7306563,,1293,Emperor Avenue,semi_detached_house,"1293 Emperor avenue, Ottawa, ON","1293 Emperor avenue, Ottawa, ON",2
+224149,way,568589702,45.37965,-75.7269001,,1208,Emperor Avenue,semi_detached_house,"1208 Emperor avenue, Ottawa, ON","1208 Emperor avenue, Ottawa, ON",2
+224865,way,568814542,45.4843064,-75.5306847,,1085,Avignon Court,semi_detached_house,"1085 Avignon court, Ottawa, ON","1085 Avignon court, Ottawa, ON",2
+224866,way,568814543,45.4842155,-75.5303827,,1089,Avignon Court,semi_detached_house,"1089 Avignon court, Ottawa, ON","1089 Avignon court, Ottawa, ON",2
+225863,way,569469785,45.3665489,-75.7063714,,972,Debra Avenue,semi_detached_house,"972 Debra avenue, Ottawa, ON","972 Debra avenue, Ottawa, ON",2
+225881,way,569490729,45.3656163,-75.706047,,984,Meadowlands Drive,semi_detached_house,"984 Meadowlands drive, Ottawa, ON","984 Meadowlands drive, Ottawa, ON",2
+229430,way,573377461,45.4382627,-75.6467761,,670,Morin Street,semi_detached_house,"670 Morin street, Ottawa, ON","670 Morin street, Ottawa, ON",2
+230306,way,574575871,45.2839578,-75.9200269,,406,Warmstone Drive,semi_detached_house,"406 Warmstone drive, Ottawa, ON","406 Warmstone drive, Ottawa, ON",2
+230327,way,574575902,45.2838406,-75.9212938,,681,Rosehill Avenue,semi_detached_house,"681 Rosehill avenue, Ottawa, ON","681 Rosehill avenue, Ottawa, ON",2
+230333,way,574575914,45.2849997,-75.9260315,,12,Cento Way,semi_detached_house,"12 Cento way, Ottawa, ON","12 Cento way, Ottawa, ON",2
+230876,way,574618122,45.2837478,-75.8811799,,54,Castle Glen Crescent,semi_detached_house,"54 Castle glen crescent, Ottawa, ON","54 Castle glen crescent, Ottawa, ON",2
+230915,way,574618161,45.2836395,-75.8824605,,99,Castle Glen Crescent,semi_detached_house,"99 Castle glen crescent, Ottawa, ON","99 Castle glen crescent, Ottawa, ON",2
+231696,way,575254670,45.2467603,-75.7386768,,595,Egret Way,semi_detached_house,"595 Egret way, Ottawa, ON","595 Egret way, Ottawa, ON",2
+231742,way,575254730,45.2489239,-75.7403285,,277,Brambling Way,semi_detached_house,"277 Brambling way, Ottawa, ON","277 Brambling way, Ottawa, ON",2
+234274,way,577897090,45.3564842,-75.6412469,,167,Solera Circle,semi_detached_house,"167 Solera circle, Ottawa, ON","167 Solera circle, Ottawa, ON",2
+234277,way,577897093,45.3565722,-75.6413059,,165,Solera Circle,semi_detached_house,"165 Solera circle, Ottawa, ON","165 Solera circle, Ottawa, ON",2
+234281,way,577897097,45.3573276,-75.6407708,,184,Solera Circle,semi_detached_house,"184 Solera circle, Ottawa, ON","184 Solera circle, Ottawa, ON",2
+235030,way,578254593,45.4117182,-75.6744002,,138,Springhurst Avenue,semi_detached_house,"138 Springhurst avenue, Ottawa, ON","138 Springhurst avenue, Ottawa, ON",2
+235031,way,578254594,45.411609,-75.6753651,,195,Concord Street South,semi_detached_house,"195 Concord street south, Ottawa, ON","195 Concord street south, Ottawa, ON",2
+235032,way,578254595,45.4117693,-75.6750447,,131,Springhurst Avenue,semi_detached_house,"131 Springhurst avenue, Ottawa, ON","131 Springhurst avenue, Ottawa, ON",2
+235042,way,578256292,45.4086947,-75.6890359,,158,Pretoria Avenue,semi_detached_house,"158 Pretoria avenue, Ottawa, ON","158 Pretoria avenue, Ottawa, ON",2
+235258,way,578579851,45.4377208,-75.6386831,,753,Borthwick Avenue,semi_detached_house,"753 Borthwick avenue, Ottawa, ON","753 Borthwick avenue, Ottawa, ON",2
+235265,way,578579858,45.4379983,-75.6384287,,748,Cummings Avenue,semi_detached_house,"748 Cummings avenue, Ottawa, ON","748 Cummings avenue, Ottawa, ON",2
+235272,way,578579865,45.4385765,-75.6381361,,735,Cummings Avenue,semi_detached_house,"735 Cummings avenue, Ottawa, ON","735 Cummings avenue, Ottawa, ON",2
+235456,way,578580174,45.4373119,-75.6396337,,613,Québec Street,semi_detached_house,"613 Québec street, Ottawa, ON","613 Québec street, Ottawa, ON",2
+235467,way,578580187,45.4358142,-75.6387135,,807,Trojan Avenue,semi_detached_house,"807 Trojan avenue, Ottawa, ON","807 Trojan avenue, Ottawa, ON",2
+236233,way,579320766,45.3741643,-75.7743953,,236,Compton Avenue,semi_detached_house,"236 Compton avenue, Ottawa, ON","236 Compton avenue, Ottawa, ON",2
+237167,way,579760446,45.4715389,-75.4533315,,262,Rustic Hills Crescent,semi_detached_house,"262 Rustic hills crescent, Ottawa, ON","262 Rustic hills crescent, Ottawa, ON",2
+237608,way,579979907,45.3801444,-75.7514693,,724,Cole Avenue South,semi_detached_house,"724 Cole avenue south, Ottawa, ON","724 Cole avenue south, Ottawa, ON",2
+237609,way,579979908,45.380275,-75.7517311,,718,Cole Avenue South,semi_detached_house,"718 Cole avenue south, Ottawa, ON","718 Cole avenue south, Ottawa, ON",2
+237971,way,580249585,45.3925879,-75.6941809,,44,Fulton Avenue,semi_detached_house,"44 Fulton avenue, Ottawa, ON","44 Fulton avenue, Ottawa, ON",2
+238596,way,580571039,45.496984,-75.4672988,,655,Cartographe Street,semi_detached_house,"655 Cartographe street, Ottawa, ON","655 Cartographe street, Ottawa, ON",2
+238705,way,580571221,45.496583,-75.4707501,,204,Brouage Way,semi_detached_house,"204 Brouage way, Ottawa, ON","204 Brouage way, Ottawa, ON",2
+238841,way,580682553,45.4710209,-75.5275134,,1279 B,Cousineau Street,semi_detached_house,"1279 B Cousineau street, Ottawa, ON","1279 B Cousineau street, Ottawa, ON",2
+239194,way,580989648,45.4419696,-75.6603778,,268,Lavergne Street,semi_detached_house,"268 Lavergne street, Ottawa, ON","268 Lavergne street, Ottawa, ON",2
+239348,way,581041612,45.4557214,-75.5916515,,771,Salaberry Street,semi_detached_house,"771 Salaberry street, Ottawa, ON","771 Salaberry street, Ottawa, ON",2
+239350,way,581041614,45.4525233,-75.5933842,,831,Eastvale Drive,semi_detached_house,"831 Eastvale drive, Ottawa, ON","831 Eastvale drive, Ottawa, ON",2
+239354,way,581041618,45.4533092,-75.5932417,,817,Eastvale Drive,semi_detached_house,"817 Eastvale drive, Ottawa, ON","817 Eastvale drive, Ottawa, ON",2
+239360,way,581041624,45.4545957,-75.5939159,,791,Eastvale Drive,semi_detached_house,"791 Eastvale drive, Ottawa, ON","791 Eastvale drive, Ottawa, ON",2
+239364,way,581041628,45.4552833,-75.5942873,,777,Eastvale Drive,semi_detached_house,"777 Eastvale drive, Ottawa, ON","777 Eastvale drive, Ottawa, ON",2
+239373,way,581041637,45.4562892,-75.592656,,2168,Bickerton Avenue,semi_detached_house,"2168 Bickerton avenue, Ottawa, ON","2168 Bickerton avenue, Ottawa, ON",2
+239376,way,581041640,45.4567325,-75.5921813,,2178,Bickerton Avenue,semi_detached_house,"2178 Bickerton avenue, Ottawa, ON","2178 Bickerton avenue, Ottawa, ON",2
+239377,way,581041641,45.4569396,-75.5923182,,2182,Bickerton Avenue,semi_detached_house,"2182 Bickerton avenue, Ottawa, ON","2182 Bickerton avenue, Ottawa, ON",2
+239389,way,581041653,45.4592592,-75.593574,,2230,Bickerton Avenue,semi_detached_house,"2230 Bickerton avenue, Ottawa, ON","2230 Bickerton avenue, Ottawa, ON",2
+239419,way,581041683,45.4608343,-75.5958625,,2245,Fillmore Crescent,semi_detached_house,"2245 Fillmore crescent, Ottawa, ON","2245 Fillmore crescent, Ottawa, ON",2
+239876,way,581734012,45.4708884,-75.5457189,,1148,Ste. Agathe Park,semi_detached_house,"1148 Ste. agathe park, Ottawa, ON","1148 Ste. agathe park, Ottawa, ON",2
+239880,way,581734016,45.4711156,-75.5467381,,1132,Ste. Agathe Park,semi_detached_house,"1132 Ste. agathe park, Ottawa, ON","1132 Ste. agathe park, Ottawa, ON",2
+239883,way,581734019,45.4716903,-75.5469078,,1120,Ste. Agathe Park,semi_detached_house,"1120 Ste. agathe park, Ottawa, ON","1120 Ste. agathe park, Ottawa, ON",2
+239901,way,581735336,45.477255,-75.5408311,,1141,St-Emmanuel Terrace,semi_detached_house,"1141 St-emmanuel terrace, Ottawa, ON","1141 St-emmanuel terrace, Ottawa, ON",2
+239916,way,581735352,45.4769913,-75.5407862,,1135,St-Emmanuel Terrace,semi_detached_house,"1135 St-emmanuel terrace, Ottawa, ON","1135 St-emmanuel terrace, Ottawa, ON",2
+240291,way,581743453,45.4844804,-75.5159206,,858,Borland Drive,semi_detached_house,"858 Borland drive, Ottawa, ON","858 Borland drive, Ottawa, ON",2
+240307,way,581743475,45.4872204,-75.5173805,,816,Vinette Crescent,semi_detached_house,"816 Vinette crescent, Ottawa, ON","816 Vinette crescent, Ottawa, ON",2
+240353,way,581743526,45.4834437,-75.5107838,,312,Elderberry Terrace,semi_detached_house,"312 Elderberry terrace, Ottawa, ON","312 Elderberry terrace, Ottawa, ON",2
+240357,way,581743530,45.4841961,-75.5102305,,905,Sandpiper Court,semi_detached_house,"905 Sandpiper court, Ottawa, ON","905 Sandpiper court, Ottawa, ON",2
+240374,way,581743549,45.4846971,-75.5075951,,308,Pintail Terrace,semi_detached_house,"308 Pintail terrace, Ottawa, ON","308 Pintail terrace, Ottawa, ON",2
+240376,way,581743553,45.485939,-75.5085916,,303,Mockingbird Drive,semi_detached_house,"303 Mockingbird drive, Ottawa, ON","303 Mockingbird drive, Ottawa, ON",2
+240392,way,581743570,45.484831,-75.510803,,907,Lawnsberry Drive,semi_detached_house,"907 Lawnsberry drive, Ottawa, ON","907 Lawnsberry drive, Ottawa, ON",2
+240410,way,581743596,45.4850141,-75.5129598,,200,Rosemary Garden,semi_detached_house,"200 Rosemary garden, Ottawa, ON","200 Rosemary garden, Ottawa, ON",2
+240491,way,581752159,45.4654645,-75.5030467,,1611,St. Georges Street,semi_detached_house,"1611 St. georges street, Ottawa, ON","1611 St. georges street, Ottawa, ON",2
+240681,way,581765512,45.4752059,-75.5319442,,1089,Taffy Lane,semi_detached_house,"1089 Taffy lane, Ottawa, ON","1089 Taffy lane, Ottawa, ON",2
+240683,way,581765514,45.4750262,-75.5323795,,1097,Taffy Lane,semi_detached_house,"1097 Taffy lane, Ottawa, ON","1097 Taffy lane, Ottawa, ON",2
+240692,way,581765538,45.4755211,-75.5341463,,1135,Taffy Lane,semi_detached_house,"1135 Taffy lane, Ottawa, ON","1135 Taffy lane, Ottawa, ON",2
+241061,way,581766088,45.4711388,-75.5208124,,7067,Notre-Dame Street,semi_detached_house,"7067 Notre-dame street, Ottawa, ON","7067 Notre-dame street, Ottawa, ON",2
+241079,way,581766108,45.4726884,-75.5318089,,1778,Stoneboat Crescent,semi_detached_house,"1778 Stoneboat crescent, Ottawa, ON","1778 Stoneboat crescent, Ottawa, ON",2
+241081,way,581766110,45.4724212,-75.531677,,1784,Stoneboat Crescent,semi_detached_house,"1784 Stoneboat crescent, Ottawa, ON","1784 Stoneboat crescent, Ottawa, ON",2
+241082,way,581766111,45.4722475,-75.5315897,,1788,Stoneboat Crescent,semi_detached_house,"1788 Stoneboat crescent, Ottawa, ON","1788 Stoneboat crescent, Ottawa, ON",2
+241095,way,581766124,45.4720714,-75.5307391,,6405,Lumberman Way,semi_detached_house,"6405 Lumberman way, Ottawa, ON","6405 Lumberman way, Ottawa, ON",2
+241103,way,581766133,45.4735409,-75.531936,,1763,Stoneboat Crescent,semi_detached_house,"1763 Stoneboat crescent, Ottawa, ON","1763 Stoneboat crescent, Ottawa, ON",2
+241146,way,582006934,45.4506356,-75.6357611,,283,Avro Circle,semi_detached_house,"283 Avro circle, Ottawa, ON","283 Avro circle, Ottawa, ON",2
+241179,way,582007807,45.448047,-75.6316348,,548,Brunel Street,semi_detached_house,"548 Brunel street, Ottawa, ON","548 Brunel street, Ottawa, ON",2
+241180,way,582007808,45.4479882,-75.6316047,,550,Brunel Street,semi_detached_house,"550 Brunel street, Ottawa, ON","550 Brunel street, Ottawa, ON",2
+241209,way,582015673,45.4438948,-75.6690837,,244,Garneau Street,semi_detached_house,"244 Garneau street, Ottawa, ON","244 Garneau street, Ottawa, ON",2
+241876,way,582409277,45.3819752,-75.6355983,,1863,Walkley Road,semi_detached_house,"1863 Walkley road, Ottawa, ON","1863 Walkley road, Ottawa, ON",2
+242065,way,582422482,45.3748518,-75.6738469,,2489,Chasseur Avenue,semi_detached_house,"2489 Chasseur avenue, Ottawa, ON","2489 Chasseur avenue, Ottawa, ON",2
+242150,way,582422571,45.3783423,-75.6737997,,1089,Heron Road,semi_detached_house,"1089 Heron road, Ottawa, ON","1089 Heron road, Ottawa, ON",2
+242267,way,582422688,45.3761122,-75.672506,,2460,Falcon Avenue,semi_detached_house,"2460 Falcon avenue, Ottawa, ON","2460 Falcon avenue, Ottawa, ON",2
+242478,way,582688646,45.3750834,-75.7382014,,1476,Lepage Avenue,semi_detached_house,"1476 Lepage avenue, Ottawa, ON","1476 Lepage avenue, Ottawa, ON",2
+242918,way,583034590,45.3901502,-75.6733961,,2097,Chalmers Road,semi_detached_house,"2097 Chalmers road, Ottawa, ON","2097 Chalmers road, Ottawa, ON",2
+243183,way,583071496,45.4231958,-75.5987599,,1533,Beaverpond Drive,semi_detached_house,"1533 Beaverpond drive, Ottawa, ON","1533 Beaverpond drive, Ottawa, ON",2
+243562,way,583085066,45.4392445,-75.6022685,,1833,Cloverlawn Crescent,semi_detached_house,"1833 Cloverlawn crescent, Ottawa, ON","1833 Cloverlawn crescent, Ottawa, ON",2
+243586,way,583085120,45.4392618,-75.6002462,,1082,Cloverlawn Court,semi_detached_house,"1082 Cloverlawn court, Ottawa, ON","1082 Cloverlawn court, Ottawa, ON",2
+243593,way,583085127,45.4404788,-75.6008505,,1779,Cloverlawn Crescent,semi_detached_house,"1779 Cloverlawn crescent, Ottawa, ON","1779 Cloverlawn crescent, Ottawa, ON",2
+243596,way,583085130,45.4405876,-75.6017695,,1793,Cloverlawn Crescent,semi_detached_house,"1793 Cloverlawn crescent, Ottawa, ON","1793 Cloverlawn crescent, Ottawa, ON",2
+243615,way,583085152,45.4414392,-75.6054722,,1806,Applegrove Court,semi_detached_house,"1806 Applegrove court, Ottawa, ON","1806 Applegrove court, Ottawa, ON",2
+243647,way,583085184,45.4431341,-75.6067467,,43,Steel Street,semi_detached_house,"43 Steel street, Ottawa, ON","43 Steel street, Ottawa, ON",2
+243748,way,583085290,45.4435784,-75.601656,,1871,Elmridge Drive,semi_detached_house,"1871 Elmridge drive, Ottawa, ON","1871 Elmridge drive, Ottawa, ON",2
+243756,way,583085298,45.4430365,-75.6000718,,1896,Elmridge Drive,semi_detached_house,"1896 Elmridge drive, Ottawa, ON","1896 Elmridge drive, Ottawa, ON",2
+244141,way,583374810,45.3084807,-75.8879312,,10,Berton Place,semi_detached_house,"10 Berton place, Ottawa, ON","10 Berton place, Ottawa, ON",2
+244591,way,583394692,45.4439865,-75.6288597,,885,Bermuda Avenue,semi_detached_house,"885 Bermuda avenue, Ottawa, ON","885 Bermuda avenue, Ottawa, ON",2
+244598,way,583394699,45.4444089,-75.6276631,,913,Bermuda Avenue,semi_detached_house,"913 Bermuda avenue, Ottawa, ON","913 Bermuda avenue, Ottawa, ON",2
+244879,way,583394991,45.4329748,-75.6191146,,1430,Leigh Crescent,semi_detached_house,"1430 Leigh crescent, Ottawa, ON","1430 Leigh crescent, Ottawa, ON",2
+244896,way,583395009,45.4340487,-75.6197082,,1384,Leigh Crescent,semi_detached_house,"1384 Leigh crescent, Ottawa, ON","1384 Leigh crescent, Ottawa, ON",2
+244929,way,583395042,45.4357984,-75.626661,,976,Charlton Drive,semi_detached_house,"976 Charlton drive, Ottawa, ON","976 Charlton drive, Ottawa, ON",2
+244930,way,583395043,45.4359692,-75.626757,,972,Charlton Drive,semi_detached_house,"972 Charlton drive, Ottawa, ON","972 Charlton drive, Ottawa, ON",2
+245581,way,583552505,45.3696129,-75.7199532,,4,Marson Street,semi_detached_house,"4 Marson street, Ottawa, ON","4 Marson street, Ottawa, ON",2
+245586,way,583552511,45.3680477,-75.7237625,,932,Baseline Road,semi_detached_house,"932 Baseline road, Ottawa, ON","932 Baseline road, Ottawa, ON",2
+245680,way,583598655,45.4070479,-75.6365667,,1586,Pullen Avenue,semi_detached_house,"1586 Pullen avenue, Ottawa, ON","1586 Pullen avenue, Ottawa, ON",2
+246113,way,583830552,45.4291252,-75.6516754,,379,Fullerton Avenue,semi_detached_house,"379 Fullerton avenue, Ottawa, ON","379 Fullerton avenue, Ottawa, ON",2
+246204,way,583830645,45.4260035,-75.6474897,,408,King George Street,semi_detached_house,"408 King george street, Ottawa, ON","408 King george street, Ottawa, ON",2
+246232,way,583830673,45.4254983,-75.6409124,,561,Prince Albert Street,semi_detached_house,"561 Prince albert street, Ottawa, ON","561 Prince albert street, Ottawa, ON",2
+246242,way,583830688,45.4256324,-75.6434163,,502,Queen Mary Street,semi_detached_house,"502 Queen mary street, Ottawa, ON","502 Queen mary street, Ottawa, ON",2
+246267,way,583830721,45.426099,-75.6461497,,438,King George Street,semi_detached_house,"438 King george street, Ottawa, ON","438 King george street, Ottawa, ON",2
+246300,way,583830756,45.4253538,-75.6473898,,408,Queen Mary Street,semi_detached_house,"408 Queen mary street, Ottawa, ON","408 Queen mary street, Ottawa, ON",2
+246418,way,583840009,45.4255607,-75.6584268,,143,King George Street,semi_detached_house,"143 King george street, Ottawa, ON","143 King george street, Ottawa, ON",2
+246544,way,583840259,45.4259396,-75.6527431,,291,King George Street,semi_detached_house,"291 King george street, Ottawa, ON","291 King george street, Ottawa, ON",2
+246574,way,583840327,45.4243705,-75.6525183,,244,Prince Albert Street,semi_detached_house,"244 Prince albert street, Ottawa, ON","244 Prince albert street, Ottawa, ON",2
+246649,way,583840475,45.4233717,-75.6623691,,95,Drouin Avenue,semi_detached_house,"95 Drouin avenue, Ottawa, ON","95 Drouin avenue, Ottawa, ON",2
+246663,way,583840500,45.4235222,-75.6644588,,12,Prince Albert Street,semi_detached_house,"12 Prince albert street, Ottawa, ON","12 Prince albert street, Ottawa, ON",2
+247033,way,584077757,45.4316429,-75.6864732,,288,Clarence Street,semi_detached_house,"288 Clarence street, Ottawa, ON","288 Clarence street, Ottawa, ON",2
+247237,way,584078021,45.4343698,-75.6890449,,275,St. Andrew Street,semi_detached_house,"275 St. andrew street, Ottawa, ON","275 St. andrew street, Ottawa, ON",2
+247296,way,584078122,45.4333739,-75.6915242,,205,St. Andrew Street,semi_detached_house,"205 St. andrew street, Ottawa, ON","205 St. andrew street, Ottawa, ON",2
+247312,way,584078138,45.4330829,-75.6903191,,235,Guigues Avenue,semi_detached_house,"235 Guigues avenue, Ottawa, ON","235 Guigues avenue, Ottawa, ON",2
+247327,way,584078155,45.4329465,-75.685363,,344,Murray Street,semi_detached_house,"344 Murray street, Ottawa, ON","344 Murray street, Ottawa, ON",2
+247651,way,584220551,45.4468058,-75.5919798,,986,Miss Ottawa Street,semi_detached_house,"986 Miss ottawa street, Ottawa, ON","986 Miss ottawa street, Ottawa, ON",2
+247717,way,584306535,45.3924471,-75.6895262,,41,Roslyn Avenue,semi_detached_house,"41 Roslyn avenue, Ottawa, ON","41 Roslyn avenue, Ottawa, ON",2
+247752,way,584306651,45.3928516,-75.685834,,74,Grosvenor Avenue,semi_detached_house,"74 Grosvenor avenue, Ottawa, ON","74 Grosvenor avenue, Ottawa, ON",2
+247779,way,584306682,45.3923551,-75.680986,,56,Willard Street,semi_detached_house,"56 Willard street, Ottawa, ON","56 Willard street, Ottawa, ON",2
+247829,way,584481507,45.4017209,-75.6859466,,3,Regent Street,semi_detached_house,"3 Regent street, Ottawa, ON","3 Regent street, Ottawa, ON",2
+247888,way,584484101,45.4049041,-75.6852962,,64 B,Second Avenue,semi_detached_house,"64 B Second avenue, Ottawa, ON","64 B Second avenue, Ottawa, ON",2
+247889,way,584484102,45.4048707,-75.6849867,,580,O'Connor Street,semi_detached_house,"580 O'connor street, Ottawa, ON","580 O'connor street, Ottawa, ON",2
+247941,way,584484160,45.4001597,-75.6898896,,31,Thornton Avenue,semi_detached_house,"31 Thornton avenue, Ottawa, ON","31 Thornton avenue, Ottawa, ON",2
+247976,way,584484196,45.4016974,-75.6900398,,143,Fourth Avenue,semi_detached_house,"143 Fourth avenue, Ottawa, ON","143 Fourth avenue, Ottawa, ON",2
+248011,way,584484688,45.4049426,-75.6862145,,73 B,Second Avenue,semi_detached_house,"73 B Second avenue, Ottawa, ON","73 B Second avenue, Ottawa, ON",2
+248033,way,584485071,45.4066629,-75.6831043,,22,First Avenue,semi_detached_house,"22 First avenue, Ottawa, ON","22 First avenue, Ottawa, ON",2
+248107,way,584500202,45.4087446,-75.6868193,,106,Strathcona Avenue,semi_detached_house,"106 Strathcona avenue, Ottawa, ON","106 Strathcona avenue, Ottawa, ON",2
+248132,way,584777159,45.4050668,-75.7442339,,140,Northwestern Avenue,semi_detached_house,"140 Northwestern avenue, Ottawa, ON","140 Northwestern avenue, Ottawa, ON",2
+248180,way,584798939,45.4130927,-75.6766828,,134,Concord Street South,semi_detached_house,"134 Concord street south, Ottawa, ON","134 Concord street south, Ottawa, ON",2
+248222,way,584799842,45.4117858,-75.6754629,,187,Concord Street South,semi_detached_house,"187 Concord street south, Ottawa, ON","187 Concord street south, Ottawa, ON",2
+248276,way,584808085,45.3988841,-75.6778972,,151,Riverdale Avenue,semi_detached_house,"151 Riverdale avenue, Ottawa, ON","151 Riverdale avenue, Ottawa, ON",2
+248281,way,584808090,45.4009335,-75.6767665,,88,Riverdale Avenue,semi_detached_house,"88 Riverdale avenue, Ottawa, ON","88 Riverdale avenue, Ottawa, ON",2
+248635,way,584998380,45.4167322,-75.6833424,,56,Frank Street,semi_detached_house,"56 Frank street, Ottawa, ON","56 Frank street, Ottawa, ON",2
+248868,way,585003982,45.4161799,-75.6790209,,48,Concord Street North,semi_detached_house,"48 Concord street north, Ottawa, ON","48 Concord street north, Ottawa, ON",2
+248869,way,585003983,45.4161155,-75.6790509,,3,Montcalm Street,semi_detached_house,"3 Montcalm street, Ottawa, ON","3 Montcalm street, Ottawa, ON",2
+248901,way,585008938,45.4290068,-75.6826508,,322,Besserer Street,semi_detached_house,"322 Besserer street, Ottawa, ON","322 Besserer street, Ottawa, ON",2
+248946,way,585009073,45.4234557,-75.677796,,108,Sweetland Avenue,semi_detached_house,"108 Sweetland avenue, Ottawa, ON","108 Sweetland avenue, Ottawa, ON",2
+249195,way,585022214,45.3851958,-75.7470716,,287 A,Dovercourt Avenue,semi_detached_house,"287 A Dovercourt avenue, Ottawa, ON","287 A Dovercourt avenue, Ottawa, ON",2
+249196,way,585022215,45.3851768,-75.7471351,,287 B,Dovercourt Avenue,semi_detached_house,"287 B Dovercourt avenue, Ottawa, ON","287 B Dovercourt avenue, Ottawa, ON",2
+249863,way,585524952,45.4262587,-75.6395013,,713,Alesther Street,semi_detached_house,"713 Alesther street, Ottawa, ON","713 Alesther street, Ottawa, ON",2
+250286,way,585983777,45.3746663,-75.7372263,,1466,Edgecliffe Avenue,semi_detached_house,"1466 Edgecliffe avenue, Ottawa, ON","1466 Edgecliffe avenue, Ottawa, ON",2
+250287,way,585983778,45.3675908,-75.7430276,,1143,Clyde Avenue,semi_detached_house,"1143 Clyde avenue, Ottawa, ON","1143 Clyde avenue, Ottawa, ON",2
+250370,way,586069876,45.3949817,-75.7567108,,301,Royal Avenue,semi_detached_house,"301 Royal avenue, Ottawa, ON","301 Royal avenue, Ottawa, ON",2
+253080,way,589529621,45.3743275,-75.7091246,,128 A,Baseline Road,semi_detached_house,"128 A Baseline road, Ottawa, ON","128 A Baseline road, Ottawa, ON",2
+253086,way,589533361,45.4040617,-75.7000312,,36,Imperial Avenue,semi_detached_house,"36 Imperial avenue, Ottawa, ON","36 Imperial avenue, Ottawa, ON",2
+253981,way,591678844,45.3044818,-75.8793228,,40,Bachman Terrace,semi_detached_house,"40 Bachman terrace, Ottawa, ON","40 Bachman terrace, Ottawa, ON",2
+254402,way,592404107,45.4470342,-75.6311034,,580,Brunel Street,semi_detached_house,"580 Brunel street, Ottawa, ON","580 Brunel street, Ottawa, ON",2
+254660,way,595150082,45.362298,-75.7844732,,841,Connaught Avenue,semi_detached_house,"841 Connaught avenue, Ottawa, ON","841 Connaught avenue, Ottawa, ON",2
+254662,way,595150087,45.3622284,-75.7844363,,843,Connaught Avenue,semi_detached_house,"843 Connaught avenue, Ottawa, ON","843 Connaught avenue, Ottawa, ON",2
+254812,way,596553458,45.282805,-75.8576062,,100,Passageway Private,semi_detached_house,"100 Passageway private, Ottawa, ON","100 Passageway private, Ottawa, ON",2
+255987,way,597844574,45.4309832,-75.5105481,,1228,Glenlivet Avenue,semi_detached_house,"1228 Glenlivet avenue, Ottawa, ON","1228 Glenlivet avenue, Ottawa, ON",2
+258251,way,604017208,45.4059557,-75.6870489,,76,Glebe Avenue,semi_detached_house,"76 Glebe avenue, Ottawa, ON","76 Glebe avenue, Ottawa, ON",2
+260577,way,609304168,45.36232,-75.7917355,,2676,Marie Street,semi_detached_house,"2676 Marie street, Ottawa, ON","2676 Marie street, Ottawa, ON",2
+260580,way,609304172,45.3627551,-75.7948864,,354,Britannia Road,semi_detached_house,"354 Britannia road, Ottawa, ON","354 Britannia road, Ottawa, ON",2
+261804,way,612827510,45.2832628,-75.7055019,,60,Selhurst Avenue,semi_detached_house,"60 Selhurst avenue, Ottawa, ON","60 Selhurst avenue, Ottawa, ON",2
+262436,way,613031044,45.2783766,-75.7328934,,43,Alameda Way,semi_detached_house,"43 Alameda way, Ottawa, ON","43 Alameda way, Ottawa, ON",2
+263238,way,613167900,45.282846,-75.7317805,,81,Fairlop Way,semi_detached_house,"81 Fairlop way, Ottawa, ON","81 Fairlop way, Ottawa, ON",2
+263276,way,613167944,45.2795653,-75.735014,,112,Calaveras Avenue,semi_detached_house,"112 Calaveras avenue, Ottawa, ON","112 Calaveras avenue, Ottawa, ON",2
+263395,way,613168225,45.2785234,-75.7307892,,24,Palmadeo Drive,semi_detached_house,"24 Palmadeo drive, Ottawa, ON","24 Palmadeo drive, Ottawa, ON",2
+263427,way,613172644,45.2890734,-75.7429786,,50,Boulder Way,semi_detached_house,"50 Boulder way, Ottawa, ON","50 Boulder way, Ottawa, ON",2
+263467,way,613172696,45.2878612,-75.7422818,,14,Boulder Way,semi_detached_house,"14 Boulder way, Ottawa, ON","14 Boulder way, Ottawa, ON",2
+263791,way,613970355,45.2800516,-75.6892964,,4276,Owl Valley Drive,semi_detached_house,"4276 Owl valley drive, Ottawa, ON","4276 Owl valley drive, Ottawa, ON",2
+263797,way,613970361,45.280039,-75.6880309,,4250,Owl Valley Drive,semi_detached_house,"4250 Owl valley drive, Ottawa, ON","4250 Owl valley drive, Ottawa, ON",2
+264429,way,613971130,45.2757455,-75.6854159,,4452,Bittersweet Place,semi_detached_house,"4452 Bittersweet place, Ottawa, ON","4452 Bittersweet place, Ottawa, ON",2
+264432,way,613971133,45.275352,-75.6848154,,4462,Bittersweet Place,semi_detached_house,"4462 Bittersweet place, Ottawa, ON","4462 Bittersweet place, Ottawa, ON",2
+264466,way,613971167,45.2777273,-75.6953373,,283,Tewsley Drive,semi_detached_house,"283 Tewsley drive, Ottawa, ON","283 Tewsley drive, Ottawa, ON",2
+264475,way,613971176,45.2776105,-75.6965977,,258,Tewsley Drive,semi_detached_house,"258 Tewsley drive, Ottawa, ON","258 Tewsley drive, Ottawa, ON",2
+264480,way,613971191,45.277247,-75.697459,,238,Tewsley Drive,semi_detached_house,"238 Tewsley drive, Ottawa, ON","238 Tewsley drive, Ottawa, ON",2
+264498,way,613971209,45.2769169,-75.6971843,,239,Tewsley Drive,semi_detached_house,"239 Tewsley drive, Ottawa, ON","239 Tewsley drive, Ottawa, ON",2
+265391,way,614351386,45.2827846,-75.8574696,,102,Passageway Private,semi_detached_house,"102 Passageway private, Ottawa, ON","102 Passageway private, Ottawa, ON",2
+265406,way,614351401,45.2804751,-75.855793,,154,Granite Court,semi_detached_house,"154 Granite court, Ottawa, ON","154 Granite court, Ottawa, ON",2
+265413,way,614351408,45.2803756,-75.85727,,132,Granite Court,semi_detached_house,"132 Granite court, Ottawa, ON","132 Granite court, Ottawa, ON",2
+266092,way,614352120,45.2828999,-75.8690952,,662,Moorpark Avenue,semi_detached_house,"662 Moorpark avenue, Ottawa, ON","662 Moorpark avenue, Ottawa, ON",2
+266749,way,614356562,45.2941705,-75.8904454,,7,Seabrooke Drive,semi_detached_house,"7 Seabrooke drive, Ottawa, ON","7 Seabrooke drive, Ottawa, ON",2
+266756,way,614356569,45.2943403,-75.8892149,,22,Seabrooke Drive,semi_detached_house,"22 Seabrooke drive, Ottawa, ON","22 Seabrooke drive, Ottawa, ON",2
+266762,way,614356575,45.2953707,-75.8887143,,46,Seabrooke Drive,semi_detached_house,"46 Seabrooke drive, Ottawa, ON","46 Seabrooke drive, Ottawa, ON",2
+266781,way,614356594,45.293864,-75.8893453,,35,Winchester Drive,semi_detached_house,"35 Winchester drive, Ottawa, ON","35 Winchester drive, Ottawa, ON",2
+266792,way,614356605,45.2937499,-75.8852889,,6,Melanie Crescent,semi_detached_house,"6 Melanie crescent, Ottawa, ON","6 Melanie crescent, Ottawa, ON",2
+266794,way,614356607,45.2939749,-75.884756,,1,Melanie Crescent,semi_detached_house,"1 Melanie crescent, Ottawa, ON","1 Melanie crescent, Ottawa, ON",2
+266797,way,614356610,45.2943514,-75.8857259,,17,Melanie Crescent,semi_detached_house,"17 Melanie crescent, Ottawa, ON","17 Melanie crescent, Ottawa, ON",2
+266804,way,614356617,45.2940261,-75.8874138,,41,Melanie Crescent,semi_detached_house,"41 Melanie crescent, Ottawa, ON","41 Melanie crescent, Ottawa, ON",2
+266809,way,614356622,45.2934122,-75.8890661,,40,Winchester Drive,semi_detached_house,"40 Winchester drive, Ottawa, ON","40 Winchester drive, Ottawa, ON",2
+266821,way,614356634,45.2946716,-75.8863718,,51,Castlefrank Road,semi_detached_house,"51 Castlefrank road, Ottawa, ON","51 Castlefrank road, Ottawa, ON",2
+266833,way,614356646,45.2913931,-75.8725694,,85,Rothesay Drive,semi_detached_house,"85 Rothesay drive, Ottawa, ON","85 Rothesay drive, Ottawa, ON",2
+271011,way,615289237,45.3557247,-75.648447,,3417,Southgate Road,semi_detached_house,"3417 Southgate road, Ottawa, ON","3417 Southgate road, Ottawa, ON",2
+271059,way,615295538,45.3800715,-75.6742668,,1084,Aldéa Avenue,semi_detached_house,"1084 Aldéa avenue, Ottawa, ON","1084 Aldéa avenue, Ottawa, ON",2
+271079,way,615295575,45.3756351,-75.6759664,,2465,Clover Street,semi_detached_house,"2465 Clover street, Ottawa, ON","2465 Clover street, Ottawa, ON",2
+271095,way,615374216,45.4404733,-75.6391708,,679,Cummings Avenue,semi_detached_house,"679 Cummings avenue, Ottawa, ON","679 Cummings avenue, Ottawa, ON",2
+271129,way,615374272,45.4394835,-75.6386989,,653,Clarke Avenue,semi_detached_house,"653 Clarke avenue, Ottawa, ON","653 Clarke avenue, Ottawa, ON",2
+271275,way,615419270,45.3970377,-75.692849,,250,Holmwood Avenue,semi_detached_house,"250 Holmwood avenue, Ottawa, ON","250 Holmwood avenue, Ottawa, ON",2
+271323,way,615419324,45.3910104,-75.6792084,,532,Riverdale Avenue,semi_detached_house,"532 Riverdale avenue, Ottawa, ON","532 Riverdale avenue, Ottawa, ON",2
+271326,way,615419327,45.3922143,-75.6792315,,478,Riverdale Avenue,semi_detached_house,"478 Riverdale avenue, Ottawa, ON","478 Riverdale avenue, Ottawa, ON",2
+271499,way,615419508,45.3909729,-75.6858397,,81 ½,Grove Avenue,semi_detached_house,"81 ½ Grove avenue, Ottawa, ON","81 ½ Grove avenue, Ottawa, ON",2
+271656,way,615565347,45.4424537,-75.5311612,,6080,Pineglade Crescent,semi_detached_house,"6080 Pineglade crescent, Ottawa, ON","6080 Pineglade crescent, Ottawa, ON",2
+272339,way,616176676,45.4127897,-75.6973739,,390,Kent Street,semi_detached_house,"390 Kent street, Ottawa, ON","390 Kent street, Ottawa, ON",2
+273723,way,617098053,45.4653457,-75.5360058,,6687 B,Notre-Dame Street,semi_detached_house,"6687 B Notre-dame street, Ottawa, ON","6687 B Notre-dame street, Ottawa, ON",2
+275233,way,617675611,45.4760006,-75.4573354,,2180,Mondavi Street,semi_detached_house,"2180 Mondavi street, Ottawa, ON","2180 Mondavi street, Ottawa, ON",2
+275725,way,617678465,45.4468838,-75.6476057,,1044,Riviera Drive,semi_detached_house,"1044 Riviera drive, Ottawa, ON","1044 Riviera drive, Ottawa, ON",2
+278948,way,618131457,45.4440197,-75.6780896,,77,Rideau Terrace,semi_detached_house,"77 Rideau terrace, Ottawa, ON","77 Rideau terrace, Ottawa, ON",2
+279216,way,618273549,45.4409204,-75.6857003,,126,Keefer Street,semi_detached_house,"126 Keefer street, Ottawa, ON","126 Keefer street, Ottawa, ON",2
+279217,way,618273550,45.4410558,-75.6855754,,136,Keefer Street,semi_detached_house,"136 Keefer street, Ottawa, ON","136 Keefer street, Ottawa, ON",2
+279226,way,618279344,45.4386465,-75.6037566,,1134,Elmlea Drive,semi_detached_house,"1134 Elmlea drive, Ottawa, ON","1134 Elmlea drive, Ottawa, ON",2
+279246,way,618350784,45.4339348,-75.6477375,,453,Guy Street,semi_detached_house,"453 Guy street, Ottawa, ON","453 Guy street, Ottawa, ON",2
+279361,way,618350908,45.4370991,-75.650494,,672,Église Street,semi_detached_house,"672 Église street, Ottawa, ON","672 Église street, Ottawa, ON",2
+279946,way,618716536,45.4410026,-75.6610743,,191,Bradley Avenue,semi_detached_house,"191 Bradley avenue, Ottawa, ON","191 Bradley avenue, Ottawa, ON",2
+280244,way,619024771,45.4450232,-75.6803049,,49,Belvedere Crescent,semi_detached_house,"49 Belvedere crescent, Ottawa, ON","49 Belvedere crescent, Ottawa, ON",2
+280287,way,619191223,45.4401853,-75.6799944,,332,MacKay Street,semi_detached_house,"332 Mackay street, Ottawa, ON","332 Mackay street, Ottawa, ON",2
+280349,way,619204950,45.4417191,-75.6892134,,54,Crichton Street,semi_detached_house,"54 Crichton street, Ottawa, ON","54 Crichton street, Ottawa, ON",2
+280449,way,619212478,45.4419185,-75.6745699,,35,Commanda Way,semi_detached_house,"35 Commanda way, Ottawa, ON","35 Commanda way, Ottawa, ON",2
+280461,way,619212491,45.4417781,-75.6766154,,65,Springfield Road,semi_detached_house,"65 Springfield road, Ottawa, ON","65 Springfield road, Ottawa, ON",2
+280466,way,619212496,45.4418733,-75.6770895,,70,Springfield Road,semi_detached_house,"70 Springfield road, Ottawa, ON","70 Springfield road, Ottawa, ON",2
+280539,way,619271495,45.4346066,-75.6920055,,250,Cathcart Street,semi_detached_house,"250 Cathcart street, Ottawa, ON","250 Cathcart street, Ottawa, ON",2
+280637,way,619344272,45.4313324,-75.6922014,,269,St. Patrick Street,semi_detached_house,"269 St. patrick street, Ottawa, ON","269 St. patrick street, Ottawa, ON",2
+281956,way,620524032,45.3203726,-75.6062764,,208,Bulrush Crescent,semi_detached_house,"208 Bulrush crescent, Ottawa, ON","208 Bulrush crescent, Ottawa, ON",2
+282044,way,620524121,45.3211113,-75.5962764,,214,Meadowlilly Road,semi_detached_house,"214 Meadowlilly road, Ottawa, ON","214 Meadowlilly road, Ottawa, ON",2
+282062,way,620524139,45.321545,-75.6015387,,790,White Alder Avenue,semi_detached_house,"790 White alder avenue, Ottawa, ON","790 White alder avenue, Ottawa, ON",2
+282102,way,620524179,45.3237421,-75.5979252,,477,Stalwart Crescent,semi_detached_house,"477 Stalwart crescent, Ottawa, ON","477 Stalwart crescent, Ottawa, ON",2
+282103,way,620524180,45.3236248,-75.5978145,,481,Stalwart Crescent,semi_detached_house,"481 Stalwart crescent, Ottawa, ON","481 Stalwart crescent, Ottawa, ON",2
+282121,way,620524198,45.323995,-75.5992158,,428,Stalwart Crescent,semi_detached_house,"428 Stalwart crescent, Ottawa, ON","428 Stalwart crescent, Ottawa, ON",2
+282180,way,620524263,45.3228052,-75.6025098,,753,White Alder Avenue,semi_detached_house,"753 White alder avenue, Ottawa, ON","753 White alder avenue, Ottawa, ON",2
+282256,way,620524340,45.3203634,-75.604318,,644,White Alder Avenue,semi_detached_house,"644 White alder avenue, Ottawa, ON","644 White alder avenue, Ottawa, ON",2
+282286,way,620524370,45.3182554,-75.6069955,,4079,Kelly Farm Drive,semi_detached_house,"4079 Kelly farm drive, Ottawa, ON","4079 Kelly farm drive, Ottawa, ON",2
+282828,way,620995978,45.392,-75.7440234,,158,Geoffrey Street,semi_detached_house,"158 Geoffrey street, Ottawa, ON","158 Geoffrey street, Ottawa, ON",2
+282830,way,620995980,45.3919541,-75.7442098,,162,Geoffrey Street,semi_detached_house,"162 Geoffrey street, Ottawa, ON","162 Geoffrey street, Ottawa, ON",2
+283372,way,622543100,45.2576396,-75.3731557,,30,Gaslight Way,semi_detached_house,"30 Gaslight way, Ottawa, ON","30 Gaslight way, Ottawa, ON",2
+283383,way,622543113,45.2579988,-75.3736734,,33,Gaslight Way,semi_detached_house,"33 Gaslight way, Ottawa, ON","33 Gaslight way, Ottawa, ON",2
+284077,way,624290815,45.016376,-75.631883,,158,Raina Way,semi_detached_house,"158 Raina way, Ottawa, ON","158 Raina way, Ottawa, ON",2
+284810,way,625609634,45.3002885,-75.8969683,,20,Shaw Court,semi_detached_house,"20 Shaw court, Ottawa, ON","20 Shaw court, Ottawa, ON",2
+285189,way,626449059,45.411086,-75.681874,,241,Echo Drive,semi_detached_house,"241 Echo drive, Ottawa, ON","241 Echo drive, Ottawa, ON",2
+286023,way,628344295,45.4349946,-75.6793914,,463,Clarence Street East,semi_detached_house,"463 Clarence street east, Ottawa, ON","463 Clarence street east, Ottawa, ON",2
+286026,way,628344298,45.4345037,-75.6786455,,47,Heney Street,semi_detached_house,"47 Heney street, Ottawa, ON","47 Heney street, Ottawa, ON",2
+287564,way,632562219,45.4229403,-75.6788035,,434,Nelson Street,semi_detached_house,"434 Nelson street, Ottawa, ON","434 Nelson street, Ottawa, ON",2
+288120,way,633753029,45.4451603,-75.6808725,,29,Belvedere Crescent,semi_detached_house,"29 Belvedere crescent, Ottawa, ON","29 Belvedere crescent, Ottawa, ON",2
+288588,way,637683039,45.3448433,-76.0282586,,327,Donald B. Munro Drive,semi_detached_house,"327 Donald b. munro drive, Ottawa, ON","327 Donald b. munro drive, Ottawa, ON",2
+288591,way,637683047,45.344571,-76.0283768,,146,Salisbury Street,semi_detached_house,"146 Salisbury street, Ottawa, ON","146 Salisbury street, Ottawa, ON",2
+288610,way,637683114,45.3427984,-76.028071,,168 C,Rivington Street,semi_detached_house,"168 C Rivington street, Ottawa, ON","168 C Rivington street, Ottawa, ON",2
+289108,way,651619905,45.4078697,-75.6985027,,197,Arlington Avenue,semi_detached_house,"197 Arlington avenue, Ottawa, ON","197 Arlington avenue, Ottawa, ON",2
+289133,way,652903441,45.3661794,-75.7969388,,243,Britannia Road,semi_detached_house,"243 Britannia road, Ottawa, ON","243 Britannia road, Ottawa, ON",2
+289410,way,658314264,45.3492068,-75.6633883,,22,Killdeer Bay,semi_detached_house,"22 Killdeer bay, Ottawa, ON","22 Killdeer bay, Ottawa, ON",2
+290273,way,686007418,45.3155205,-75.9388043,,175,Boundstone Way,semi_detached_house,"175 Boundstone way, Ottawa, ON","175 Boundstone way, Ottawa, ON",2
+291207,way,686149879,45.2834867,-75.9194033,,426,Warmstone Drive,semi_detached_house,"426 Warmstone drive, Ottawa, ON","426 Warmstone drive, Ottawa, ON",2
+293278,way,689244300,45.3140153,-75.5970724,,546,Silverbell Crescent,semi_detached_house,"546 Silverbell crescent, Ottawa, ON","546 Silverbell crescent, Ottawa, ON",2
+293280,way,689244302,45.3139248,-75.5972789,,550,Silverbell Crescent,semi_detached_house,"550 Silverbell crescent, Ottawa, ON","550 Silverbell crescent, Ottawa, ON",2
+294182,way,689260597,45.4996277,-75.4653565,,815,Tewin Circle,semi_detached_house,"815 Tewin circle, Ottawa, ON","815 Tewin circle, Ottawa, ON",2
+294212,way,689260630,45.4981433,-75.4684489,,343,Mishawashkode Street,semi_detached_house,"343 Mishawashkode street, Ottawa, ON","343 Mishawashkode street, Ottawa, ON",2
+294557,way,694000486,45.4050929,-75.72873,,194,Carruthers Avenue,semi_detached_house,"194 Carruthers avenue, Ottawa, ON","194 Carruthers avenue, Ottawa, ON",2
+294971,way,736908429,45.282333,-75.9202155,,25,Merrill Street,semi_detached_house,"25 Merrill street, Ottawa, ON","25 Merrill street, Ottawa, ON",2
+295026,way,736908484,45.282652,-75.9211924,,813,Indica Street,semi_detached_house,"813 Indica street, Ottawa, ON","813 Indica street, Ottawa, ON",2
+297511,way,740743436,45.3607497,-75.7857504,,867,Norton Avenue,semi_detached_house,"867 Norton avenue, Ottawa, ON","867 Norton avenue, Ottawa, ON",2
+297699,way,772601702,45.3501794,-75.8324764,,78,Schoolyard Private,semi_detached_house,"78 Schoolyard private, Ottawa, ON","78 Schoolyard private, Ottawa, ON",2
+298184,way,797550684,45.3909926,-75.7456884,,489,Bevan Avenue,semi_detached_house,"489 Bevan avenue, Ottawa, ON","489 Bevan avenue, Ottawa, ON",2

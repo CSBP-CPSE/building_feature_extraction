@@ -1,0 +1,365 @@
+row,osm_obj_type,id,latitude,longitude,unit,street_no,street_name,osm_tag,full_address,request_address,attached_buildings
+2106,way,145424518,45.4089348,-75.7040061,,421,Bronson Avenue,detached,"421 Bronson avenue, Ottawa, ON","421 Bronson avenue, Ottawa, ON",1
+2269,way,155040428,45.3970319,-75.7440338,,98,Mailes Avenue,detached,"98 Mailes avenue, Ottawa, ON","98 Mailes avenue, Ottawa, ON",1
+2440,way,160990406,45.3829807,-75.7248915,,972,Bakervale Drive,detached,"972 Bakervale drive, Ottawa, ON","972 Bakervale drive, Ottawa, ON",1
+2445,way,160990418,45.3827597,-75.7246755,,978,Bakervale Drive,detached,"978 Bakervale drive, Ottawa, ON","978 Bakervale drive, Ottawa, ON",1
+2856,way,174681883,45.1785377,-75.8647744,,6659,Franktown Road,detached,"6659 Franktown road, Ottawa, ON","6659 Franktown road, Ottawa, ON",1
+3722,way,230066429,45.2582638,-75.3706199,,13,Olde Towne Avenue,detached,"13 Olde towne avenue, Ottawa, ON","13 Olde towne avenue, Ottawa, ON",1
+5033,way,246522228,45.1918042,-76.0242664,,1534,Dwyer Hill Road,detached,"1534 Dwyer hill road, Ottawa, ON","1534 Dwyer hill road, Ottawa, ON",1
+5137,way,247896269,45.3952646,-75.741295,,422,Island Park Drive,detached,"422 Island park drive, Ottawa, ON","422 Island park drive, Ottawa, ON",1
+5139,way,247896271,45.395526,-75.7414388,,406,Island Park Drive,detached,"406 Island park drive, Ottawa, ON","406 Island park drive, Ottawa, ON",1
+5153,way,247897593,45.3944228,-75.7408205,,438,Island Park Drive,detached,"438 Island park drive, Ottawa, ON","438 Island park drive, Ottawa, ON",1
+5218,way,248607117,45.1597732,-76.0031435,,8595,Fallowfield Road,detached,"8595 Fallowfield road, Ottawa, ON","8595 Fallowfield road, Ottawa, ON",1
+5273,way,249315037,45.4491965,-75.6747733,,387,Mariposa Avenue,detached,"387 Mariposa avenue, Ottawa, ON","387 Mariposa avenue, Ottawa, ON",1
+5457,way,252466412,45.3979051,-75.7305074,,183,Holland Avenue,detached,"183 Holland avenue, Ottawa, ON","183 Holland avenue, Ottawa, ON",1
+5706,way,255476368,45.3986935,-75.7339405,,10,Harmer Avenue North,detached,"10 Harmer avenue north, Ottawa, ON","10 Harmer avenue north, Ottawa, ON",1
+5719,way,255476381,45.398088,-75.7329294,,25,Harmer Avenue North,detached,"25 Harmer avenue north, Ottawa, ON","25 Harmer avenue north, Ottawa, ON",1
+6069,way,258993472,45.3954455,-75.6961805,,995,Bronson Avenue,detached,"995 Bronson avenue, Ottawa, ON","995 Bronson avenue, Ottawa, ON",1
+6108,way,259152694,45.3905576,-75.7272895,,421,Huron Avenue South,detached,"421 Huron avenue south, Ottawa, ON","421 Huron avenue south, Ottawa, ON",1
+6114,way,259153129,45.3911045,-75.726416,,445,Holland Avenue,detached,"445 Holland avenue, Ottawa, ON","445 Holland avenue, Ottawa, ON",1
+6152,way,259244701,45.3932228,-75.7271321,,384,Hinton Avenue South,detached,"384 Hinton avenue south, Ottawa, ON","384 Hinton avenue south, Ottawa, ON",1
+6167,way,259291262,45.3906311,-75.7280082,,749,Island Park Drive,detached,"749 Island park drive, Ottawa, ON","749 Island park drive, Ottawa, ON",1
+6176,way,259291273,45.3913736,-75.7283719,,404,Huron Avenue South,detached,"404 Huron avenue south, Ottawa, ON","404 Huron avenue south, Ottawa, ON",1
+6181,way,259291279,45.3915812,-75.7290204,,265,Harmer Avenue South,detached,"265 Harmer avenue south, Ottawa, ON","265 Harmer avenue south, Ottawa, ON",1
+6198,way,259295650,45.3908373,-75.7321624,,661,Island Park Drive,detached,"661 Island park drive, Ottawa, ON","661 Island park drive, Ottawa, ON",1
+6223,way,259355221,45.3913773,-75.731448,,160,Ruskin Street,detached,"160 Ruskin street, Ottawa, ON","160 Ruskin street, Ottawa, ON",1
+6249,way,259537514,45.3934168,-75.7261,,386,Hamilton Avenue South,detached,"386 Hamilton avenue south, Ottawa, ON","386 Hamilton avenue south, Ottawa, ON",1
+6262,way,259550848,45.3922569,-75.7254173,,408,Hamilton Avenue South,detached,"408 Hamilton avenue south, Ottawa, ON","408 Hamilton avenue south, Ottawa, ON",1
+6277,way,260371475,45.3915388,-75.7238514,,750,Parkdale Avenue,detached,"750 Parkdale avenue, Ottawa, ON","750 Parkdale avenue, Ottawa, ON",1
+6324,way,261628696,45.391559,-75.7249994,,12,Inglewood Place,detached,"12 Inglewood place, Ottawa, ON","12 Inglewood place, Ottawa, ON",1
+6348,way,261694218,45.3932893,-75.7255286,,89,Ruskin Street,detached,"89 Ruskin street, Ottawa, ON","89 Ruskin street, Ottawa, ON",1
+6358,way,261716416,45.3939226,-75.7258198,,379,Hamilton Avenue South,detached,"379 Hamilton avenue south, Ottawa, ON","379 Hamilton avenue south, Ottawa, ON",1
+6450,way,261979059,45.3925708,-75.7296033,,251,Harmer Avenue South,detached,"251 Harmer avenue south, Ottawa, ON","251 Harmer avenue south, Ottawa, ON",1
+6458,way,261979302,45.3930316,-75.7293904,,378,Huron Avenue South,detached,"378 Huron avenue south, Ottawa, ON","378 Huron avenue south, Ottawa, ON",1
+6460,way,261979305,45.3927203,-75.7291822,,384,Huron Avenue South,detached,"384 Huron avenue south, Ottawa, ON","384 Huron avenue south, Ottawa, ON",1
+6488,way,262285110,45.3945042,-75.7266951,,107,Kenilworth Street,detached,"107 Kenilworth street, Ottawa, ON","107 Kenilworth street, Ottawa, ON",1
+6707,way,264034231,45.392868,-75.7322704,,7,Geneva Street,detached,"7 Geneva street, Ottawa, ON","7 Geneva street, Ottawa, ON",1
+7199,way,287735055,45.4048726,-75.6588965,,186,Cluny Street,detached,"186 Cluny street, Ottawa, ON","186 Cluny street, Ottawa, ON",1
+7202,way,287735059,45.4049429,-75.6583283,,198,Cluny Street,detached,"198 Cluny street, Ottawa, ON","198 Cluny street, Ottawa, ON",1
+7243,way,287741832,45.4069788,-75.6536726,,318,Lindsay Street,detached,"318 Lindsay street, Ottawa, ON","318 Lindsay street, Ottawa, ON",1
+7247,way,287742319,45.4065651,-75.6535773,,305,Knox Crescent,detached,"305 Knox crescent, Ottawa, ON","305 Knox crescent, Ottawa, ON",1
+7266,way,287806695,45.4068709,-75.6526449,,342,Lindsay Street,detached,"342 Lindsay street, Ottawa, ON","342 Lindsay street, Ottawa, ON",1
+7269,way,287806698,45.4066577,-75.6521176,,358,Lindsay Street,detached,"358 Lindsay street, Ottawa, ON","358 Lindsay street, Ottawa, ON",1
+7357,way,287881686,45.4071644,-75.6553582,,1611,Dorion Avenue,detached,"1611 Dorion avenue, Ottawa, ON","1611 Dorion avenue, Ottawa, ON",1
+7361,way,287881973,45.4073396,-75.6548447,,1608,Drake Avenue,detached,"1608 Drake avenue, Ottawa, ON","1608 Drake avenue, Ottawa, ON",1
+7368,way,287882313,45.4081326,-75.6539781,,1582,Drake Avenue,detached,"1582 Drake avenue, Ottawa, ON","1582 Drake avenue, Ottawa, ON",1
+7374,way,287882639,45.4085094,-75.6543316,,538,Neighbourhood Way,detached,"538 Neighbourhood way, Ottawa, ON","538 Neighbourhood way, Ottawa, ON",1
+7379,way,287882671,45.4083391,-75.6549651,,524,Neighbourhood Way,detached,"524 Neighbourhood way, Ottawa, ON","524 Neighbourhood way, Ottawa, ON",1
+7449,way,292266490,45.4065258,-75.7252082,,10,Lowrey Street,detached,"10 Lowrey street, Ottawa, ON","10 Lowrey street, Ottawa, ON",1
+7576,way,295419955,45.4097094,-75.6876844,,107,Pretoria Avenue,detached,"107 Pretoria avenue, Ottawa, ON","107 Pretoria avenue, Ottawa, ON",1
+7691,way,302127065,45.2587169,-75.8286246,,5069,Fallowfield Road,detached,"5069 Fallowfield road, Ottawa, ON","5069 Fallowfield road, Ottawa, ON",1
+8054,way,307394547,45.4702167,-75.4968843,,1551,Payette Drive,detached,"1551 Payette drive, Ottawa, ON","1551 Payette drive, Ottawa, ON",1
+8062,way,307397296,45.4695642,-75.4965047,,1561,Payette Drive,detached,"1561 Payette drive, Ottawa, ON","1561 Payette drive, Ottawa, ON",1
+8071,way,307511199,45.472556,-75.4991569,,1509,Prestwick Drive,detached,"1509 Prestwick drive, Ottawa, ON","1509 Prestwick drive, Ottawa, ON",1
+8081,way,307511209,45.4717627,-75.4983308,,364,Roxdale Avenue,detached,"364 Roxdale avenue, Ottawa, ON","364 Roxdale avenue, Ottawa, ON",1
+8136,way,307631708,45.4696623,-75.4942888,,424,Phoenix Crescent,detached,"424 Phoenix crescent, Ottawa, ON","424 Phoenix crescent, Ottawa, ON",1
+8162,way,307639436,45.4683382,-75.4961505,,1575,Payette Drive,detached,"1575 Payette drive, Ottawa, ON","1575 Payette drive, Ottawa, ON",1
+8209,way,307639488,45.4699774,-75.4947142,,385,Vince Drive,detached,"385 Vince drive, Ottawa, ON","385 Vince drive, Ottawa, ON",1
+8265,way,307655290,45.4682446,-75.4971788,,1587,Prestwick Drive,detached,"1587 Prestwick drive, Ottawa, ON","1587 Prestwick drive, Ottawa, ON",1
+8269,way,307655294,45.4679345,-75.4972741,,1593,Prestwick Drive,detached,"1593 Prestwick drive, Ottawa, ON","1593 Prestwick drive, Ottawa, ON",1
+8271,way,307655296,45.4672282,-75.4966658,,1597,Payette Drive,detached,"1597 Payette drive, Ottawa, ON","1597 Payette drive, Ottawa, ON",1
+8413,way,309597075,45.4719632,-75.4976183,,372,Roxdale Avenue,detached,"372 Roxdale avenue, Ottawa, ON","372 Roxdale avenue, Ottawa, ON",1
+8437,way,309597107,45.4731232,-75.4963712,,386,Amiens Street,detached,"386 Amiens street, Ottawa, ON","386 Amiens street, Ottawa, ON",1
+8673,way,317700197,45.4051027,-75.6618868,,1704,Abbey Road,detached,"1704 Abbey road, Ottawa, ON","1704 Abbey road, Ottawa, ON",1
+8674,way,317700198,45.4052435,-75.6618155,,1700,Abbey Road,detached,"1700 Abbey road, Ottawa, ON","1700 Abbey road, Ottawa, ON",1
+8676,way,317700200,45.4054751,-75.6616279,,1692,Abbey Road,detached,"1692 Abbey road, Ottawa, ON","1692 Abbey road, Ottawa, ON",1
+8686,way,317700610,45.4058901,-75.660771,,1673,Abbey Road,detached,"1673 Abbey road, Ottawa, ON","1673 Abbey road, Ottawa, ON",1
+8693,way,317701128,45.4066097,-75.6609557,,1654,Abbey Road,detached,"1654 Abbey road, Ottawa, ON","1654 Abbey road, Ottawa, ON",1
+8731,way,318126078,45.3710205,-75.8021725,,74,Kirby Road,detached,"74 Kirby road, Ottawa, ON","74 Kirby road, Ottawa, ON",1
+8770,way,318128010,45.3699697,-75.7990511,,125,Britannia Road,detached,"125 Britannia road, Ottawa, ON","125 Britannia road, Ottawa, ON",1
+8824,way,318273424,45.3700486,-75.800712,,2764,Rowatt Street,detached,"2764 Rowatt street, Ottawa, ON","2764 Rowatt street, Ottawa, ON",1
+8839,way,318273440,45.3678999,-75.7999351,,169,Kehoe Street,detached,"169 Kehoe street, Ottawa, ON","169 Kehoe street, Ottawa, ON",1
+8876,way,318275308,45.3871654,-75.7637341,,442,Fraser Avenue,detached,"442 Fraser avenue, Ottawa, ON","442 Fraser avenue, Ottawa, ON",1
+9229,way,319399541,45.4068646,-75.6595558,,1634,Alta Vista Drive,detached,"1634 Alta vista drive, Ottawa, ON","1634 Alta vista drive, Ottawa, ON",1
+9243,way,319400490,45.41108,-75.6582809,,1516,Caledon Street,detached,"1516 Caledon street, Ottawa, ON","1516 Caledon street, Ottawa, ON",1
+9249,way,319401174,45.4105675,-75.6575686,,1497,Caledon Street,detached,"1497 Caledon street, Ottawa, ON","1497 Caledon street, Ottawa, ON",1
+9256,way,319401970,45.4104421,-75.6580622,,1529,Caledon Street,detached,"1529 Caledon street, Ottawa, ON","1529 Caledon street, Ottawa, ON",1
+9264,way,319401978,45.4095387,-75.6585601,,1555,Caledon Street,detached,"1555 Caledon street, Ottawa, ON","1555 Caledon street, Ottawa, ON",1
+9268,way,319402009,45.4089409,-75.6585191,,261,Dale Avenue,detached,"261 Dale avenue, Ottawa, ON","261 Dale avenue, Ottawa, ON",1
+9291,way,319404747,45.4095622,-75.6478826,,504,Bloor Avenue,detached,"504 Bloor avenue, Ottawa, ON","504 Bloor avenue, Ottawa, ON",1
+9305,way,319405618,45.4095908,-75.6487062,,488,Bloor Avenue,detached,"488 Bloor avenue, Ottawa, ON","488 Bloor avenue, Ottawa, ON",1
+9330,way,319421272,45.4100087,-75.6475145,,511,Bloor Avenue,detached,"511 Bloor avenue, Ottawa, ON","511 Bloor avenue, Ottawa, ON",1
+9344,way,319651712,45.4057414,-75.6467376,,516,Braydon Avenue,detached,"516 Braydon avenue, Ottawa, ON","516 Braydon avenue, Ottawa, ON",1
+9348,way,319651716,45.4056629,-75.6475006,,500,Braydon Avenue,detached,"500 Braydon avenue, Ottawa, ON","500 Braydon avenue, Ottawa, ON",1
+9354,way,319651939,45.4063117,-75.6482294,,488,Avalon Place,detached,"488 Avalon place, Ottawa, ON","488 Avalon place, Ottawa, ON",1
+9366,way,319651951,45.4062558,-75.6460106,,1588,Balena Avenue,detached,"1588 Balena avenue, Ottawa, ON","1588 Balena avenue, Ottawa, ON",1
+9367,way,319651952,45.4061964,-75.6462762,,525,Braydon Avenue,detached,"525 Braydon avenue, Ottawa, ON","525 Braydon avenue, Ottawa, ON",1
+9371,way,319651977,45.406131,-75.6473346,,503,Braydon Avenue,detached,"503 Braydon avenue, Ottawa, ON","503 Braydon avenue, Ottawa, ON",1
+9386,way,319652323,45.407172,-75.6460172,,1558,Balena Avenue,detached,"1558 Balena avenue, Ottawa, ON","1558 Balena avenue, Ottawa, ON",1
+9406,way,319652700,45.4081423,-75.6463237,,1527,Chomley Crescent,detached,"1527 Chomley crescent, Ottawa, ON","1527 Chomley crescent, Ottawa, ON",1
+9548,way,321498040,45.4399666,-75.6612761,,280,Joffre-Bélanger Way,detached,"280 Joffre-bélanger way, Ottawa, ON","280 Joffre-bélanger way, Ottawa, ON",1
+9792,way,326378115,45.4563924,-75.680565,,761,Acacia Lane,detached,"761 Acacia lane, Ottawa, ON","761 Acacia lane, Ottawa, ON",1
+9887,way,336904539,45.2207898,-76.066706,,426,Upper Dwyer Hill Road,detached,"426 Upper dwyer hill road, Ottawa, ON","426 Upper dwyer hill road, Ottawa, ON",1
+9893,way,336912506,45.4489642,-75.6484361,,385,Plum Tree Crescent,detached,"385 Plum tree crescent, Ottawa, ON","385 Plum tree crescent, Ottawa, ON",1
+9896,way,336912510,45.4487169,-75.6476521,,393,Plum Tree Crescent,detached,"393 Plum tree crescent, Ottawa, ON","393 Plum tree crescent, Ottawa, ON",1
+9977,way,338037335,45.3820137,-75.7378717,,1373,Coldrey Avenue,detached,"1373 Coldrey avenue, Ottawa, ON","1373 Coldrey avenue, Ottawa, ON",1
+9980,way,338046580,45.3828887,-75.7368635,,1340,Thames Street,detached,"1340 Thames street, Ottawa, ON","1340 Thames street, Ottawa, ON",1
+9984,way,338126675,45.3580882,-75.7589626,,2117,Navaho Drive,detached,"2117 Navaho drive, Ottawa, ON","2117 Navaho drive, Ottawa, ON",1
+10003,way,342557433,45.3972266,-75.7170655,,86,Old Irving Place,detached,"86 Old irving place, Ottawa, ON","86 Old irving place, Ottawa, ON",1
+10120,way,351687517,45.3209454,-75.6916249,,4,Lewer Street,detached,"4 Lewer street, Ottawa, ON","4 Lewer street, Ottawa, ON",1
+10729,way,364823544,45.4090412,-75.6397222,,670,Coronation Avenue,detached,"670 Coronation avenue, Ottawa, ON","670 Coronation avenue, Ottawa, ON",1
+10797,way,369025110,45.3803371,-75.73046,,975,Silver Street,detached,"975 Silver street, Ottawa, ON","975 Silver street, Ottawa, ON",1
+10866,way,369570484,45.3852196,-75.9862902,,1924,McCord Drive,detached,"1924 Mccord drive, Ottawa, ON","1924 Mccord drive, Ottawa, ON",1
+10870,way,369570488,45.3779461,-75.994102,,126,Goodman Drive,detached,"126 Goodman drive, Ottawa, ON","126 Goodman drive, Ottawa, ON",1
+10888,way,369570511,45.3858986,-75.9878193,,1928,McCord Drive,detached,"1928 Mccord drive, Ottawa, ON","1928 Mccord drive, Ottawa, ON",1
+10923,way,369570557,45.3768141,-75.9882051,,1811,Rocklane Drive,detached,"1811 Rocklane drive, Ottawa, ON","1811 Rocklane drive, Ottawa, ON",1
+10947,way,369570585,45.3838929,-76.0018542,,145,Ravenview Way,detached,"145 Ravenview way, Ottawa, ON","145 Ravenview way, Ottawa, ON",1
+11044,way,371288265,45.4786677,-75.4933512,,1616,Delia Crescent,detached,"1616 Delia crescent, Ottawa, ON","1616 Delia crescent, Ottawa, ON",1
+11056,way,371288277,45.4792568,-75.4924786,,1486,Delia Crescent,detached,"1486 Delia crescent, Ottawa, ON","1486 Delia crescent, Ottawa, ON",1
+11151,way,380249132,45.3893326,-75.7501995,,492,Evered Avenue,detached,"492 Evered avenue, Ottawa, ON","492 Evered avenue, Ottawa, ON",1
+12280,way,382737349,45.3961602,-75.751619,,306,Tweedsmuir Avenue,detached,"306 Tweedsmuir avenue, Ottawa, ON","306 Tweedsmuir avenue, Ottawa, ON",1
+12869,way,386571461,45.4252191,-75.6539602,,273,Queen Mary Street,detached,"273 Queen mary street, Ottawa, ON","273 Queen mary street, Ottawa, ON",1
+13252,way,387270978,45.3965116,-75.7333817,,15,Kenora Street,detached,"15 Kenora street, Ottawa, ON","15 Kenora street, Ottawa, ON",1
+13258,way,387270990,45.3963897,-75.733757,,21,Kenora Street,detached,"21 Kenora street, Ottawa, ON","21 Kenora street, Ottawa, ON",1
+14666,way,403882099,45.3950239,-75.7521232,,334,Athlone Avenue,detached,"334 Athlone avenue, Ottawa, ON","334 Athlone avenue, Ottawa, ON",1
+14678,way,408064036,45.3955224,-75.750666,,335,Tweedsmuir Avenue,detached,"335 Tweedsmuir avenue, Ottawa, ON","335 Tweedsmuir avenue, Ottawa, ON",1
+15108,way,431100743,45.4822624,-75.5015551,,1345,Turner Crescent,detached,"1345 Turner crescent, Ottawa, ON","1345 Turner crescent, Ottawa, ON",1
+15124,way,431100759,45.4799912,-75.4997433,,1377,Turner Crescent,detached,"1377 Turner crescent, Ottawa, ON","1377 Turner crescent, Ottawa, ON",1
+15134,way,431100769,45.4782821,-75.5002129,,1393,Laurin Crescent,detached,"1393 Laurin crescent, Ottawa, ON","1393 Laurin crescent, Ottawa, ON",1
+15179,way,431100814,45.4771816,-75.4994022,,1453,Laurin Crescent,detached,"1453 Laurin crescent, Ottawa, ON","1453 Laurin crescent, Ottawa, ON",1
+15767,way,441865509,45.4012797,-75.7224736,,1081,Gladstone Avenue,detached,"1081 Gladstone avenue, Ottawa, ON","1081 Gladstone avenue, Ottawa, ON",1
+15930,way,445511587,45.1797937,-75.8360642,,6299,Ottawa Street West,detached,"6299 Ottawa street west, Ottawa, ON","6299 Ottawa street west, Ottawa, ON",1
+15933,way,445511591,45.1788392,-75.826264,,43,Richland Drive,detached,"43 Richland drive, Ottawa, ON","43 Richland drive, Ottawa, ON",1
+15942,way,445511600,45.1807008,-75.8257439,,15,Longridge Court,detached,"15 Longridge court, Ottawa, ON","15 Longridge court, Ottawa, ON",1
+15956,way,445511614,45.180125,-75.8225722,,12,Richland Drive,detached,"12 Richland drive, Ottawa, ON","12 Richland drive, Ottawa, ON",1
+16712,way,445832357,45.1760358,-75.7026384,,6097,Second Line Road South,detached,"6097 Second line road south, Ottawa, ON","6097 Second line road south, Ottawa, ON",1
+16737,way,445832483,45.169972,-75.7137495,,6111,Prince Of Wales Drive,detached,"6111 Prince of wales drive, Ottawa, ON","6111 Prince of wales drive, Ottawa, ON",1
+16948,way,445838654,45.1875162,-75.9277391,,7294,Mansfield Road,detached,"7294 Mansfield road, Ottawa, ON","7294 Mansfield road, Ottawa, ON",1
+18312,way,448809594,45.3600626,-75.6986175,,246,Madhu Crescent,detached,"246 Madhu crescent, Ottawa, ON","246 Madhu crescent, Ottawa, ON",1
+18424,way,450786656,45.4785837,-75.4913714,,1528,Delia Crescent,detached,"1528 Delia crescent, Ottawa, ON","1528 Delia crescent, Ottawa, ON",1
+18427,way,450790058,45.4779454,-75.4910879,,1542,Delia Crescent,detached,"1542 Delia crescent, Ottawa, ON","1542 Delia crescent, Ottawa, ON",1
+18481,way,450843299,45.4179205,-75.4324647,,3485,Birchtree Crescent,detached,"3485 Birchtree crescent, Ottawa, ON","3485 Birchtree crescent, Ottawa, ON",1
+18663,way,458006831,45.4013787,-75.7141464,,66,Young Street,detached,"66 Young street, Ottawa, ON","66 Young street, Ottawa, ON",1
+18692,way,458181107,45.4320287,-75.6927075,,153,Guigues Avenue,detached,"153 Guigues avenue, Ottawa, ON","153 Guigues avenue, Ottawa, ON",1
+18715,way,458182156,45.4328614,-75.6899547,,240,Guigues Avenue,detached,"240 Guigues avenue, Ottawa, ON","240 Guigues avenue, Ottawa, ON",1
+18873,way,458604740,45.4315323,-75.6961027,,58,Parent Avenue,detached,"58 Parent avenue, Ottawa, ON","58 Parent avenue, Ottawa, ON",1
+18885,way,458608779,45.4391711,-75.6816402,,273,Crichton Street,detached,"273 Crichton street, Ottawa, ON","273 Crichton street, Ottawa, ON",1
+18947,way,459067771,45.4309714,-75.6969218,,27,St. Andrew Street,detached,"27 St. andrew street, Ottawa, ON","27 St. andrew street, Ottawa, ON",1
+18957,way,459068646,45.4316416,-75.6955423,,75,St. Andrew Street,detached,"75 St. andrew street, Ottawa, ON","75 St. andrew street, Ottawa, ON",1
+18959,way,459068650,45.4317029,-75.6953325,,81,St. Andrew Street,detached,"81 St. andrew street, Ottawa, ON","81 St. andrew street, Ottawa, ON",1
+18973,way,459070444,45.4344782,-75.6922226,,240,Cathcart Street,detached,"240 Cathcart street, Ottawa, ON","240 Cathcart street, Ottawa, ON",1
+19090,way,459252352,45.4237237,-75.6717187,,387,Templeton Street,detached,"387 Templeton street, Ottawa, ON","387 Templeton street, Ottawa, ON",1
+19117,way,459467718,45.4348762,-75.6953631,,124,Boteler Street,detached,"124 Boteler street, Ottawa, ON","124 Boteler street, Ottawa, ON",1
+19233,way,459478498,45.4521757,-75.6127655,,33,Wren Road,detached,"33 Wren road, Ottawa, ON","33 Wren road, Ottawa, ON",1
+19254,way,459662619,45.4133526,-75.6985819,,470,MacLaren Street,detached,"470 Maclaren street, Ottawa, ON","470 Maclaren street, Ottawa, ON",1
+19377,way,459921961,45.4581633,-75.6159885,,7,Burrows Road,detached,"7 Burrows road, Ottawa, ON","7 Burrows road, Ottawa, ON",1
+19399,way,459925623,45.4516018,-75.6099317,,17,Wick Crescent,detached,"17 Wick crescent, Ottawa, ON","17 Wick crescent, Ottawa, ON",1
+19416,way,459926730,45.4531353,-75.6101271,,38,Rothwell Drive,detached,"38 Rothwell drive, Ottawa, ON","38 Rothwell drive, Ottawa, ON",1
+19425,way,459927002,45.4548692,-75.6133339,,13,Rothwell Drive,detached,"13 Rothwell drive, Ottawa, ON","13 Rothwell drive, Ottawa, ON",1
+19437,way,459930298,45.4509358,-75.6095826,,12,Wick Crescent,detached,"12 Wick crescent, Ottawa, ON","12 Wick crescent, Ottawa, ON",1
+19438,way,459930299,45.4507288,-75.6090856,,10,Wick Crescent,detached,"10 Wick crescent, Ottawa, ON","10 Wick crescent, Ottawa, ON",1
+19454,way,459932213,45.4498361,-75.6102601,,39,Davidson Drive,detached,"39 Davidson drive, Ottawa, ON","39 Davidson drive, Ottawa, ON",1
+19485,way,460108127,45.4124862,-75.6974623,,77,James Street,detached,"77 James street, Ottawa, ON","77 James street, Ottawa, ON",1
+19493,way,460108137,45.4130393,-75.6961186,,47,James Street,detached,"47 James street, Ottawa, ON","47 James street, Ottawa, ON",1
+19528,way,460112313,45.435486,-75.6863546,,489,St. Patrick Street,detached,"489 St. patrick street, Ottawa, ON","489 St. patrick street, Ottawa, ON",1
+19604,way,460207117,45.4183783,-75.6661222,,38,Robinson Avenue,detached,"38 Robinson avenue, Ottawa, ON","38 Robinson avenue, Ottawa, ON",1
+19622,way,460208923,45.4230066,-75.6768473,,103,Sweetland Avenue,detached,"103 Sweetland avenue, Ottawa, ON","103 Sweetland avenue, Ottawa, ON",1
+19636,way,460215296,45.4120866,-75.6813502,,30,Hawthorne Avenue,detached,"30 Hawthorne avenue, Ottawa, ON","30 Hawthorne avenue, Ottawa, ON",1
+19638,way,460215298,45.411995,-75.6816179,,24,Hawthorne Avenue,detached,"24 Hawthorne avenue, Ottawa, ON","24 Hawthorne avenue, Ottawa, ON",1
+19717,way,460241005,45.4031635,-75.7027407,,448,Cambridge Street South,detached,"448 Cambridge street south, Ottawa, ON","448 Cambridge street south, Ottawa, ON",1
+19804,way,460394284,45.4271825,-75.6823385,,260,Nelson Street,detached,"260 Nelson street, Ottawa, ON","260 Nelson street, Ottawa, ON",1
+19811,way,460395087,45.4002716,-75.7100182,,84,Beech Street,detached,"84 Beech street, Ottawa, ON","84 Beech street, Ottawa, ON",1
+19819,way,460400414,45.3999196,-75.7126131,,60,Champagne Avenue South,detached,"60 Champagne avenue south, Ottawa, ON","60 Champagne avenue south, Ottawa, ON",1
+19830,way,460413752,45.3982663,-75.7153158,,251,Bayswater Avenue,detached,"251 Bayswater avenue, Ottawa, ON","251 Bayswater avenue, Ottawa, ON",1
+19908,way,460440203,45.4120854,-75.6942708,,387,Gladstone Avenue,detached,"387 Gladstone avenue, Ottawa, ON","387 Gladstone avenue, Ottawa, ON",1
+19960,way,460636173,45.3998455,-75.7142541,,18,Nolan Avenue,detached,"18 Nolan avenue, Ottawa, ON","18 Nolan avenue, Ottawa, ON",1
+19983,way,460668364,45.4346431,-75.6884384,,295,St. Andrew Street,detached,"295 St. andrew street, Ottawa, ON","295 St. andrew street, Ottawa, ON",1
+20101,way,466683866,45.4291445,-75.6822519,,334,Besserer Street,detached,"334 Besserer street, Ottawa, ON","334 Besserer street, Ottawa, ON",1
+20176,way,469669843,45.3530354,-76.0414679,,104,Hidden Lake Crescent,detached,"104 Hidden lake crescent, Ottawa, ON","104 Hidden lake crescent, Ottawa, ON",1
+20195,way,469669874,45.3533833,-76.0405121,,135,Charlie's Lane,detached,"135 Charlie's lane, Ottawa, ON","135 Charlie's lane, Ottawa, ON",1
+20211,way,469669893,45.352613,-76.0436572,,148,Snelgrove Drive,detached,"148 Snelgrove drive, Ottawa, ON","148 Snelgrove drive, Ottawa, ON",1
+20220,way,469669904,45.3537897,-76.0390895,,154,Charlie's Lane,detached,"154 Charlie's lane, Ottawa, ON","154 Charlie's lane, Ottawa, ON",1
+20833,way,469687872,45.3535974,-76.037295,,187,Charlie's Lane,detached,"187 Charlie's lane, Ottawa, ON","187 Charlie's lane, Ottawa, ON",1
+20843,way,469687882,45.352463,-76.0363693,,202,Charlie's Lane,detached,"202 Charlie's lane, Ottawa, ON","202 Charlie's lane, Ottawa, ON",1
+21858,way,469764941,45.1384481,-75.6165838,,3285,Taggart Street,detached,"3285 Taggart street, Ottawa, ON","3285 Taggart street, Ottawa, ON",1
+21860,way,469764943,45.1367114,-75.6121105,,5416,Annabella Street,detached,"5416 Annabella street, Ottawa, ON","5416 Annabella street, Ottawa, ON",1
+21874,way,469764982,45.1439363,-75.6105483,,5496,Osgoode Main Street,detached,"5496 Osgoode main street, Ottawa, ON","5496 Osgoode main street, Ottawa, ON",1
+21877,way,469764990,45.1412752,-75.6140199,,5424,Osgoode Main Street,detached,"5424 Osgoode main street, Ottawa, ON","5424 Osgoode main street, Ottawa, ON",1
+21884,way,469764998,45.1453361,-75.6083469,,5539,Osgoode Main Street,detached,"5539 Osgoode main street, Ottawa, ON","5539 Osgoode main street, Ottawa, ON",1
+21913,way,469765053,45.1453227,-75.6134013,,5433,Taylor Way,detached,"5433 Taylor way, Ottawa, ON","5433 Taylor way, Ottawa, ON",1
+21930,way,469765085,45.1391802,-75.612365,,5434,Duffy Street,detached,"5434 Duffy street, Ottawa, ON","5434 Duffy street, Ottawa, ON",1
+21944,way,469765100,45.13584,-75.608229,,3405,Regburn Drive,detached,"3405 Regburn drive, Ottawa, ON","3405 Regburn drive, Ottawa, ON",1
+21952,way,469765118,45.1440136,-75.6103381,,5500,Osgoode Main Street,detached,"5500 Osgoode main street, Ottawa, ON","5500 Osgoode main street, Ottawa, ON",1
+21960,way,469765128,45.1386094,-75.6151553,,3293,Warner Way,detached,"3293 Warner way, Ottawa, ON","3293 Warner way, Ottawa, ON",1
+22005,way,469765201,45.1442104,-75.6144545,,5418,Taylor Way,detached,"5418 Taylor way, Ottawa, ON","5418 Taylor way, Ottawa, ON",1
+22006,way,469765202,45.1410867,-75.6126751,,3267,Boyd Street,detached,"3267 Boyd street, Ottawa, ON","3267 Boyd street, Ottawa, ON",1
+22060,way,469765290,45.1448143,-75.6132987,,5430,Taylor Way,detached,"5430 Taylor way, Ottawa, ON","5430 Taylor way, Ottawa, ON",1
+22087,way,469765353,45.1422807,-75.6127154,,5448,Osgoode Main Street,detached,"5448 Osgoode main street, Ottawa, ON","5448 Osgoode main street, Ottawa, ON",1
+22102,way,469765390,45.1372145,-75.6165336,,3308,Taggart Street,detached,"3308 Taggart street, Ottawa, ON","3308 Taggart street, Ottawa, ON",1
+22106,way,469765398,45.1451137,-75.6088349,,5529,Osgoode Main Street,detached,"5529 Osgoode main street, Ottawa, ON","5529 Osgoode main street, Ottawa, ON",1
+22139,way,469765444,45.1444243,-75.6102396,,5503,Osgoode Main Street,detached,"5503 Osgoode main street, Ottawa, ON","5503 Osgoode main street, Ottawa, ON",1
+22149,way,469765456,45.1370883,-75.614369,,5388,Jake Street,detached,"5388 Jake street, Ottawa, ON","5388 Jake street, Ottawa, ON",1
+22174,way,469765493,45.1447505,-75.6096588,,5515,Osgoode Main Street,detached,"5515 Osgoode main street, Ottawa, ON","5515 Osgoode main street, Ottawa, ON",1
+22186,way,469765507,45.1417387,-75.6097193,,5490,MacTavish Place,detached,"5490 Mactavish place, Ottawa, ON","5490 Mactavish place, Ottawa, ON",1
+22190,way,469765511,45.1450168,-75.6139722,,5427,Taylor Way,detached,"5427 Taylor way, Ottawa, ON","5427 Taylor way, Ottawa, ON",1
+22508,way,469772888,45.1374735,-75.723044,,6491,Fourth Line Road,detached,"6491 Fourth line road, Ottawa, ON","6491 Fourth line road, Ottawa, ON",1
+22509,way,469772890,45.1389684,-75.7236335,,2315,Edward Kidd Crescent,detached,"2315 Edward kidd crescent, Ottawa, ON","2315 Edward kidd crescent, Ottawa, ON",1
+22528,way,469772912,45.1361043,-75.7258416,,6488,Doctor Blair Crescent,detached,"6488 Doctor blair crescent, Ottawa, ON","6488 Doctor blair crescent, Ottawa, ON",1
+22534,way,469772921,45.1388081,-75.7218127,,2303,Edward Kidd Crescent,detached,"2303 Edward kidd crescent, Ottawa, ON","2303 Edward kidd crescent, Ottawa, ON",1
+22635,way,469777455,45.1513393,-75.6009009,,5692,Lombardy Drive,detached,"5692 Lombardy drive, Ottawa, ON","5692 Lombardy drive, Ottawa, ON",1
+22644,way,469777466,45.1526311,-75.5962361,,5772,Bridget Street,detached,"5772 Bridget street, Ottawa, ON","5772 Bridget street, Ottawa, ON",1
+22977,way,469789056,45.1652148,-75.6794986,,6337,Second Line Road South,detached,"6337 Second line road south, Ottawa, ON","6337 Second line road south, Ottawa, ON",1
+24424,way,469941414,45.347335,-75.9926704,,1,Weldale Drive,detached,"1 Weldale drive, Ottawa, ON","1 Weldale drive, Ottawa, ON",1
+24439,way,469941429,45.346707,-75.996549,,104,Topol Lane,detached,"104 Topol lane, Ottawa, ON","104 Topol lane, Ottawa, ON",1
+24449,way,469941439,45.345262,-76.0028452,,108,Margaret Anne Drive,detached,"108 Margaret anne drive, Ottawa, ON","108 Margaret anne drive, Ottawa, ON",1
+24460,way,469941450,45.3464725,-76.0028533,,111,Margaret Anne Drive,detached,"111 Margaret anne drive, Ottawa, ON","111 Margaret anne drive, Ottawa, ON",1
+24466,way,469941456,45.3458325,-76.0013721,,112,Margaret Anne Drive,detached,"112 Margaret anne drive, Ottawa, ON","112 Margaret anne drive, Ottawa, ON",1
+24474,way,469941464,45.3465812,-76.000126,,116,Margaret Anne Drive,detached,"116 Margaret anne drive, Ottawa, ON","116 Margaret anne drive, Ottawa, ON",1
+24480,way,469941470,45.3475093,-76.000278,,119,Margaret Anne Drive,detached,"119 Margaret anne drive, Ottawa, ON","119 Margaret anne drive, Ottawa, ON",1
+24495,way,469941485,45.3421922,-75.993373,,127,Cherryhill Drive,detached,"127 Cherryhill drive, Ottawa, ON","127 Cherryhill drive, Ottawa, ON",1
+24529,way,469941519,45.3466813,-75.9888332,,1408,Sherruby Way,detached,"1408 Sherruby way, Ottawa, ON","1408 Sherruby way, Ottawa, ON",1
+24559,way,469941557,45.340346,-75.9830065,,1756,Old Carp Road,detached,"1756 Old carp road, Ottawa, ON","1756 Old carp road, Ottawa, ON",1
+24574,way,469941575,45.3412551,-75.9987666,,1965,Old Carp Road,detached,"1965 Old carp road, Ottawa, ON","1965 Old carp road, Ottawa, ON",1
+24577,way,469941578,45.3397658,-76.0007878,,1975,Old Carp Road,detached,"1975 Old carp road, Ottawa, ON","1975 Old carp road, Ottawa, ON",1
+24578,way,469941579,45.3391706,-76.001484,,1976,Old Carp Road,detached,"1976 Old carp road, Ottawa, ON","1976 Old carp road, Ottawa, ON",1
+24612,way,469944020,45.3569261,-75.9924042,,108,Beach Heights,detached,"108 Beach heights, Ottawa, ON","108 Beach heights, Ottawa, ON",1
+25253,way,469953246,45.1658682,-75.9443784,,10,Coolbrook Crescent,detached,"10 Coolbrook crescent, Ottawa, ON","10 Coolbrook crescent, Ottawa, ON",1
+25274,way,469953267,45.162432,-75.937624,,15,Whisperwood Street,detached,"15 Whisperwood street, Ottawa, ON","15 Whisperwood street, Ottawa, ON",1
+25279,way,469953272,45.1663375,-75.9421034,,17,Owlshead Road,detached,"17 Owlshead road, Ottawa, ON","17 Owlshead road, Ottawa, ON",1
+25288,way,469953281,45.1620563,-75.9389351,,19,Tarywood Court,detached,"19 Tarywood court, Ottawa, ON","19 Tarywood court, Ottawa, ON",1
+25308,way,469953346,45.1602056,-75.9392068,,26,Dogwood Drive,detached,"26 Dogwood drive, Ottawa, ON","26 Dogwood drive, Ottawa, ON",1
+25314,way,469953362,45.1603613,-75.9394089,,28,Dogwood Drive,detached,"28 Dogwood drive, Ottawa, ON","28 Dogwood drive, Ottawa, ON",1
+25321,way,469953369,45.1646293,-75.9415693,,3,Bayberry Lane,detached,"3 Bayberry lane, Ottawa, ON","3 Bayberry lane, Ottawa, ON",1
+25324,way,469953372,45.1616925,-75.9392446,,3,Tarywood Court,detached,"3 Tarywood court, Ottawa, ON","3 Tarywood court, Ottawa, ON",1
+25343,way,469953394,45.161601,-75.939799,,37,Dogwood Drive,detached,"37 Dogwood drive, Ottawa, ON","37 Dogwood drive, Ottawa, ON",1
+25353,way,469953404,45.1615471,-75.9406193,,42,Dogwood Drive,detached,"42 Dogwood drive, Ottawa, ON","42 Dogwood drive, Ottawa, ON",1
+25355,way,469953406,45.162218,-75.9388,,43,Dogwood Drive,detached,"43 Dogwood drive, Ottawa, ON","43 Dogwood drive, Ottawa, ON",1
+25357,way,469953408,45.1648599,-75.9431616,,44,Owlshead Road,detached,"44 Owlshead road, Ottawa, ON","44 Owlshead road, Ottawa, ON",1
+25366,way,469953417,45.1611466,-75.937749,,5,Barnwood Court,detached,"5 Barnwood court, Ottawa, ON","5 Barnwood court, Ottawa, ON",1
+25380,way,469953431,45.1654072,-75.9444205,,56,Owlshead Road,detached,"56 Owlshead road, Ottawa, ON","56 Owlshead road, Ottawa, ON",1
+25411,way,469953463,45.1637879,-75.9425869,,7809,Bleeks Road,detached,"7809 Bleeks road, Ottawa, ON","7809 Bleeks road, Ottawa, ON",1
+25417,way,469953469,45.1580179,-75.9457034,,7930,Bleeks Road,detached,"7930 Bleeks road, Ottawa, ON","7930 Bleeks road, Ottawa, ON",1
+25421,way,469953473,45.1660709,-75.9444547,,8,Coolbrook Crescent,detached,"8 Coolbrook crescent, Ottawa, ON","8 Coolbrook crescent, Ottawa, ON",1
+25854,way,469966514,45.3720257,-75.9636093,,1345,March Road,detached,"1345 March road, Ottawa, ON","1345 March road, Ottawa, ON",1
+33138,way,470282981,45.4957588,-75.466386,,1208,Old Montreal Road,detached,"1208 Old montreal road, Ottawa, ON","1208 Old montreal road, Ottawa, ON",1
+35121,way,470408928,45.2676617,-75.8024016,,2760,Moodie Drive,detached,"2760 Moodie drive, Ottawa, ON","2760 Moodie drive, Ottawa, ON",1
+40924,way,470678345,45.4526428,-75.459719,,56,Luminescence Way,detached,"56 Luminescence way, Ottawa, ON","56 Luminescence way, Ottawa, ON",1
+40928,way,470678352,45.4527,-75.4594852,,52,Luminescence Way,detached,"52 Luminescence way, Ottawa, ON","52 Luminescence way, Ottawa, ON",1
+40934,way,470678364,45.4525097,-75.4587478,,148,Soleil Avenue,detached,"148 Soleil avenue, Ottawa, ON","148 Soleil avenue, Ottawa, ON",1
+40951,way,470678392,45.458661,-75.4565261,,1814,Mickelberry Crescent,detached,"1814 Mickelberry crescent, Ottawa, ON","1814 Mickelberry crescent, Ottawa, ON",1
+40960,way,470678407,45.4591713,-75.4561928,,1807,Mickelberry Crescent,detached,"1807 Mickelberry crescent, Ottawa, ON","1807 Mickelberry crescent, Ottawa, ON",1
+41013,way,470678544,45.4575875,-75.4564281,,2171,Provence Avenue,detached,"2171 Provence avenue, Ottawa, ON","2171 Provence avenue, Ottawa, ON",1
+41065,way,470678644,45.457086,-75.4650222,,2187,Sojourn Street,detached,"2187 Sojourn street, Ottawa, ON","2187 Sojourn street, Ottawa, ON",1
+41114,way,470678732,45.4580313,-75.4622748,,912,Bérot Lane,detached,"912 Bérot lane, Ottawa, ON","912 Bérot lane, Ottawa, ON",1
+41118,way,470678744,45.4579432,-75.4646412,,2167,Sojourn Street,detached,"2167 Sojourn street, Ottawa, ON","2167 Sojourn street, Ottawa, ON",1
+41129,way,470678774,45.4592196,-75.464341,,2128,Nantes Street,detached,"2128 Nantes street, Ottawa, ON","2128 Nantes street, Ottawa, ON",1
+41130,way,470678777,45.4574368,-75.4618802,,2177,Descartes Street,detached,"2177 Descartes street, Ottawa, ON","2177 Descartes street, Ottawa, ON",1
+41141,way,470678813,45.4591414,-75.4633708,,2149,Brianna Way,detached,"2149 Brianna way, Ottawa, ON","2149 Brianna way, Ottawa, ON",1
+41144,way,470678823,45.4585123,-75.462552,,2157,Descartes Street,detached,"2157 Descartes street, Ottawa, ON","2157 Descartes street, Ottawa, ON",1
+41154,way,470678853,45.4583018,-75.4644499,,2159,Sojourn Street,detached,"2159 Sojourn street, Ottawa, ON","2159 Sojourn street, Ottawa, ON",1
+41178,way,470678901,45.45701,-75.4639481,,2185,Brianna Way,detached,"2185 Brianna way, Ottawa, ON","2185 Brianna way, Ottawa, ON",1
+41185,way,470678912,45.4587039,-75.4621546,,2160,Nantes Street,detached,"2160 Nantes street, Ottawa, ON","2160 Nantes street, Ottawa, ON",1
+41186,way,470678914,45.4590754,-75.462836,,2150,Nantes Street,detached,"2150 Nantes street, Ottawa, ON","2150 Nantes street, Ottawa, ON",1
+41203,way,470678941,45.4588839,-75.4644342,,2146,Sojourn Street,detached,"2146 Sojourn street, Ottawa, ON","2146 Sojourn street, Ottawa, ON",1
+41217,way,470678965,45.4578573,-75.4626485,,907,Balzac Lane,detached,"907 Balzac lane, Ottawa, ON","907 Balzac lane, Ottawa, ON",1
+41268,way,470679054,45.4587252,-75.4590905,,1005,Clubmoss Avenue,detached,"1005 Clubmoss avenue, Ottawa, ON","1005 Clubmoss avenue, Ottawa, ON",1
+41287,way,470679085,45.457217,-75.4577576,,1455,Comfrey Crescent,detached,"1455 Comfrey crescent, Ottawa, ON","1455 Comfrey crescent, Ottawa, ON",1
+41294,way,470679097,45.4574276,-75.4578681,,1451,Comfrey Crescent,detached,"1451 Comfrey crescent, Ottawa, ON","1451 Comfrey crescent, Ottawa, ON",1
+41315,way,470679133,45.4572232,-75.4600639,,1508,Comfrey Crescent,detached,"1508 Comfrey crescent, Ottawa, ON","1508 Comfrey crescent, Ottawa, ON",1
+41328,way,470679155,45.4581169,-75.4594035,,1012,Clubmoss Avenue,detached,"1012 Clubmoss avenue, Ottawa, ON","1012 Clubmoss avenue, Ottawa, ON",1
+41542,way,470704871,45.4505806,-75.4779279,,268,Monaco Place,detached,"268 Monaco place, Ottawa, ON","268 Monaco place, Ottawa, ON",1
+41584,way,470704914,45.451733,-75.486308,,149,Montargis Circle,detached,"149 Montargis circle, Ottawa, ON","149 Montargis circle, Ottawa, ON",1
+41605,way,470704939,45.4500909,-75.4795617,,244,Monaco Place,detached,"244 Monaco place, Ottawa, ON","244 Monaco place, Ottawa, ON",1
+41693,way,470705032,45.4515441,-75.4775667,,501,Lakeridge Drive,detached,"501 Lakeridge drive, Ottawa, ON","501 Lakeridge drive, Ottawa, ON",1
+41763,way,470705112,45.4491269,-75.4793244,,63,Branthaven Street,detached,"63 Branthaven street, Ottawa, ON","63 Branthaven street, Ottawa, ON",1
+41800,way,470705151,45.4492398,-75.4779181,,320,Branthaven Street,detached,"320 Branthaven street, Ottawa, ON","320 Branthaven street, Ottawa, ON",1
+41896,way,470747561,45.4493305,-75.4926464,,275,Chinian Street,detached,"275 Chinian street, Ottawa, ON","275 Chinian street, Ottawa, ON",1
+42183,way,470835588,45.2686671,-75.6971259,,650,Earl Armstrong Road,detached,"650 Earl armstrong road, Ottawa, ON","650 Earl armstrong road, Ottawa, ON",1
+46195,way,471116821,45.4562593,-75.4731677,,15,Dumoulin Way,detached,"15 Dumoulin way, Ottawa, ON","15 Dumoulin way, Ottawa, ON",1
+46218,way,471116844,45.4553028,-75.4724742,,710,Larcastle Circle,detached,"710 Larcastle circle, Ottawa, ON","710 Larcastle circle, Ottawa, ON",1
+46221,way,471116847,45.4563411,-75.4715962,,55,Bluebell Street,detached,"55 Bluebell street, Ottawa, ON","55 Bluebell street, Ottawa, ON",1
+46241,way,471116872,45.4563978,-75.4738101,,734,Larcastle Circle,detached,"734 Larcastle circle, Ottawa, ON","734 Larcastle circle, Ottawa, ON",1
+46251,way,471116882,45.4557256,-75.4724205,,705,Larcastle Circle,detached,"705 Larcastle circle, Ottawa, ON","705 Larcastle circle, Ottawa, ON",1
+46253,way,471116884,45.4550267,-75.4724455,,809,Galleria Circle,detached,"809 Galleria circle, Ottawa, ON","809 Galleria circle, Ottawa, ON",1
+46292,way,471116937,45.4556211,-75.4737327,,2209,Esprit Drive,detached,"2209 Esprit drive, Ottawa, ON","2209 Esprit drive, Ottawa, ON",1
+46302,way,471116947,45.4547832,-75.4732435,,799,Galleria Circle,detached,"799 Galleria circle, Ottawa, ON","799 Galleria circle, Ottawa, ON",1
+46312,way,471116957,45.454977,-75.4726049,,807,Galleria Circle,detached,"807 Galleria circle, Ottawa, ON","807 Galleria circle, Ottawa, ON",1
+46317,way,471116962,45.4543039,-75.471066,,851,Galleria Circle,detached,"851 Galleria circle, Ottawa, ON","851 Galleria circle, Ottawa, ON",1
+46322,way,471116967,45.4573475,-75.4721077,,760,Larcastle Circle,detached,"760 Larcastle circle, Ottawa, ON","760 Larcastle circle, Ottawa, ON",1
+46323,way,471116968,45.4542288,-75.4729398,,2233,Esprit Drive,detached,"2233 Esprit drive, Ottawa, ON","2233 Esprit drive, Ottawa, ON",1
+46366,way,471117014,45.4564562,-75.4696136,,2056,Boisfranc Circle,detached,"2056 Boisfranc circle, Ottawa, ON","2056 Boisfranc circle, Ottawa, ON",1
+46370,way,471117018,45.4563868,-75.4664856,,2036,Cherington Crescent,detached,"2036 Cherington crescent, Ottawa, ON","2036 Cherington crescent, Ottawa, ON",1
+46395,way,471117044,45.4568502,-75.4669275,,2028,Cherington Crescent,detached,"2028 Cherington crescent, Ottawa, ON","2028 Cherington crescent, Ottawa, ON",1
+46422,way,471117071,45.4564921,-75.4685024,,2068,Boisfranc Circle,detached,"2068 Boisfranc circle, Ottawa, ON","2068 Boisfranc circle, Ottawa, ON",1
+46441,way,471117091,45.4580987,-75.4706725,,661,Aquaview Drive,detached,"661 Aquaview drive, Ottawa, ON","661 Aquaview drive, Ottawa, ON",1
+46467,way,471117117,45.4587672,-75.4691186,,2204,Clermont Crescent,detached,"2204 Clermont crescent, Ottawa, ON","2204 Clermont crescent, Ottawa, ON",1
+46527,way,471117183,45.458508,-75.4692426,,675,Aquaview Drive,detached,"675 Aquaview drive, Ottawa, ON","675 Aquaview drive, Ottawa, ON",1
+46560,way,471117217,45.4600197,-75.4718792,,2154,Valenceville Crescent,detached,"2154 Valenceville crescent, Ottawa, ON","2154 Valenceville crescent, Ottawa, ON",1
+46563,way,471117220,45.4599113,-75.4746692,,2183,Melanson Crescent,detached,"2183 Melanson crescent, Ottawa, ON","2183 Melanson crescent, Ottawa, ON",1
+46565,way,471117222,45.4599579,-75.4720296,,2152,Valenceville Crescent,detached,"2152 Valenceville crescent, Ottawa, ON","2152 Valenceville crescent, Ottawa, ON",1
+54939,way,471308553,45.2766415,-75.7325735,,194,Deerfox Drive,detached,"194 Deerfox drive, Ottawa, ON","194 Deerfox drive, Ottawa, ON",1
+61068,way,471622954,45.2765753,-75.9507701,,2090,Carp Road,detached,"2090 Carp road, Ottawa, ON","2090 Carp road, Ottawa, ON",1
+61169,way,471641932,45.2938495,-75.7950043,,38,Lytle Avenue,detached,"38 Lytle avenue, Ottawa, ON","38 Lytle avenue, Ottawa, ON",1
+66469,way,471837535,45.3575599,-75.9301443,,1045,Klondike Road,detached,"1045 Klondike road, Ottawa, ON","1045 Klondike road, Ottawa, ON",1
+66514,way,471837580,45.3542438,-75.9346554,,1135,Klondike Road,detached,"1135 Klondike road, Ottawa, ON","1135 Klondike road, Ottawa, ON",1
+72072,way,471994010,45.2477358,-75.5648437,,6940,Mary Anne Drive,detached,"6940 Mary anne drive, Ottawa, ON","6940 Mary anne drive, Ottawa, ON",1
+72076,way,471994015,45.2459526,-75.5677878,,6911,Mary Anne Drive,detached,"6911 Mary anne drive, Ottawa, ON","6911 Mary anne drive, Ottawa, ON",1
+72199,way,471994178,45.2469411,-75.5665562,,6924,Mary Anne Drive,detached,"6924 Mary anne drive, Ottawa, ON","6924 Mary anne drive, Ottawa, ON",1
+72337,way,471994398,45.2458548,-75.5692077,,6900,Mary Anne Drive,detached,"6900 Mary anne drive, Ottawa, ON","6900 Mary anne drive, Ottawa, ON",1
+79821,way,472231008,45.3351161,-75.6990871,,2161,Prince Of Wales Drive,detached,"2161 Prince of wales drive, Ottawa, ON","2161 Prince of wales drive, Ottawa, ON",1
+79886,way,472231121,45.3303496,-75.6982955,,4120 F,Riverside Drive,detached,"4120 F Riverside drive, Ottawa, ON","4120 F Riverside drive, Ottawa, ON",1
+104965,way,472844072,45.3501972,-75.7129704,,381,Viewmount Drive,detached,"381 Viewmount drive, Ottawa, ON","381 Viewmount drive, Ottawa, ON",1
+105003,way,472844112,45.3506588,-75.7095511,,24,Homestead Street,detached,"24 Homestead street, Ottawa, ON","24 Homestead street, Ottawa, ON",1
+105054,way,472844166,45.349628,-75.7119325,,55,Coolspring Crescent,detached,"55 Coolspring crescent, Ottawa, ON","55 Coolspring crescent, Ottawa, ON",1
+105088,way,472844204,45.3379158,-75.6997127,,2121,Prince Of Wales Drive,detached,"2121 Prince of wales drive, Ottawa, ON","2121 Prince of wales drive, Ottawa, ON",1
+105101,way,472844225,45.3458491,-75.6989753,,2009,Prince Of Wales Drive,detached,"2009 Prince of wales drive, Ottawa, ON","2009 Prince of wales drive, Ottawa, ON",1
+105112,way,472844256,45.3519513,-75.7053237,,21,Valley Ridge Street,detached,"21 Valley ridge street, Ottawa, ON","21 Valley ridge street, Ottawa, ON",1
+105140,way,472844320,45.3507171,-75.7106743,,8,Homestead Street,detached,"8 Homestead street, Ottawa, ON","8 Homestead street, Ottawa, ON",1
+105175,way,472844358,45.3518717,-75.7056116,,19,Valley Ridge Street,detached,"19 Valley ridge street, Ottawa, ON","19 Valley ridge street, Ottawa, ON",1
+105180,way,472844363,45.3494152,-75.7124099,,47,Coolspring Crescent,detached,"47 Coolspring crescent, Ottawa, ON","47 Coolspring crescent, Ottawa, ON",1
+105184,way,472844367,45.3477707,-75.7144156,,28,Coolspring Crescent,detached,"28 Coolspring crescent, Ottawa, ON","28 Coolspring crescent, Ottawa, ON",1
+105194,way,472844378,45.3500155,-75.7135865,,373,Viewmount Drive,detached,"373 Viewmount drive, Ottawa, ON","373 Viewmount drive, Ottawa, ON",1
+105203,way,472844388,45.3383478,-75.6997811,,6,Wellsmere Court,detached,"6 Wellsmere court, Ottawa, ON","6 Wellsmere court, Ottawa, ON",1
+105218,way,472844405,45.3498225,-75.7109591,,98,Coolspring Crescent,detached,"98 Coolspring crescent, Ottawa, ON","98 Coolspring crescent, Ottawa, ON",1
+105325,way,472844542,45.3504031,-75.7029718,,22,Rideau Shore Court,detached,"22 Rideau shore court, Ottawa, ON","22 Rideau shore court, Ottawa, ON",1
+105328,way,472844545,45.3416705,-75.7006929,,4,Rideau Heights Lane,detached,"4 Rideau heights lane, Ottawa, ON","4 Rideau heights lane, Ottawa, ON",1
+105346,way,472844565,45.3412355,-75.6996278,,2061,Prince Of Wales Drive,detached,"2061 Prince of wales drive, Ottawa, ON","2061 Prince of wales drive, Ottawa, ON",1
+105349,way,472844568,45.3498611,-75.7147734,,357,Viewmount Drive,detached,"357 Viewmount drive, Ottawa, ON","357 Viewmount drive, Ottawa, ON",1
+105358,way,472844578,45.3495669,-75.7133552,,372,Viewmount Drive,detached,"372 Viewmount drive, Ottawa, ON","372 Viewmount drive, Ottawa, ON",1
+105360,way,472844580,45.3427553,-75.6991795,,2,Stephanie Avenue,detached,"2 Stephanie avenue, Ottawa, ON","2 Stephanie avenue, Ottawa, ON",1
+105369,way,472844589,45.3515039,-75.7097845,,416,Viewmount Drive,detached,"416 Viewmount drive, Ottawa, ON","416 Viewmount drive, Ottawa, ON",1
+105414,way,472844637,45.3495076,-75.7112791,,90,Coolspring Crescent,detached,"90 Coolspring crescent, Ottawa, ON","90 Coolspring crescent, Ottawa, ON",1
+105439,way,472844665,45.3515793,-75.717651,,104,Four Seasons Drive,detached,"104 Four seasons drive, Ottawa, ON","104 Four seasons drive, Ottawa, ON",1
+105445,way,472844671,45.3503516,-75.7117314,,73,Coolspring Crescent,detached,"73 Coolspring crescent, Ottawa, ON","73 Coolspring crescent, Ottawa, ON",1
+105447,way,472844673,45.352045,-75.7087023,,4,Old Country Gate,detached,"4 Old country gate, Ottawa, ON","4 Old country gate, Ottawa, ON",1
+114089,way,473209305,45.350557,-75.7213125,,10,Assiniboine Drive,detached,"10 Assiniboine drive, Ottawa, ON","10 Assiniboine drive, Ottawa, ON",1
+114105,way,473209336,45.3496736,-75.7259371,,25,Keewatin Crescent,detached,"25 Keewatin crescent, Ottawa, ON","25 Keewatin crescent, Ottawa, ON",1
+114111,way,473209349,45.346061,-75.7226052,,47,Biscayne Crescent,detached,"47 Biscayne crescent, Ottawa, ON","47 Biscayne crescent, Ottawa, ON",1
+114133,way,473209394,45.3496748,-75.7222312,,22,Assiniboine Drive,detached,"22 Assiniboine drive, Ottawa, ON","22 Assiniboine drive, Ottawa, ON",1
+114163,way,473209460,45.3494732,-75.721121,,46,Saginaw Crescent,detached,"46 Saginaw crescent, Ottawa, ON","46 Saginaw crescent, Ottawa, ON",1
+114167,way,473209469,45.3488864,-75.7261819,,28,Keewatin Crescent,detached,"28 Keewatin crescent, Ottawa, ON","28 Keewatin crescent, Ottawa, ON",1
+114222,way,473209590,45.3468965,-75.7259271,,22,McMurdo Court,detached,"22 Mcmurdo court, Ottawa, ON","22 Mcmurdo court, Ottawa, ON",1
+114239,way,473209630,45.3465534,-75.7229815,,41,Biscayne Crescent,detached,"41 Biscayne crescent, Ottawa, ON","41 Biscayne crescent, Ottawa, ON",1
+114283,way,473209732,45.3512654,-75.7183232,,114,Four Seasons Drive,detached,"114 Four seasons drive, Ottawa, ON","114 Four seasons drive, Ottawa, ON",1
+114288,way,473209745,45.3489487,-75.7195305,,53,Saginaw Crescent,detached,"53 Saginaw crescent, Ottawa, ON","53 Saginaw crescent, Ottawa, ON",1
+114296,way,473209764,45.3518021,-75.7183307,,123,Four Seasons Drive,detached,"123 Four seasons drive, Ottawa, ON","123 Four seasons drive, Ottawa, ON",1
+114322,way,473209825,45.3503021,-75.7208315,,56,Saginaw Crescent,detached,"56 Saginaw crescent, Ottawa, ON","56 Saginaw crescent, Ottawa, ON",1
+114351,way,473209885,45.3480717,-75.7264051,,23,Overlake Drive,detached,"23 Overlake drive, Ottawa, ON","23 Overlake drive, Ottawa, ON",1
+114352,way,473209887,45.3454046,-75.7207144,,235,Viewmount Drive,detached,"235 Viewmount drive, Ottawa, ON","235 Viewmount drive, Ottawa, ON",1
+114370,way,473209927,45.3464891,-75.7217555,,10,Biscayne Crescent,detached,"10 Biscayne crescent, Ottawa, ON","10 Biscayne crescent, Ottawa, ON",1
+114389,way,473209969,45.3490803,-75.7196975,,51,Saginaw Crescent,detached,"51 Saginaw crescent, Ottawa, ON","51 Saginaw crescent, Ottawa, ON",1
+114392,way,473209979,45.3472119,-75.7264971,,5,Gimli Court,detached,"5 Gimli court, Ottawa, ON","5 Gimli court, Ottawa, ON",1
+114404,way,473210003,45.3459266,-75.7241575,,3,McMurdo Court,detached,"3 Mcmurdo court, Ottawa, ON","3 Mcmurdo court, Ottawa, ON",1
+114426,way,473210043,45.3468331,-75.7220248,,14,Biscayne Crescent,detached,"14 Biscayne crescent, Ottawa, ON","14 Biscayne crescent, Ottawa, ON",1
+114440,way,473210073,45.3496975,-75.7267135,,31,Keewatin Crescent,detached,"31 Keewatin crescent, Ottawa, ON","31 Keewatin crescent, Ottawa, ON",1
+114480,way,473210161,45.3491627,-75.725904,,16,Keewatin Crescent,detached,"16 Keewatin crescent, Ottawa, ON","16 Keewatin crescent, Ottawa, ON",1
+114496,way,473210196,45.3489255,-75.7277926,,9,Overlake Drive,detached,"9 Overlake drive, Ottawa, ON","9 Overlake drive, Ottawa, ON",1
+134459,way,475293308,45.3694837,-75.7637677,,2050,Lenester Avenue,detached,"2050 Lenester avenue, Ottawa, ON","2050 Lenester avenue, Ottawa, ON",1
+136551,way,478631257,45.4391926,-75.6718214,,52,St-Charles Street,detached,"52 St-charles street, Ottawa, ON","52 St-charles street, Ottawa, ON",1
+148957,way,479876068,45.3850045,-75.731865,,849,Merivale Road,detached,"849 Merivale road, Ottawa, ON","849 Merivale road, Ottawa, ON",1
+152081,way,481215456,45.368039,-75.7439695,,1118,Clyde Avenue,detached,"1118 Clyde avenue, Ottawa, ON","1118 Clyde avenue, Ottawa, ON",1
+152723,way,481266770,45.4108753,-75.6961821,,454,Gladstone Avenue,detached,"454 Gladstone avenue, Ottawa, ON","454 Gladstone avenue, Ottawa, ON",1
+153229,way,481367029,45.4175458,-75.6846207,,67,MacDonald Street,detached,"67 Macdonald street, Ottawa, ON","67 Macdonald street, Ottawa, ON",1
+154221,way,481444154,45.3617125,-75.789096,,810,Alpine Avenue,detached,"810 Alpine avenue, Ottawa, ON","810 Alpine avenue, Ottawa, ON",1
+154322,way,481444289,45.3615002,-75.7860825,,2576,Sackville Street,detached,"2576 Sackville street, Ottawa, ON","2576 Sackville street, Ottawa, ON",1
+158761,way,482458881,45.3564152,-75.6390594,,1450,Hunt Club Road,detached,"1450 Hunt club road, Ottawa, ON","1450 Hunt club road, Ottawa, ON",1
+164386,way,483026847,45.3714472,-75.6826395,,29,Confederation Private,detached,"29 Confederation private, Ottawa, ON","29 Confederation private, Ottawa, ON",1
+164399,way,483026861,45.3712582,-75.6829722,,32,Confederation Private,detached,"32 Confederation private, Ottawa, ON","32 Confederation private, Ottawa, ON",1
+165650,way,483047884,45.3754171,-75.6749485,,2473,Carlsen Avenue,detached,"2473 Carlsen avenue, Ottawa, ON","2473 Carlsen avenue, Ottawa, ON",1
+165664,way,483047898,45.3753715,-75.6739278,,2473,Chasseur Avenue,detached,"2473 Chasseur avenue, Ottawa, ON","2473 Chasseur avenue, Ottawa, ON",1
+173200,way,483659906,45.363888,-75.6430943,,131,Firewood Private,detached,"131 Firewood private, Ottawa, ON","131 Firewood private, Ottawa, ON",1
+176045,way,483739350,45.4331518,-75.6397832,,630,Gardenvale Road,detached,"630 Gardenvale road, Ottawa, ON","630 Gardenvale road, Ottawa, ON",1
+176071,way,483739416,45.4334476,-75.6401099,,629,Gardenvale Road,detached,"629 Gardenvale road, Ottawa, ON","629 Gardenvale road, Ottawa, ON",1
+177652,way,483996688,45.4480039,-75.6297618,,565,Foxview Place,detached,"565 Foxview place, Ottawa, ON","565 Foxview place, Ottawa, ON",1
+185896,way,484711745,45.4842123,-75.5133185,,872,Lawnsberry Drive,detached,"872 Lawnsberry drive, Ottawa, ON","872 Lawnsberry drive, Ottawa, ON",1
+187830,way,484750044,45.4845634,-75.525775,,1075,Château Crescent,detached,"1075 Château crescent, Ottawa, ON","1075 Château crescent, Ottawa, ON",1

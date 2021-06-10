@@ -1,0 +1,79 @@
+row,osm_obj_type,id,latitude,longitude,unit,street_no,street_name,osm_tag,full_address,request_address,attached_buildings
+1900,way,102759653,45.4277026,-75.624097,,1431,Perez Crescent,row_house,"1431 Perez crescent, Ottawa, ON","1431 Perez crescent, Ottawa, ON",5
+2119,way,150679850,45.3987516,-75.7519297,,3,Briarway Private,row_house,"3 Briarway private, Ottawa, ON","3 Briarway private, Ottawa, ON",6
+2122,way,150682840,45.3987567,-75.7497027,,132,Lanark Avenue,row_house,"132 Lanark avenue, Ottawa, ON","132 Lanark avenue, Ottawa, ON",3
+2240,way,155015394,45.3840857,-75.7680322,,687,Richmond Road,row_house,"687 Richmond road, Ottawa, ON","687 Richmond road, Ottawa, ON",7
+2818,way,172282325,45.4380225,-75.653838,2,380,Montréal Road,row_house,"2-380 Montréal road, Ottawa, ON","380 Montréal road, Ottawa, ON",18
+4926,way,244243419,45.4265542,-75.633349,,1455,Murdock Gate,row_house,"1455 Murdock gate, Ottawa, ON","1455 Murdock gate, Ottawa, ON",8
+5515,way,254830151,45.3830557,-75.7353261,,1303,Coldrey Avenue,row_house,"1303 Coldrey avenue, Ottawa, ON","1303 Coldrey avenue, Ottawa, ON",8
+5615,way,255301166,45.428917,-75.6789126,,254,Stewart Street,row_house,"254 Stewart street, Ottawa, ON","254 Stewart street, Ottawa, ON",5
+8013,way,307250564,45.4240856,-75.6498054,,1104 B,Naughton Street,row_house,"1104 B Naughton street, Ottawa, ON","1104 B Naughton street, Ottawa, ON",6
+10811,way,369025124,45.3794551,-75.7297145,,1001,Silver Street,row_house,"1001 Silver street, Ottawa, ON","1001 Silver street, Ottawa, ON",10
+13372,way,388177630,45.4317201,-75.6872333,,267,Clarence Street,row_house,"267 Clarence street, Ottawa, ON","267 Clarence street, Ottawa, ON",4
+13385,way,388355515,45.4324728,-75.6858597,,320,Murray Street,row_house,"320 Murray street, Ottawa, ON","320 Murray street, Ottawa, ON",5
+13907,way,389995763,45.3977464,-75.754952,,287,Lanark Avenue,row_house,"287 Lanark avenue, Ottawa, ON","287 Lanark avenue, Ottawa, ON",4
+17809,way,447587629,45.3933918,-75.6075548,38,2669,Southvale Crescent,row_house,"38-2669 Southvale crescent, Ottawa, ON","2669 Southvale crescent, Ottawa, ON",6
+18266,way,448151048,45.3807762,-75.6399002,,1761,Heron Road,row_house,"1761 Heron road, Ottawa, ON","1761 Heron road, Ottawa, ON",6
+18272,way,448151054,45.3809966,-75.6398284,,1773,Heron Road,row_house,"1773 Heron road, Ottawa, ON","1773 Heron road, Ottawa, ON",6
+18277,way,448151059,45.381271,-75.639181,,1787,Heron Road,row_house,"1787 Heron road, Ottawa, ON","1787 Heron road, Ottawa, ON",6
+18286,way,448151068,45.3808272,-75.639191,,1805,Heron Road,row_house,"1805 Heron road, Ottawa, ON","1805 Heron road, Ottawa, ON",6
+18610,way,456965014,45.4295091,-75.6955069,,150,St. Patrick Street,row_house,"150 St. patrick street, Ottawa, ON","150 St. patrick street, Ottawa, ON",4
+18794,way,458597340,45.4325635,-75.6939852,,179,Dalhousie Street,row_house,"179 Dalhousie street, Ottawa, ON","179 Dalhousie street, Ottawa, ON",4
+18814,way,458599283,45.4337248,-75.690766,,231,St. Andrew Street,row_house,"231 St. andrew street, Ottawa, ON","231 St. andrew street, Ottawa, ON",4
+18907,way,458857476,45.4320166,-75.6946609,,105,St. Andrew Street,row_house,"105 St. andrew street, Ottawa, ON","105 St. andrew street, Ottawa, ON",4
+18946,way,459067269,45.4312402,-75.6963923,,47,St. Andrew Street,row_house,"47 St. andrew street, Ottawa, ON","47 St. andrew street, Ottawa, ON",4
+19146,way,459468534,45.432966,-75.6934856,,150,Bruyère Street,row_house,"150 Bruyère street, Ottawa, ON","150 Bruyère street, Ottawa, ON",3
+19199,way,459472202,45.4332528,-75.6846897,,85,Beausoleil Drive,row_house,"85 Beausoleil drive, Ottawa, ON","85 Beausoleil drive, Ottawa, ON",8
+19555,way,460116739,45.4352036,-75.6890879,,287,Bruyère Street,row_house,"287 Bruyère street, Ottawa, ON","287 Bruyère street, Ottawa, ON",29
+19835,way,460429266,45.4459148,-75.6437225,,459,Brittany Drive,row_house,"459 Brittany drive, Ottawa, ON","459 Brittany drive, Ottawa, ON",20
+19875,way,460434724,45.4438146,-75.6436673,,1079,Kristin Way,row_house,"1079 Kristin way, Ottawa, ON","1079 Kristin way, Ottawa, ON",18
+19891,way,460434740,45.4439,-75.6434619,,1083,Kristin Way,row_house,"1083 Kristin way, Ottawa, ON","1083 Kristin way, Ottawa, ON",20
+82128,way,472240549,45.4800875,-75.4836835,,1601,Marinoff Way,row_house,"1601 Marinoff way, Ottawa, ON","1601 Marinoff way, Ottawa, ON",4
+84145,way,472251913,45.3280738,-75.7952704,,51,Grady Crescent,row_house,"51 Grady crescent, Ottawa, ON","51 Grady crescent, Ottawa, ON",6
+86278,way,472261297,45.4759198,-75.4972849,,1458,Hodge Crescent,row_house,"1458 Hodge crescent, Ottawa, ON","1458 Hodge crescent, Ottawa, ON",4
+105215,way,472844402,45.3471617,-75.7159102,,8 F,Europa Private,row_house,"8 F Europa private, Ottawa, ON","8 F Europa private, Ottawa, ON",6
+105296,way,472844512,45.3479422,-75.7146483,,14 G,Europa Private,row_house,"14 G Europa private, Ottawa, ON","14 G Europa private, Ottawa, ON",7
+108476,way,473083675,45.3486054,-75.6764541,59,3400,Paul Anka Drive,row_house,"59-3400 Paul anka drive, Ottawa, ON","3400 Paul anka drive, Ottawa, ON",6
+108513,way,473083736,45.3504385,-75.6787547,32,3205,Uplands Drive,row_house,"32-3205 Uplands drive, Ottawa, ON","3205 Uplands drive, Ottawa, ON",8
+109057,way,473084514,45.343117,-75.6887481,,125,Chambord Private,row_house,"125 Chambord private, Ottawa, ON","125 Chambord private, Ottawa, ON",4
+114434,way,473210059,45.3515137,-75.7263169,,70 E,Chesterton Drive,row_house,"70 E Chesterton drive, Ottawa, ON","70 E Chesterton drive, Ottawa, ON",6
+114490,way,473210184,45.3517075,-75.7276501,,52 C,Chesterton Drive,row_house,"52 C Chesterton drive, Ottawa, ON","52 C Chesterton drive, Ottawa, ON",4
+114926,way,473220452,45.4443887,-75.6037072,,914 D,Elmsmere Road,row_house,"914 D Elmsmere road, Ottawa, ON","914 D Elmsmere road, Ottawa, ON",4
+132327,way,474903799,45.3780422,-75.7316278,,1319,Emperor Avenue,row_house,"1319 Emperor avenue, Ottawa, ON","1319 Emperor avenue, Ottawa, ON",4
+132328,way,474903800,45.3782559,-75.7310637,,1307,Emperor Avenue,row_house,"1307 Emperor avenue, Ottawa, ON","1307 Emperor avenue, Ottawa, ON",4
+132336,way,474903808,45.3787555,-75.7289812,,1266,Emperor Avenue,row_house,"1266 Emperor avenue, Ottawa, ON","1266 Emperor avenue, Ottawa, ON",4
+149115,way,479919533,45.361936,-75.7143613,,1139 A,Meadowlands Drive East,row_house,"1139 A Meadowlands drive east, Ottawa, ON","1139 A Meadowlands drive east, Ottawa, ON",6
+149189,way,479919625,45.3650193,-75.7081963,,335,Kintyre Private,row_house,"335 Kintyre private, Ottawa, ON","335 Kintyre private, Ottawa, ON",4
+149330,way,479919778,45.3643615,-75.7118567,,462,Kintyre Private,row_house,"462 Kintyre private, Ottawa, ON","462 Kintyre private, Ottawa, ON",4
+149414,way,479919885,45.3655572,-75.7085009,,375,Kintyre Private,row_house,"375 Kintyre private, Ottawa, ON","375 Kintyre private, Ottawa, ON",4
+149445,way,479919921,45.3642549,-75.7086989,,306,Kintyre Private,row_house,"306 Kintyre private, Ottawa, ON","306 Kintyre private, Ottawa, ON",4
+151207,way,480311045,45.4257534,-75.6341832,,4279,Weldon Drive,row_house,"4279 Weldon drive, Ottawa, ON","4279 Weldon drive, Ottawa, ON",6
+151213,way,480313481,45.4276406,-75.6343433,,1296,Belgate Way,row_house,"1296 Belgate way, Ottawa, ON","1296 Belgate way, Ottawa, ON",6
+153282,way,481367093,45.4161286,-75.6771555,59,110,Havelock Street,row_house,"59-110 Havelock street, Ottawa, ON","110 Havelock street, Ottawa, ON",4
+156316,way,481889858,45.3552722,-75.7041869,,34,Appleby Private,row_house,"34 Appleby private, Ottawa, ON","34 Appleby private, Ottawa, ON",5
+156366,way,481889911,45.3545928,-75.7057496,,77,Appleby Private,row_house,"77 Appleby private, Ottawa, ON","77 Appleby private, Ottawa, ON",10
+156378,way,481889923,45.3540876,-75.7061916,,94,Appleby Private,row_house,"94 Appleby private, Ottawa, ON","94 Appleby private, Ottawa, ON",8
+157287,way,482449796,45.3695176,-75.6163252,,57,Ted Grant Private,row_house,"57 Ted grant private, Ottawa, ON","57 Ted grant private, Ottawa, ON",7
+161932,way,482831332,45.3392236,-75.6312354,,3665,Aladdin Lane,row_house,"3665 Aladdin lane, Ottawa, ON","3665 Aladdin lane, Ottawa, ON",4
+162202,way,482831620,45.3421674,-75.6360347,,100,Maass Gate,row_house,"100 Maass gate, Ottawa, ON","100 Maass gate, Ottawa, ON",5
+166907,way,483089847,45.3462443,-75.6469307,,2664,Southdown Court,row_house,"2664 Southdown court, Ottawa, ON","2664 Southdown court, Ottawa, ON",3
+167005,way,483090024,45.3512952,-75.6498084,,2650,Pimlico Crescent,row_house,"2650 Pimlico crescent, Ottawa, ON","2650 Pimlico crescent, Ottawa, ON",5
+167026,way,483090052,45.3519166,-75.6493902,,2659,Pimlico Crescent,row_house,"2659 Pimlico crescent, Ottawa, ON","2659 Pimlico crescent, Ottawa, ON",9
+167060,way,483090130,45.350248,-75.6495852,,2797,Pimlico Crescent,row_house,"2797 Pimlico crescent, Ottawa, ON","2797 Pimlico crescent, Ottawa, ON",7
+168440,way,483215150,45.3583872,-75.643823,,483,Marlin Private,row_house,"483 Marlin private, Ottawa, ON","483 Marlin private, Ottawa, ON",7
+168527,way,483215251,45.3587344,-75.6408249,,79,Cutts Private,row_house,"79 Cutts private, Ottawa, ON","79 Cutts private, Ottawa, ON",5
+168536,way,483215260,45.3586162,-75.6475424,,1228,Pebble Road,row_house,"1228 Pebble road, Ottawa, ON","1228 Pebble road, Ottawa, ON",6
+168548,way,483215274,45.3576608,-75.6442815,,441,Marlin Private,row_house,"441 Marlin private, Ottawa, ON","441 Marlin private, Ottawa, ON",8
+169660,way,483275072,45.3927824,-75.6096535,,2493 D,Walkley Road,row_house,"2493 D Walkley road, Ottawa, ON","2493 D Walkley road, Ottawa, ON",5
+169707,way,483275149,45.3938528,-75.6102085,,2306 B,Russell Road,row_house,"2306 B Russell road, Ottawa, ON","2306 B Russell road, Ottawa, ON",4
+171728,way,483442433,45.4265271,-75.6122652,,1304,Marigold Crescent,row_house,"1304 Marigold crescent, Ottawa, ON","1304 Marigold crescent, Ottawa, ON",7
+171833,way,483442552,45.4254395,-75.6111791,,1366,Cedarcroft Crescent,row_house,"1366 Cedarcroft crescent, Ottawa, ON","1366 Cedarcroft crescent, Ottawa, ON",6
+172040,way,483446953,45.4197366,-75.610765,,1728,Ambrose Drive,row_house,"1728 Ambrose drive, Ottawa, ON","1728 Ambrose drive, Ottawa, ON",7
+172073,way,483447004,45.4188639,-75.6090941,,1780,Dondale Street,row_house,"1780 Dondale street, Ottawa, ON","1780 Dondale street, Ottawa, ON",7
+172632,way,483459707,45.4450221,-75.6082779,,1118,Chimney Hill Way,row_house,"1118 Chimney hill way, Ottawa, ON","1118 Chimney hill way, Ottawa, ON",4
+174387,way,483702768,45.3760195,-75.6508322,,1491,Walkley Road,row_house,"1491 Walkley road, Ottawa, ON","1491 Walkley road, Ottawa, ON",8
+176073,way,483739418,45.4353562,-75.6379027,,830,Borthwick Avenue,row_house,"830 Borthwick avenue, Ottawa, ON","830 Borthwick avenue, Ottawa, ON",12
+176114,way,483739464,45.4297696,-75.6323691,,1035 H,Cummings Avenue,row_house,"1035 H Cummings avenue, Ottawa, ON","1035 H Cummings avenue, Ottawa, ON",12
+177450,way,483945532,45.3893731,-75.6256396,,2170,Halifax Drive,row_house,"2170 Halifax drive, Ottawa, ON","2170 Halifax drive, Ottawa, ON",3
+178178,way,484079328,45.4260325,-75.6332956,,1466,Murdock Gate,row_house,"1466 Murdock gate, Ottawa, ON","1466 Murdock gate, Ottawa, ON",6
+189601,way,507861118,45.3725953,-75.7339535,,149,Fordham Private,row_house,"149 Fordham private, Ottawa, ON","149 Fordham private, Ottawa, ON",8

@@ -1,0 +1,454 @@
+row,osm_obj_type,id,latitude,longitude,unit,street_no,street_name,osm_tag,full_address,request_address,attached_buildings
+2123,way,150682841,45.3983934,-75.749505,,120,Lanark Avenue,row_house,"120 Lanark avenue, Ottawa, ON","120 Lanark avenue, Ottawa, ON",4
+2945,way,190782104,45.3889427,-75.6246608,,2196 F,Halifax Drive,row_house,"2196 F Halifax drive, Ottawa, ON","2196 F Halifax drive, Ottawa, ON",6
+3846,way,233422874,45.3655618,-75.7400568,,42,Coleridge Street,row_house,"42 Coleridge street, Ottawa, ON","42 Coleridge street, Ottawa, ON",3
+4943,way,244441492,45.4163634,-75.7071322,,455,Slater Street,row_house,"455 Slater street, Ottawa, ON","455 Slater street, Ottawa, ON",6
+5246,way,249272571,45.3949307,-75.6810983,,234,Sunnyside Avenue,row_house,"234 Sunnyside avenue, Ottawa, ON","234 Sunnyside avenue, Ottawa, ON",3
+8022,way,307251228,45.4237837,-75.651694,,1107 B,Lola Street,row_house,"1107 B Lola street, Ottawa, ON","1107 B Lola street, Ottawa, ON",10
+8472,way,310371045,45.4046956,-75.7073804,,427,Arlington Avenue,row_house,"427 Arlington avenue, Ottawa, ON","427 Arlington avenue, Ottawa, ON",6
+9459,way,319809960,45.4313261,-75.6861925,,253,York Street,row_house,"253 York street, Ottawa, ON","253 York street, Ottawa, ON",5
+13363,way,388177508,45.4324085,-75.6867191,,286,Murray Street,row_house,"286 Murray street, Ottawa, ON","286 Murray street, Ottawa, ON",3
+13387,way,388355517,45.4322925,-75.6857052,,312,Murray Street,row_house,"312 Murray street, Ottawa, ON","312 Murray street, Ottawa, ON",5
+15212,way,433207086,45.4281517,-75.6190982,,4301,Halmont Drive,row_house,"4301 Halmont drive, Ottawa, ON","4301 Halmont drive, Ottawa, ON",6
+18276,way,448151058,45.3812145,-75.639899,,1781,Heron Road,row_house,"1781 Heron road, Ottawa, ON","1781 Heron road, Ottawa, ON",6
+18284,way,448151066,45.3808145,-75.6393477,,1801,Heron Road,row_house,"1801 Heron road, Ottawa, ON","1801 Heron road, Ottawa, ON",6
+18673,way,458179917,45.4323783,-75.6930262,,150,St. Andrew Street,row_house,"150 St. andrew street, Ottawa, ON","150 St. andrew street, Ottawa, ON",3
+18684,way,458180499,45.4318321,-75.6923314,,160,Guigues Avenue,row_house,"160 Guigues avenue, Ottawa, ON","160 Guigues avenue, Ottawa, ON",4
+18794,way,458597340,45.4325635,-75.6939852,,179,Dalhousie Street,row_house,"179 Dalhousie street, Ottawa, ON","179 Dalhousie street, Ottawa, ON",4
+18815,way,458599324,45.4337362,-75.6907091,,233,St. Andrew Street,row_house,"233 St. andrew street, Ottawa, ON","233 St. andrew street, Ottawa, ON",4
+18966,way,459068862,45.4320172,-75.6956935,,80,Bruyère Street,row_house,"80 Bruyère street, Ottawa, ON","80 Bruyère street, Ottawa, ON",3
+19059,way,459248638,45.4353845,-75.6929446,,235,Bolton Street,row_house,"235 Bolton street, Ottawa, ON","235 Bolton street, Ottawa, ON",3
+19136,way,459468403,45.4355692,-75.6931424,,129,Cumberland Street,row_house,"129 Cumberland street, Ottawa, ON","129 Cumberland street, Ottawa, ON",8
+19177,way,459471176,45.4265879,-75.684477,,94,Stewart Street,row_house,"94 Stewart street, Ottawa, ON","94 Stewart street, Ottawa, ON",5
+19570,way,460205064,45.4179771,-75.6678821,3,13,Robinson Avenue,row_house,"3-13 Robinson avenue, Ottawa, ON","13 Robinson avenue, Ottawa, ON",6
+19643,way,460236988,45.4021083,-75.7043982,,327,Lebreton Street South,row_house,"327 Lebreton street south, Ottawa, ON","327 Lebreton street south, Ottawa, ON",5
+20031,way,460841749,45.4119522,-75.6988123,,107,James Street,row_house,"107 James street, Ottawa, ON","107 James street, Ottawa, ON",6
+82570,way,472241001,45.47915,-75.4829694,,1641,Marinoff Way,row_house,"1641 Marinoff way, Ottawa, ON","1641 Marinoff way, Ottawa, ON",4
+99797,way,472429208,45.4758332,-75.4995045,,1448,Deavy Way,row_house,"1448 Deavy way, Ottawa, ON","1448 Deavy way, Ottawa, ON",5
+105165,way,472844348,45.3479438,-75.7160438,,8 B,Tropicana Private,row_house,"8 B Tropicana private, Ottawa, ON","8 B Tropicana private, Ottawa, ON",6
+105330,way,472844547,45.3476419,-75.7149822,,12 G,Europa Private,row_house,"12 G Europa private, Ottawa, ON","12 G Europa private, Ottawa, ON",7
+106308,way,473049514,45.3481016,-75.6296849,,1596,Fortier Street,row_house,"1596 Fortier street, Ottawa, ON","1596 Fortier street, Ottawa, ON",4
+113893,way,473203073,45.4187437,-75.6066254,,1635,Fine Crescent,row_house,"1635 Fine crescent, Ottawa, ON","1635 Fine crescent, Ottawa, ON",5
+114490,way,473210184,45.3517075,-75.7276501,,52 C,Chesterton Drive,row_house,"52 C Chesterton drive, Ottawa, ON","52 C Chesterton drive, Ottawa, ON",4
+114792,way,473220282,45.4448256,-75.607199,,45 J,Sumac Street,row_house,"45 J Sumac street, Ottawa, ON","45 J Sumac street, Ottawa, ON",9
+114910,way,473220435,45.4446979,-75.6068302,,46 A,Sumac Street,row_house,"46 A Sumac street, Ottawa, ON","46 A Sumac street, Ottawa, ON",8
+130823,way,474837508,45.3740791,-75.7569814,,848,Maitland Avenue,row_house,"848 Maitland avenue, Ottawa, ON","848 Maitland avenue, Ottawa, ON",3
+138925,way,478859584,45.3977817,-75.6893876,,92,Ralph Street,row_house,"92 Ralph street, Ottawa, ON","92 Ralph street, Ottawa, ON",3
+141000,way,479047836,45.4224947,-75.6577098,6,208,Presland Road,row_house,"6-208 Presland road, Ottawa, ON","208 Presland road, Ottawa, ON",8
+143366,way,479515327,45.3788478,-75.7254277,,1195,Summerville Avenue,row_house,"1195 Summerville avenue, Ottawa, ON","1195 Summerville avenue, Ottawa, ON",4
+143369,way,479515330,45.3786259,-75.7273635,,1234,Dorchester Avenue,row_house,"1234 Dorchester avenue, Ottawa, ON","1234 Dorchester avenue, Ottawa, ON",3
+148207,way,479809041,45.3674999,-75.7044322,29,923,Meadowlands Drive,row_house,"29-923 Meadowlands drive, Ottawa, ON","923 Meadowlands drive, Ottawa, ON",6
+148218,way,479809053,45.3676479,-75.7061819,99,955,Debra Avenue,row_house,"99-955 Debra avenue, Ottawa, ON","955 Debra avenue, Ottawa, ON",8
+149364,way,479919816,45.3642943,-75.7102311,,655,Trelawny Private,row_house,"655 Trelawny private, Ottawa, ON","655 Trelawny private, Ottawa, ON",6
+149445,way,479919921,45.3642549,-75.7086989,,306,Kintyre Private,row_house,"306 Kintyre private, Ottawa, ON","306 Kintyre private, Ottawa, ON",4
+151209,way,480311485,45.4265095,-75.6344755,,4310,Weldon Drive,row_house,"4310 Weldon drive, Ottawa, ON","4310 Weldon drive, Ottawa, ON",8
+151217,way,480316853,45.4296485,-75.6330869,,1031 F,Cummings Avenue,row_house,"1031 F Cummings avenue, Ottawa, ON","1031 F Cummings avenue, Ottawa, ON",8
+156376,way,481889921,45.3541989,-75.7059251,,86,Appleby Private,row_house,"86 Appleby private, Ottawa, ON","86 Appleby private, Ottawa, ON",8
+157220,way,482449721,45.3691331,-75.6168374,,31,Horsdal Private,row_house,"31 Horsdal private, Ottawa, ON","31 Horsdal private, Ottawa, ON",6
+157419,way,482449992,45.3690509,-75.6146168,,1480,Blohm Drive,row_house,"1480 Blohm drive, Ottawa, ON","1480 Blohm drive, Ottawa, ON",4
+158222,way,482454716,45.3736759,-75.6203417,,1069,Ewing Street,row_house,"1069 Ewing street, Ottawa, ON","1069 Ewing street, Ottawa, ON",4
+158302,way,482454827,45.3700675,-75.6219313,,95,Wallack Private,row_house,"95 Wallack private, Ottawa, ON","95 Wallack private, Ottawa, ON",8
+160561,way,482662406,45.3420711,-75.6709726,,306,Wisteria Crescent,row_house,"306 Wisteria crescent, Ottawa, ON","306 Wisteria crescent, Ottawa, ON",3
+162493,way,482836830,45.3510226,-75.6402414,,1436,Forge Street,row_house,"1436 Forge street, Ottawa, ON","1436 Forge street, Ottawa, ON",4
+162568,way,482836917,45.351141,-75.6398799,,1437,Forge Street,row_house,"1437 Forge street, Ottawa, ON","1437 Forge street, Ottawa, ON",4
+166791,way,483089726,45.3469495,-75.6500835,,2556,Fox Hollow Crescent,row_house,"2556 Fox hollow crescent, Ottawa, ON","2556 Fox hollow crescent, Ottawa, ON",7
+166954,way,483089918,45.3471879,-75.645435,,2754,Hambledon Court,row_house,"2754 Hambledon court, Ottawa, ON","2754 Hambledon court, Ottawa, ON",6
+166973,way,483089963,45.3473739,-75.6449417,,2770,Hambledon Court,row_house,"2770 Hambledon court, Ottawa, ON","2770 Hambledon court, Ottawa, ON",7
+168539,way,483215263,45.3591562,-75.6478329,,1252,Pebble Road,row_house,"1252 Pebble road, Ottawa, ON","1252 Pebble road, Ottawa, ON",10
+168565,way,483215292,45.3589157,-75.6421617,,53,Patola Private,row_house,"53 Patola private, Ottawa, ON","53 Patola private, Ottawa, ON",7
+168617,way,483215345,45.3595286,-75.6423258,,23,Patola Private,row_house,"23 Patola private, Ottawa, ON","23 Patola private, Ottawa, ON",8
+168661,way,483215390,45.3588492,-75.6441238,,501,Marlin Private,row_house,"501 Marlin private, Ottawa, ON","501 Marlin private, Ottawa, ON",9
+171373,way,483310712,45.4447516,-75.6016139,,901 A,Elmsmere Road,row_house,"901 A Elmsmere road, Ottawa, ON","901 A Elmsmere road, Ottawa, ON",3
+171610,way,483435345,45.3992788,-75.6179898,,2423,Southvale Crescent,row_house,"2423 Southvale crescent, Ottawa, ON","2423 Southvale crescent, Ottawa, ON",8
+171813,way,483442528,45.4242737,-75.6112137,,1517,Meadowbrook Road,row_house,"1517 Meadowbrook road, Ottawa, ON","1517 Meadowbrook road, Ottawa, ON",6
+171837,way,483442556,45.4263442,-75.6116553,,1326,Cedarcroft Crescent,row_house,"1326 Cedarcroft crescent, Ottawa, ON","1326 Cedarcroft crescent, Ottawa, ON",6
+172020,way,483446912,45.4194524,-75.6102451,,1336,Foxwell Street,row_house,"1336 Foxwell street, Ottawa, ON","1336 Foxwell street, Ottawa, ON",7
+172044,way,483446963,45.4205066,-75.6101793,,1472,Foxwell Street,row_house,"1472 Foxwell street, Ottawa, ON","1472 Foxwell street, Ottawa, ON",6
+172073,way,483447004,45.4188639,-75.6090941,,1780,Dondale Street,row_house,"1780 Dondale street, Ottawa, ON","1780 Dondale street, Ottawa, ON",7
+172105,way,483447042,45.4195677,-75.6118593,,1388,Foxwell Street,row_house,"1388 Foxwell street, Ottawa, ON","1388 Foxwell street, Ottawa, ON",6
+173354,way,483660166,45.3599779,-75.6422223,,2,Cutts Private,row_house,"2 Cutts private, Ottawa, ON","2 Cutts private, Ottawa, ON",6
+173601,way,483664703,45.3644908,-75.6385643,,153,Somero Private,row_house,"153 Somero private, Ottawa, ON","153 Somero private, Ottawa, ON",4
+173771,way,483664961,45.3631095,-75.6387528,,534,Wingale Private,row_house,"534 Wingale private, Ottawa, ON","534 Wingale private, Ottawa, ON",7
+174056,way,483702376,45.3804082,-75.6454856,2,1661,Heron Road,row_house,"2-1661 Heron road, Ottawa, ON","1661 Heron road, Ottawa, ON",6
+174387,way,483702768,45.3760195,-75.6508322,,1491,Walkley Road,row_house,"1491 Walkley road, Ottawa, ON","1491 Walkley road, Ottawa, ON",8
+175420,way,483720170,45.443629,-75.6243284,,4,Lafayette Private,row_house,"4 Lafayette private, Ottawa, ON","4 Lafayette private, Ottawa, ON",8
+176249,way,483739631,45.4300331,-75.6372383,,4335,Stella Crescent,row_house,"4335 Stella crescent, Ottawa, ON","4335 Stella crescent, Ottawa, ON",6
+176349,way,483739924,45.43022,-75.6375674,,4348,Stella Crescent,row_house,"4348 Stella crescent, Ottawa, ON","4348 Stella crescent, Ottawa, ON",6
+176353,way,483739938,45.4296197,-75.6366839,,4303,Stella Crescent,row_house,"4303 Stella crescent, Ottawa, ON","4303 Stella crescent, Ottawa, ON",7
+178128,way,484079228,45.4275082,-75.6340874,,1318,Belgate Way,row_house,"1318 Belgate way, Ottawa, ON","1318 Belgate way, Ottawa, ON",8
+178142,way,484079257,45.4291242,-75.6363192,,1216,Bowmount Street,row_house,"1216 Bowmount street, Ottawa, ON","1216 Bowmount street, Ottawa, ON",6
+184461,way,484551678,45.4710275,-75.5279945,,1311,Dusserre Street,row_house,"1311 Dusserre street, Ottawa, ON","1311 Dusserre street, Ottawa, ON",3
+189590,way,507861107,45.372324,-75.734576,,125,Fordham Private,row_house,"125 Fordham private, Ottawa, ON","125 Fordham private, Ottawa, ON",8
+193427,way,545951941,45.3477117,-75.649106,,2510,Fox Hollow Crescent,row_house,"2510 Fox hollow crescent, Ottawa, ON","2510 Fox hollow crescent, Ottawa, ON",6
+193445,way,545956035,45.346654,-75.6487571,,2598,Fox Hollow Crescent,row_house,"2598 Fox hollow crescent, Ottawa, ON","2598 Fox hollow crescent, Ottawa, ON",6
+193469,way,545956075,45.3471142,-75.6493602,,2573,Fox Hollow Crescent,row_house,"2573 Fox hollow crescent, Ottawa, ON","2573 Fox hollow crescent, Ottawa, ON",7
+193475,way,545956081,45.347329,-75.6488812,,2499,Fox Hollow Crescent,row_house,"2499 Fox hollow crescent, Ottawa, ON","2499 Fox hollow crescent, Ottawa, ON",5
+193478,way,545956084,45.3473332,-75.6485895,,2491,Fox Hollow Crescent,row_house,"2491 Fox hollow crescent, Ottawa, ON","2491 Fox hollow crescent, Ottawa, ON",5
+193481,way,545956087,45.3474408,-75.6497516,,2530,Fox Hollow Crescent,row_house,"2530 Fox hollow crescent, Ottawa, ON","2530 Fox hollow crescent, Ottawa, ON",6
+193503,way,546222310,45.34638,-75.6477695,,2640,Southdown Court,row_house,"2640 Southdown court, Ottawa, ON","2640 Southdown court, Ottawa, ON",7
+193514,way,546222323,45.3477724,-75.6452554,,2765,Hambledon Court,row_house,"2765 Hambledon court, Ottawa, ON","2765 Hambledon court, Ottawa, ON",5
+193528,way,546222343,45.3480807,-75.6453776,,2749,Hambledon Court,row_house,"2749 Hambledon court, Ottawa, ON","2749 Hambledon court, Ottawa, ON",4
+193533,way,546222350,45.347824,-75.6459838,,2739,Farriers Lane,row_house,"2739 Farriers lane, Ottawa, ON","2739 Farriers lane, Ottawa, ON",5
+193595,way,546225931,45.346363,-75.646564,,2682,Southdown Court,row_house,"2682 Southdown court, Ottawa, ON","2682 Southdown court, Ottawa, ON",7
+198652,way,547147442,45.3507097,-75.6511266,,2576,Alanis Private,row_house,"2576 Alanis private, Ottawa, ON","2576 Alanis private, Ottawa, ON",5
+198666,way,547147457,45.3498438,-75.6506262,,2599,Crosscut Terrace,row_house,"2599 Crosscut terrace, Ottawa, ON","2599 Crosscut terrace, Ottawa, ON",7
+202298,way,547544622,45.4015936,-75.6273148,,1906,Russell Road,row_house,"1906 Russell road, Ottawa, ON","1906 Russell road, Ottawa, ON",8
+204475,way,548034088,45.3826672,-75.7500502,,673,Melbourne Avenue,row_house,"673 Melbourne avenue, Ottawa, ON","673 Melbourne avenue, Ottawa, ON",3
+204754,way,548047001,45.3891563,-75.7480817,,517,Athlone Avenue,row_house,"517 Athlone avenue, Ottawa, ON","517 Athlone avenue, Ottawa, ON",4
+205484,way,548798274,45.3422683,-75.6704979,,298,Wisteria Crescent,row_house,"298 Wisteria crescent, Ottawa, ON","298 Wisteria crescent, Ottawa, ON",3
+205831,way,548802146,45.3395473,-75.633893,,108,Maple Key Private,row_house,"108 Maple key private, Ottawa, ON","108 Maple key private, Ottawa, ON",3
+206118,way,549080398,45.4000569,-75.752226,,201,Clearview Avenue,row_house,"201 Clearview avenue, Ottawa, ON","201 Clearview avenue, Ottawa, ON",5
+207808,way,554579770,45.4266738,-75.611858,,1316,Cedarcroft Crescent,row_house,"1316 Cedarcroft crescent, Ottawa, ON","1316 Cedarcroft crescent, Ottawa, ON",5
+207887,way,554579854,45.4242866,-75.6111437,,1519,Meadowbrook Road,row_house,"1519 Meadowbrook road, Ottawa, ON","1519 Meadowbrook road, Ottawa, ON",6
+211897,way,558120035,45.3055206,-75.9387338,,146,Westover Crescent,row_house,"146 Westover crescent, Ottawa, ON","146 Westover crescent, Ottawa, ON",6
+212833,way,558677500,45.4778723,-75.5262014,,6820,Du Bois Avenue,row_house,"6820 Du bois avenue, Ottawa, ON","6820 Du bois avenue, Ottawa, ON",5
+212854,way,558677521,45.4784555,-75.5240607,,6871,Du Bois Avenue,row_house,"6871 Du bois avenue, Ottawa, ON","6871 Du bois avenue, Ottawa, ON",7
+212864,way,558677531,45.4787659,-75.5233474,,1134,Bouleaux Place,row_house,"1134 Bouleaux place, Ottawa, ON","1134 Bouleaux place, Ottawa, ON",5
+216534,way,562101148,45.4010363,-75.7151846,,86,Young Street,row_house,"86 Young street, Ottawa, ON","86 Young street, Ottawa, ON",7
+217113,way,562754296,45.388863,-75.625151,,2190 F,Halifax Drive,row_house,"2190 F Halifax drive, Ottawa, ON","2190 F Halifax drive, Ottawa, ON",12
+217541,way,563080363,45.3046367,-75.9339251,,196,Calvington Avenue,row_house,"196 Calvington avenue, Ottawa, ON","196 Calvington avenue, Ottawa, ON",3
+217565,way,563080430,45.3043268,-75.9353626,,163,Calvington Avenue,row_house,"163 Calvington avenue, Ottawa, ON","163 Calvington avenue, Ottawa, ON",3
+217589,way,563080493,45.3050722,-75.9359086,,130,Sweetwater Lane,row_house,"130 Sweetwater lane, Ottawa, ON","130 Sweetwater lane, Ottawa, ON",12
+217634,way,563080582,45.305437,-75.9366937,,556,Paine Avenue,row_house,"556 Paine avenue, Ottawa, ON","556 Paine avenue, Ottawa, ON",5
+217648,way,563080596,45.305293,-75.9368375,,550,Paine Avenue,row_house,"550 Paine avenue, Ottawa, ON","550 Paine avenue, Ottawa, ON",5
+217671,way,563080641,45.3036308,-75.9371632,,79,Fallengale Crescent,row_house,"79 Fallengale crescent, Ottawa, ON","79 Fallengale crescent, Ottawa, ON",5
+217676,way,563080647,45.3034706,-75.9374321,,71,Fallengale Crescent,row_house,"71 Fallengale crescent, Ottawa, ON","71 Fallengale crescent, Ottawa, ON",5
+217679,way,563080650,45.3033086,-75.9377167,,63,Fallengale Crescent,row_house,"63 Fallengale crescent, Ottawa, ON","63 Fallengale crescent, Ottawa, ON",5
+217713,way,563080684,45.3044788,-75.9382152,,524,Paine Avenue,row_house,"524 Paine avenue, Ottawa, ON","524 Paine avenue, Ottawa, ON",6
+217720,way,563080691,45.3039065,-75.938564,,43,Fallengale Crescent,row_house,"43 Fallengale crescent, Ottawa, ON","43 Fallengale crescent, Ottawa, ON",5
+217723,way,563080694,45.3041682,-75.9381028,,29,Fallengale Crescent,row_house,"29 Fallengale crescent, Ottawa, ON","29 Fallengale crescent, Ottawa, ON",6
+219123,way,564125310,45.2721233,-75.86489,,313,Tulum Crescent,row_house,"313 Tulum crescent, Ottawa, ON","313 Tulum crescent, Ottawa, ON",5
+219129,way,564125323,45.2722862,-75.8646147,,305,Tulum Crescent,row_house,"305 Tulum crescent, Ottawa, ON","305 Tulum crescent, Ottawa, ON",6
+219143,way,564125356,45.2729535,-75.8652869,,109,Overberg Way,row_house,"109 Overberg way, Ottawa, ON","109 Overberg way, Ottawa, ON",6
+219177,way,564125407,45.274715,-75.8677282,,197,Overberg Way,row_house,"197 Overberg way, Ottawa, ON","197 Overberg way, Ottawa, ON",6
+219179,way,564125412,45.2744011,-75.8682234,,213,Overberg Way,row_house,"213 Overberg way, Ottawa, ON","213 Overberg way, Ottawa, ON",6
+219770,way,564788590,45.2746127,-75.7821052,,289,Fergus Crescent,row_house,"289 Fergus crescent, Ottawa, ON","289 Fergus crescent, Ottawa, ON",5
+220012,way,564878535,45.2701304,-75.7798454,,109,Popplewell Crescent,row_house,"109 Popplewell crescent, Ottawa, ON","109 Popplewell crescent, Ottawa, ON",5
+220014,way,564878537,45.2707825,-75.7802482,,967,Cobble Hill Drive,row_house,"967 Cobble hill drive, Ottawa, ON","967 Cobble hill drive, Ottawa, ON",5
+220136,way,564878686,45.2731115,-75.7819564,,1048,Cobble Hill Drive,row_house,"1048 Cobble hill drive, Ottawa, ON","1048 Cobble hill drive, Ottawa, ON",6
+220171,way,564878722,45.2720736,-75.7833874,,146,Hawkshaw Crescent,row_house,"146 Hawkshaw crescent, Ottawa, ON","146 Hawkshaw crescent, Ottawa, ON",6
+220178,way,564878729,45.2726424,-75.7828385,,168,Hawkshaw Crescent,row_house,"168 Hawkshaw crescent, Ottawa, ON","168 Hawkshaw crescent, Ottawa, ON",4
+220185,way,564878736,45.2719754,-75.783462,,142,Hawkshaw Crescent,row_house,"142 Hawkshaw crescent, Ottawa, ON","142 Hawkshaw crescent, Ottawa, ON",6
+220310,way,565117258,45.3737763,-75.7820428,,1103,Ambleside Drive,row_house,"1103 Ambleside drive, Ottawa, ON","1103 Ambleside drive, Ottawa, ON",18
+220322,way,565117303,45.3739924,-75.7817163,,1093,Ambleside Drive,row_house,"1093 Ambleside drive, Ottawa, ON","1093 Ambleside drive, Ottawa, ON",18
+220450,way,565474535,45.3991244,-75.750403,,174,Lanark Avenue,row_house,"174 Lanark avenue, Ottawa, ON","174 Lanark avenue, Ottawa, ON",5
+220688,way,565632132,45.2880052,-75.7324278,,340,Sweetflag Street,row_house,"340 Sweetflag street, Ottawa, ON","340 Sweetflag street, Ottawa, ON",4
+221088,way,566758659,45.3829367,-75.7355918,,1311,Coldrey Avenue,row_house,"1311 Coldrey avenue, Ottawa, ON","1311 Coldrey avenue, Ottawa, ON",8
+221111,way,566792882,45.4314133,-75.5606924,,2080,Orient Park Drive,row_house,"2080 Orient park drive, Ottawa, ON","2080 Orient park drive, Ottawa, ON",6
+221146,way,566792924,45.4311191,-75.5599907,,2152,Orient Park Drive,row_house,"2152 Orient park drive, Ottawa, ON","2152 Orient park drive, Ottawa, ON",8
+221162,way,566792940,45.4305028,-75.5606129,,2127,Orient Park Drive,row_house,"2127 Orient park drive, Ottawa, ON","2127 Orient park drive, Ottawa, ON",13
+221206,way,566792985,45.4319366,-75.5587705,,2271,Orient Park Drive,row_house,"2271 Orient park drive, Ottawa, ON","2271 Orient park drive, Ottawa, ON",4
+221218,way,566792997,45.4329293,-75.5562346,,2331,Orient Park Drive,row_house,"2331 Orient park drive, Ottawa, ON","2331 Orient park drive, Ottawa, ON",6
+221225,way,566793015,45.4325532,-75.5563595,,1995,Falkirk Crescent,row_house,"1995 Falkirk crescent, Ottawa, ON","1995 Falkirk crescent, Ottawa, ON",4
+221233,way,566793036,45.4327417,-75.5558715,,2027,Falkirk Crescent,row_house,"2027 Falkirk crescent, Ottawa, ON","2027 Falkirk crescent, Ottawa, ON",4
+221245,way,566793060,45.4321553,-75.5564821,,1986,Falkirk Crescent,row_house,"1986 Falkirk crescent, Ottawa, ON","1986 Falkirk crescent, Ottawa, ON",5
+221256,way,566793083,45.4327589,-75.5553844,,2022,Falkirk Crescent,row_house,"2022 Falkirk crescent, Ottawa, ON","2022 Falkirk crescent, Ottawa, ON",5
+221267,way,566793094,45.4319945,-75.5568533,,1976,Falkirk Crescent,row_house,"1976 Falkirk crescent, Ottawa, ON","1976 Falkirk crescent, Ottawa, ON",4
+221271,way,566793098,45.4324384,-75.5557741,,2004,Falkirk Crescent,row_house,"2004 Falkirk crescent, Ottawa, ON","2004 Falkirk crescent, Ottawa, ON",6
+221293,way,566793123,45.4360263,-75.5452062,,2521,Cléroux Crescent,row_house,"2521 Cléroux crescent, Ottawa, ON","2521 Cléroux crescent, Ottawa, ON",3
+221315,way,566854021,45.421234,-75.6009303,,1855,Stonehenge Crescent,row_house,"1855 Stonehenge crescent, Ottawa, ON","1855 Stonehenge crescent, Ottawa, ON",13
+221354,way,566854060,45.421009,-75.599044,,1987,Stonehenge Crescent,row_house,"1987 Stonehenge crescent, Ottawa, ON","1987 Stonehenge crescent, Ottawa, ON",13
+221364,way,566854071,45.4207788,-75.5982734,,2109,Stonehenge Crescent,row_house,"2109 Stonehenge crescent, Ottawa, ON","2109 Stonehenge crescent, Ottawa, ON",23
+222477,way,567532434,45.3432248,-75.6884791,,131,Chambord Private,row_house,"131 Chambord private, Ottawa, ON","131 Chambord private, Ottawa, ON",4
+222478,way,567532435,45.3432944,-75.6884307,,133,Chambord Private,row_house,"133 Chambord private, Ottawa, ON","133 Chambord private, Ottawa, ON",4
+222490,way,567532447,45.3433839,-75.6896047,,93,Cardiff Private,row_house,"93 Cardiff private, Ottawa, ON","93 Cardiff private, Ottawa, ON",6
+222492,way,567532449,45.3433251,-75.6897621,,97,Cardiff Private,row_house,"97 Cardiff private, Ottawa, ON","97 Cardiff private, Ottawa, ON",6
+222529,way,567532509,45.342814,-75.6899423,,16,Buckingham Private,row_house,"16 Buckingham private, Ottawa, ON","16 Buckingham private, Ottawa, ON",6
+222536,way,567532516,45.3428641,-75.6893271,,111,Cheltenham Private,row_house,"111 Cheltenham private, Ottawa, ON","111 Cheltenham private, Ottawa, ON",4
+222553,way,567539330,45.3542091,-75.6664235,,188,Owl Drive,row_house,"188 Owl drive, Ottawa, ON","188 Owl drive, Ottawa, ON",9
+222605,way,567539383,45.3546356,-75.6675511,,154,Owl Drive,row_house,"154 Owl drive, Ottawa, ON","154 Owl drive, Ottawa, ON",8
+222610,way,567539390,45.3545413,-75.6680855,,140,Owl Drive,row_house,"140 Owl drive, Ottawa, ON","140 Owl drive, Ottawa, ON",8
+222953,way,567986968,45.3535263,-75.7516272,,15 B,Deerfield Drive,row_house,"15 B Deerfield drive, Ottawa, ON","15 B Deerfield drive, Ottawa, ON",5
+222964,way,567986980,45.3532111,-75.751621,,19 A,Deerfield Drive,row_house,"19 A Deerfield drive, Ottawa, ON","19 A Deerfield drive, Ottawa, ON",6
+223018,way,567987096,45.3527421,-75.7536551,,43 D,Deerfield Drive,row_house,"43 D Deerfield drive, Ottawa, ON","43 D Deerfield drive, Ottawa, ON",6
+223020,way,567987104,45.3528058,-75.7539553,,45 C,Deerfield Drive,row_house,"45 C Deerfield drive, Ottawa, ON","45 C Deerfield drive, Ottawa, ON",3
+223042,way,568011054,45.36221,-75.728049,,33 A,Northview Road,row_house,"33 A Northview road, Ottawa, ON","33 A Northview road, Ottawa, ON",3
+224131,way,568589684,45.3788195,-75.728834,,1262,Emperor Avenue,row_house,"1262 Emperor avenue, Ottawa, ON","1262 Emperor avenue, Ottawa, ON",4
+224147,way,568589700,45.3795401,-75.7271905,,1214,Emperor Avenue,row_house,"1214 Emperor avenue, Ottawa, ON","1214 Emperor avenue, Ottawa, ON",4
+224151,way,568589704,45.379784,-75.726629,,1202,Emperor Avenue,row_house,"1202 Emperor avenue, Ottawa, ON","1202 Emperor avenue, Ottawa, ON",4
+224259,way,568602457,45.365986,-75.6304388,,73,Kimito Private,row_house,"73 Kimito private, Ottawa, ON","73 Kimito private, Ottawa, ON",6
+224268,way,568602468,45.3653387,-75.6307898,,41,Siren Private,row_house,"41 Siren private, Ottawa, ON","41 Siren private, Ottawa, ON",6
+224399,way,568608868,45.3689743,-75.6147875,,1474,Blohm Drive,row_house,"1474 Blohm drive, Ottawa, ON","1474 Blohm drive, Ottawa, ON",4
+224401,way,568608870,45.368543,-75.6172398,,14,Horsdal Private,row_house,"14 Horsdal private, Ottawa, ON","14 Horsdal private, Ottawa, ON",7
+224413,way,568608908,45.370793,-75.6208291,,2,Wallack Private,row_house,"2 Wallack private, Ottawa, ON","2 Wallack private, Ottawa, ON",9
+224445,way,568609016,45.3711444,-75.6217836,,33,Wallack Private,row_house,"33 Wallack private, Ottawa, ON","33 Wallack private, Ottawa, ON",7
+224446,way,568609019,45.3711258,-75.6218306,,35,Wallack Private,row_house,"35 Wallack private, Ottawa, ON","35 Wallack private, Ottawa, ON",7
+224450,way,568609032,45.3712028,-75.622398,,53,Wallack Private,row_house,"53 Wallack private, Ottawa, ON","53 Wallack private, Ottawa, ON",8
+225030,way,569025219,45.3775704,-75.6484088,,2858,Sandalwood Drive,row_house,"2858 Sandalwood drive, Ottawa, ON","2858 Sandalwood drive, Ottawa, ON",15
+225037,way,569025226,45.3777991,-75.6486515,,2868,Sandalwood Drive,row_house,"2868 Sandalwood drive, Ottawa, ON","2868 Sandalwood drive, Ottawa, ON",15
+225403,way,569164889,45.3746674,-75.6540486,,2884 B,Cedarwood Drive,row_house,"2884 B Cedarwood drive, Ottawa, ON","2884 B Cedarwood drive, Ottawa, ON",13
+225438,way,569164932,45.3752254,-75.6529183,,2880 F,Cedarwood Drive,row_house,"2880 F Cedarwood drive, Ottawa, ON","2880 F Cedarwood drive, Ottawa, ON",11
+225481,way,569164979,45.377494,-75.6541825,,2822 H,Cedarwood Drive,row_house,"2822 H Cedarwood drive, Ottawa, ON","2822 H Cedarwood drive, Ottawa, ON",10
+225491,way,569164989,45.3776968,-75.6544696,,2824 E,Cedarwood Drive,row_house,"2824 E Cedarwood drive, Ottawa, ON","2824 E Cedarwood drive, Ottawa, ON",17
+225493,way,569164991,45.3775832,-75.654749,,2824 A,Cedarwood Drive,row_house,"2824 A Cedarwood drive, Ottawa, ON","2824 A Cedarwood drive, Ottawa, ON",17
+225503,way,569165009,45.3776021,-75.6535183,,2832 B,Cedarwood Drive,row_house,"2832 B Cedarwood drive, Ottawa, ON","2832 B Cedarwood drive, Ottawa, ON",18
+225505,way,569165011,45.3777026,-75.6532944,,2832 E,Cedarwood Drive,row_house,"2832 E Cedarwood drive, Ottawa, ON","2832 E Cedarwood drive, Ottawa, ON",18
+225711,way,569434602,45.3515655,-75.726382,,70 F,Chesterton Drive,row_house,"70 F Chesterton drive, Ottawa, ON","70 F Chesterton drive, Ottawa, ON",6
+225737,way,569434629,45.3504245,-75.7270665,,61 B,Bowhill Avenue,row_house,"61 B Bowhill avenue, Ottawa, ON","61 B Bowhill avenue, Ottawa, ON",12
+225753,way,569434645,45.3504983,-75.7277554,,67 C,Bowhill Avenue,row_house,"67 C Bowhill avenue, Ottawa, ON","67 C Bowhill avenue, Ottawa, ON",6
+225761,way,569434666,45.350316,-75.7284893,,71 C,Bowhill Avenue,row_house,"71 C Bowhill avenue, Ottawa, ON","71 C Bowhill avenue, Ottawa, ON",12
+225766,way,569434681,45.3501148,-75.7283115,,73 E,Bowhill Avenue,row_house,"73 E Bowhill avenue, Ottawa, ON","73 E Bowhill avenue, Ottawa, ON",6
+225792,way,569464074,45.3640851,-75.708836,,1051,Meadowlands Drive,row_house,"1051 Meadowlands drive, Ottawa, ON","1051 Meadowlands drive, Ottawa, ON",8
+225795,way,569464077,45.3639651,-75.7091039,,1059,Meadowlands Drive,row_house,"1059 Meadowlands drive, Ottawa, ON","1059 Meadowlands drive, Ottawa, ON",8
+225830,way,569464112,45.3617895,-75.7113098,,1542,Fisher Avenue,row_house,"1542 Fisher avenue, Ottawa, ON","1542 Fisher avenue, Ottawa, ON",9
+225838,way,569464120,45.3622289,-75.7117386,,1114,Meadowlands Drive East,row_house,"1114 Meadowlands drive east, Ottawa, ON","1114 Meadowlands drive east, Ottawa, ON",4
+226905,way,570376736,45.3785451,-75.7284922,,1259,Dorchester Avenue,row_house,"1259 Dorchester avenue, Ottawa, ON","1259 Dorchester avenue, Ottawa, ON",4
+226906,way,570376739,45.3785132,-75.7285654,,1261,Dorchester Avenue,row_house,"1261 Dorchester avenue, Ottawa, ON","1261 Dorchester avenue, Ottawa, ON",4
+226917,way,570376758,45.3778845,-75.7300721,,1293,Dorchester Avenue,row_house,"1293 Dorchester avenue, Ottawa, ON","1293 Dorchester avenue, Ottawa, ON",4
+226919,way,570376760,45.3786916,-75.7272135,,1230,Dorchester Avenue,row_house,"1230 Dorchester avenue, Ottawa, ON","1230 Dorchester avenue, Ottawa, ON",3
+227372,way,570994160,45.4833088,-75.476306,,960,Cookshire Crescent,row_house,"960 Cookshire crescent, Ottawa, ON","960 Cookshire crescent, Ottawa, ON",5
+227379,way,570994167,45.4833941,-75.476796,,996,Cookshire Crescent,row_house,"996 Cookshire crescent, Ottawa, ON","996 Cookshire crescent, Ottawa, ON",5
+227382,way,570994170,45.4839461,-75.4774263,,901,Cookshire Crescent,row_house,"901 Cookshire crescent, Ottawa, ON","901 Cookshire crescent, Ottawa, ON",6
+227394,way,570994183,45.4841202,-75.4762353,,933,Cookshire Crescent,row_house,"933 Cookshire crescent, Ottawa, ON","933 Cookshire crescent, Ottawa, ON",6
+227411,way,570994200,45.4830244,-75.4758968,,975,Cookshire Crescent,row_house,"975 Cookshire crescent, Ottawa, ON","975 Cookshire crescent, Ottawa, ON",6
+227415,way,570994204,45.4830152,-75.4762607,,985,Cookshire Crescent,row_house,"985 Cookshire crescent, Ottawa, ON","985 Cookshire crescent, Ottawa, ON",6
+227432,way,571008075,45.4792802,-75.4828978,,1637,Marinoff Way,row_house,"1637 Marinoff way, Ottawa, ON","1637 Marinoff way, Ottawa, ON",4
+227822,way,572234905,45.3626114,-75.7140407,,1143 D,Meadowlands Drive East,row_house,"1143 D Meadowlands drive east, Ottawa, ON","1143 D Meadowlands drive east, Ottawa, ON",4
+227839,way,572437631,45.3642749,-75.7095507,,537,Orkney Private,row_house,"537 Orkney private, Ottawa, ON","537 Orkney private, Ottawa, ON",5
+227858,way,572437650,45.3639073,-75.7103453,,654,Trelawny Private,row_house,"654 Trelawny private, Ottawa, ON","654 Trelawny private, Ottawa, ON",3
+227898,way,572437749,45.3651915,-75.7097394,,414,Kintyre Private,row_house,"414 Kintyre private, Ottawa, ON","414 Kintyre private, Ottawa, ON",7
+227930,way,572437837,45.3649696,-75.7080922,,327,Kintyre Private,row_house,"327 Kintyre private, Ottawa, ON","327 Kintyre private, Ottawa, ON",4
+227944,way,572437875,45.3656649,-75.7085494,,377,Kintyre Private,row_house,"377 Kintyre private, Ottawa, ON","377 Kintyre private, Ottawa, ON",4
+227954,way,572437889,45.3656649,-75.7096718,,411,Kintyre Private,row_house,"411 Kintyre private, Ottawa, ON","411 Kintyre private, Ottawa, ON",6
+227971,way,572437906,45.3648065,-75.7116168,,455,Kintyre Private,row_house,"455 Kintyre private, Ottawa, ON","455 Kintyre private, Ottawa, ON",4
+227986,way,572437933,45.3639134,-75.7117386,,1507,Fisher Avenue,row_house,"1507 Fisher avenue, Ottawa, ON","1507 Fisher avenue, Ottawa, ON",7
+229109,way,573324853,45.3481927,-75.6757023,,3412,Paul Anka Drive,row_house,"3412 Paul anka drive, Ottawa, ON","3412 Paul anka drive, Ottawa, ON",6
+229141,way,573324893,45.349205,-75.6754917,,3370,Paul Anka Drive,row_house,"3370 Paul anka drive, Ottawa, ON","3370 Paul anka drive, Ottawa, ON",7
+229190,way,573324952,45.3491941,-75.6777022,,3220,Uplands Drive,row_house,"3220 Uplands drive, Ottawa, ON","3220 Uplands drive, Ottawa, ON",6
+229528,way,573598949,45.4448565,-75.6441757,,1080,Quarry Road,row_house,"1080 Quarry road, Ottawa, ON","1080 Quarry road, Ottawa, ON",22
+229531,way,573598957,45.444785,-75.6443465,,1074,Quarry Road,row_house,"1074 Quarry road, Ottawa, ON","1074 Quarry road, Ottawa, ON",22
+230246,way,574544940,45.3055768,-75.9352069,,252,Halyard Way,row_house,"252 Halyard way, Ottawa, ON","252 Halyard way, Ottawa, ON",10
+230269,way,574544963,45.3058884,-75.93565,,210,Clonrush Way,row_house,"210 Clonrush way, Ottawa, ON","210 Clonrush way, Ottawa, ON",4
+230272,way,574544966,45.3051882,-75.9356659,,236,Halyard Way,row_house,"236 Halyard way, Ottawa, ON","236 Halyard way, Ottawa, ON",10
+230950,way,574648255,45.2727604,-75.8655743,,508,Rioja Street,row_house,"508 Rioja street, Ottawa, ON","508 Rioja street, Ottawa, ON",6
+230967,way,574648272,45.2731769,-75.8655698,,119,Overberg Way,row_house,"119 Overberg way, Ottawa, ON","119 Overberg way, Ottawa, ON",6
+230990,way,574648295,45.2739532,-75.8658274,,136,Overberg Way,row_house,"136 Overberg way, Ottawa, ON","136 Overberg way, Ottawa, ON",6
+230994,way,574648299,45.2741268,-75.8660322,,144,Overberg Way,row_house,"144 Overberg way, Ottawa, ON","144 Overberg way, Ottawa, ON",6
+230995,way,574648300,45.2743873,-75.867691,,231,Overberg Way,row_house,"231 Overberg way, Ottawa, ON","231 Overberg way, Ottawa, ON",6
+232136,way,575720452,45.4013555,-75.7143374,,70,Young Street,row_house,"70 Young street, Ottawa, ON","70 Young street, Ottawa, ON",4
+233625,way,577624930,45.3588911,-75.6441456,,503,Marlin Private,row_house,"503 Marlin private, Ottawa, ON","503 Marlin private, Ottawa, ON",9
+233634,way,577624957,45.3584288,-75.6438511,,485,Marlin Private,row_house,"485 Marlin private, Ottawa, ON","485 Marlin private, Ottawa, ON",7
+233654,way,577625027,45.3591202,-75.6438091,,502,Marlin Private,row_house,"502 Marlin private, Ottawa, ON","502 Marlin private, Ottawa, ON",15
+233679,way,577625111,45.3575867,-75.6443261,,445,Marlin Private,row_house,"445 Marlin private, Ottawa, ON","445 Marlin private, Ottawa, ON",8
+233748,way,577850770,45.3599471,-75.6421897,,4,Cutts Private,row_house,"4 Cutts private, Ottawa, ON","4 Cutts private, Ottawa, ON",6
+233765,way,577850788,45.3591692,-75.6423123,,43,Patola Private,row_house,"43 Patola private, Ottawa, ON","43 Patola private, Ottawa, ON",6
+233807,way,577850830,45.3593789,-75.6429097,,16,Patola Private,row_house,"16 Patola private, Ottawa, ON","16 Patola private, Ottawa, ON",8
+233838,way,577875842,45.3639122,-75.6376571,,98,Somero Private,row_house,"98 Somero private, Ottawa, ON","98 Somero private, Ottawa, ON",7
+233855,way,577875859,45.3646185,-75.6368435,,51,Somero Private,row_house,"51 Somero private, Ottawa, ON","51 Somero private, Ottawa, ON",7
+233857,way,577875861,45.3645991,-75.6370023,,45,Somero Private,row_house,"45 Somero private, Ottawa, ON","45 Somero private, Ottawa, ON",7
+233858,way,577875862,45.3646133,-75.6367853,,53,Somero Private,row_house,"53 Somero private, Ottawa, ON","53 Somero private, Ottawa, ON",7
+233863,way,577875867,45.3644054,-75.6364448,,59,Somero Private,row_house,"59 Somero private, Ottawa, ON","59 Somero private, Ottawa, ON",6
+233875,way,577875879,45.3636874,-75.6373633,,97,Somero Private,row_house,"97 Somero private, Ottawa, ON","97 Somero private, Ottawa, ON",6
+233892,way,577875896,45.3642773,-75.638319,,129,Somero Private,row_house,"129 Somero private, Ottawa, ON","129 Somero private, Ottawa, ON",4
+233931,way,577875937,45.3634915,-75.6387693,,528,Wingale Private,row_house,"528 Wingale private, Ottawa, ON","528 Wingale private, Ottawa, ON",3
+233935,way,577875941,45.3632092,-75.6385077,,542,Wingale Private,row_house,"542 Wingale private, Ottawa, ON","542 Wingale private, Ottawa, ON",7
+233959,way,577875966,45.3615645,-75.6404515,,247,Temby Private,row_house,"247 Temby private, Ottawa, ON","247 Temby private, Ottawa, ON",9
+234001,way,577876009,45.3612176,-75.639698,,288,Temby Private,row_house,"288 Temby private, Ottawa, ON","288 Temby private, Ottawa, ON",9
+234235,way,577897045,45.3567476,-75.6440063,,1,Royal Oak Court,row_house,"1 Royal oak court, Ottawa, ON","1 Royal oak court, Ottawa, ON",5
+234243,way,577897053,45.3570352,-75.6443494,,6,Royal Oak Court,row_house,"6 Royal oak court, Ottawa, ON","6 Royal oak court, Ottawa, ON",4
+234249,way,577897062,45.3573164,-75.6435253,,28,Royal Oak Court,row_house,"28 Royal oak court, Ottawa, ON","28 Royal oak court, Ottawa, ON",5
+234264,way,577897080,45.3572423,-75.6427537,,48,Royal Oak Court,row_house,"48 Royal oak court, Ottawa, ON","48 Royal oak court, Ottawa, ON",5
+234541,way,577918670,45.3688671,-75.6351176,,31,Inverkip Avenue,row_house,"31 Inverkip avenue, Ottawa, ON","31 Inverkip avenue, Ottawa, ON",4
+234545,way,577918674,45.3690394,-75.6346948,,21,Inverkip Avenue,row_house,"21 Inverkip avenue, Ottawa, ON","21 Inverkip avenue, Ottawa, ON",4
+234564,way,578149569,45.394135,-75.6109296,,2282 B,Russell Road,row_house,"2282 B Russell road, Ottawa, ON","2282 B Russell road, Ottawa, ON",9
+234570,way,578149575,45.3941092,-75.6108604,,2282 A,Russell Road,row_house,"2282 A Russell road, Ottawa, ON","2282 A Russell road, Ottawa, ON",9
+234575,way,578149580,45.3936809,-75.6108598,,2290 A,Russell Road,row_house,"2290 A Russell road, Ottawa, ON","2290 A Russell road, Ottawa, ON",9
+234578,way,578149583,45.3939398,-75.610969,,2286 B,Russell Road,row_house,"2286 B Russell road, Ottawa, ON","2286 B Russell road, Ottawa, ON",9
+234622,way,578149645,45.3925975,-75.6091332,,2499 B,Walkley Road,row_house,"2499 B Walkley road, Ottawa, ON","2499 B Walkley road, Ottawa, ON",6
+234632,way,578149655,45.3930441,-75.6090311,,2505 B,Walkley Road,row_house,"2505 B Walkley road, Ottawa, ON","2505 B Walkley road, Ottawa, ON",11
+234638,way,578149662,45.3927636,-75.6093152,,2497 C,Walkley Road,row_house,"2497 C Walkley road, Ottawa, ON","2497 C Walkley road, Ottawa, ON",10
+234657,way,578149681,45.3926381,-75.6100417,,2483 B,Walkley Road,row_house,"2483 B Walkley road, Ottawa, ON","2483 B Walkley road, Ottawa, ON",7
+235187,way,578287163,45.348058,-75.715095,,7 E,Europa Private,row_house,"7 E Europa private, Ottawa, ON","7 E Europa private, Ottawa, ON",7
+235194,way,578287170,45.3478715,-75.7164492,,1 E,Europa Private,row_house,"1 E Europa private, Ottawa, ON","1 E Europa private, Ottawa, ON",7
+235200,way,578287176,45.3476779,-75.7162852,,3 A,Europa Private,row_house,"3 A Europa private, Ottawa, ON","3 A Europa private, Ottawa, ON",6
+235240,way,578287219,45.3474477,-75.7167498,,2 G,Europa Private,row_house,"2 G Europa private, Ottawa, ON","2 G Europa private, Ottawa, ON",7
+235305,way,578579901,45.4367521,-75.6365123,,808,Rainsford Avenue,row_house,"808 Rainsford avenue, Ottawa, ON","808 Rainsford avenue, Ottawa, ON",11
+235310,way,578579906,45.4364305,-75.6365047,,818,Rainsford Avenue,row_house,"818 Rainsford avenue, Ottawa, ON","818 Rainsford avenue, Ottawa, ON",6
+235311,way,578579907,45.4364104,-75.6365797,,816,Rainsford Avenue,row_house,"816 Rainsford avenue, Ottawa, ON","816 Rainsford avenue, Ottawa, ON",6
+235336,way,578579932,45.4361562,-75.6368148,,819,Cummings Avenue,row_house,"819 Cummings avenue, Ottawa, ON","819 Cummings avenue, Ottawa, ON",10
+235342,way,578579938,45.4373701,-75.6374864,,777,Cummings Avenue,row_house,"777 Cummings avenue, Ottawa, ON","777 Cummings avenue, Ottawa, ON",16
+235414,way,578580128,45.4348668,-75.637165,,849,Borthwick Avenue,row_house,"849 Borthwick avenue, Ottawa, ON","849 Borthwick avenue, Ottawa, ON",16
+235425,way,578580141,45.4340359,-75.637187,,874,Borthwick Avenue,row_house,"874 Borthwick avenue, Ottawa, ON","874 Borthwick avenue, Ottawa, ON",10
+235506,way,578580226,45.4357699,-75.6381277,,816,Borthwick Avenue,row_house,"816 Borthwick avenue, Ottawa, ON","816 Borthwick avenue, Ottawa, ON",10
+235741,way,578629722,45.4276541,-75.6249117,,1383,Perez Crescent,row_house,"1383 Perez crescent, Ottawa, ON","1383 Perez crescent, Ottawa, ON",6
+235762,way,578629743,45.4274154,-75.6239072,,1419,Perez Crescent,row_house,"1419 Perez crescent, Ottawa, ON","1419 Perez crescent, Ottawa, ON",4
+235779,way,578629760,45.4278141,-75.6231576,,1477,Perez Crescent,row_house,"1477 Perez crescent, Ottawa, ON","1477 Perez crescent, Ottawa, ON",7
+235787,way,578629771,45.4275649,-75.6222506,,1410,Palmerston Drive,row_house,"1410 Palmerston drive, Ottawa, ON","1410 Palmerston drive, Ottawa, ON",8
+235794,way,578629778,45.427555,-75.6213058,,1434,Palmerston Drive,row_house,"1434 Palmerston drive, Ottawa, ON","1434 Palmerston drive, Ottawa, ON",8
+235799,way,578629783,45.4275501,-75.6210689,,1438,Palmerston Drive,row_house,"1438 Palmerston drive, Ottawa, ON","1438 Palmerston drive, Ottawa, ON",7
+235801,way,578629785,45.4275282,-75.6207193,,1448,Palmerston Drive,row_house,"1448 Palmerston drive, Ottawa, ON","1448 Palmerston drive, Ottawa, ON",7
+235807,way,578629791,45.4275539,-75.6199805,,1468,Palmerston Drive,row_house,"1468 Palmerston drive, Ottawa, ON","1468 Palmerston drive, Ottawa, ON",5
+235882,way,578629881,45.4273151,-75.6244292,,1405,Perez Crescent,row_house,"1405 Perez crescent, Ottawa, ON","1405 Perez crescent, Ottawa, ON",7
+235930,way,578686968,45.4199559,-75.6109205,,1718,Ambrose Drive,row_house,"1718 Ambrose drive, Ottawa, ON","1718 Ambrose drive, Ottawa, ON",7
+235936,way,578686975,45.420486,-75.6102406,,1470,Foxwell Street,row_house,"1470 Foxwell street, Ottawa, ON","1470 Foxwell street, Ottawa, ON",6
+235938,way,578686979,45.4205511,-75.6100523,,1476,Foxwell Street,row_house,"1476 Foxwell street, Ottawa, ON","1476 Foxwell street, Ottawa, ON",6
+236007,way,578687117,45.4200806,-75.6094556,,1729,Dondale Street,row_house,"1729 Dondale street, Ottawa, ON","1729 Dondale street, Ottawa, ON",7
+236025,way,578687135,45.4186377,-75.6089516,,1790,Dondale Street,row_house,"1790 Dondale street, Ottawa, ON","1790 Dondale street, Ottawa, ON",7
+236042,way,578687152,45.4191091,-75.606826,,1621,Fine Crescent,row_house,"1621 Fine crescent, Ottawa, ON","1621 Fine crescent, Ottawa, ON",6
+236043,way,578687153,45.4187021,-75.6066018,,1637,Fine Crescent,row_house,"1637 Fine crescent, Ottawa, ON","1637 Fine crescent, Ottawa, ON",5
+236055,way,578687165,45.4182732,-75.6071722,,1667,Fine Crescent,row_house,"1667 Fine crescent, Ottawa, ON","1667 Fine crescent, Ottawa, ON",4
+236059,way,578694407,45.4257124,-75.6118334,,1367,Marigold Crescent,row_house,"1367 Marigold crescent, Ottawa, ON","1367 Marigold crescent, Ottawa, ON",4
+236060,way,578694410,45.4257918,-75.6117609,,1371,Marigold Crescent,row_house,"1371 Marigold crescent, Ottawa, ON","1371 Marigold crescent, Ottawa, ON",4
+236087,way,578694484,45.4255762,-75.611251,,1360,Cedarcroft Crescent,row_house,"1360 Cedarcroft crescent, Ottawa, ON","1360 Cedarcroft crescent, Ottawa, ON",6
+236108,way,578694548,45.4271662,-75.6113679,,1329,Alness Court,row_house,"1329 Alness court, Ottawa, ON","1329 Alness court, Ottawa, ON",7
+238146,way,580510032,45.4531226,-75.4890552,,668,Petrichor Crescent,row_house,"668 Petrichor crescent, Ottawa, ON","668 Petrichor crescent, Ottawa, ON",6
+238294,way,580510206,45.4392582,-75.4940262,,113,Helenium Lane,row_house,"113 Helenium lane, Ottawa, ON","113 Helenium lane, Ottawa, ON",10
+238296,way,580510208,45.4393645,-75.4940885,,109,Helenium Lane,row_house,"109 Helenium lane, Ottawa, ON","109 Helenium lane, Ottawa, ON",10
+238320,way,580510232,45.4393699,-75.4923372,,371,Willow Aster Circle,row_house,"371 Willow aster circle, Ottawa, ON","371 Willow aster circle, Ottawa, ON",5
+238333,way,580510245,45.4386786,-75.4933507,,339,Willow Aster Circle,row_house,"339 Willow aster circle, Ottawa, ON","339 Willow aster circle, Ottawa, ON",4
+238423,way,580529412,45.3679901,-75.6409463,,195,Macoun Circle,row_house,"195 Macoun circle, Ottawa, ON","195 Macoun circle, Ottawa, ON",6
+238424,way,580529415,45.3680176,-75.6408768,,193,Macoun Circle,row_house,"193 Macoun circle, Ottawa, ON","193 Macoun circle, Ottawa, ON",6
+238440,way,580529455,45.3677683,-75.6414706,,209,Macoun Circle,row_house,"209 Macoun circle, Ottawa, ON","209 Macoun circle, Ottawa, ON",6
+238453,way,580529489,45.3673398,-75.6418038,,279,Macoun Circle,row_house,"279 Macoun circle, Ottawa, ON","279 Macoun circle, Ottawa, ON",5
+238462,way,580529512,45.3675781,-75.6411929,,295,Macoun Circle,row_house,"295 Macoun circle, Ottawa, ON","295 Macoun circle, Ottawa, ON",6
+238468,way,580529528,45.3680972,-75.6399856,,332,Macoun Circle,row_house,"332 Macoun circle, Ottawa, ON","332 Macoun circle, Ottawa, ON",4
+238486,way,580529568,45.367935,-75.6422282,,220,Macoun Circle,row_house,"220 Macoun circle, Ottawa, ON","220 Macoun circle, Ottawa, ON",6
+238504,way,580529625,45.3669043,-75.6417061,,274,Macoun Circle,row_house,"274 Macoun circle, Ottawa, ON","274 Macoun circle, Ottawa, ON",5
+238507,way,580529635,45.3668752,-75.6422414,,262,Macoun Circle,row_house,"262 Macoun circle, Ottawa, ON","262 Macoun circle, Ottawa, ON",3
+238527,way,580529681,45.3680521,-75.6419207,,212,Macoun Circle,row_house,"212 Macoun circle, Ottawa, ON","212 Macoun circle, Ottawa, ON",6
+238573,way,580571004,45.4974813,-75.4684436,,712,Cartographe Street,row_house,"712 Cartographe street, Ottawa, ON","712 Cartographe street, Ottawa, ON",4
+238575,way,580571008,45.4972008,-75.4682591,,702,Cartographe Street,row_house,"702 Cartographe street, Ottawa, ON","702 Cartographe street, Ottawa, ON",4
+238598,way,580571042,45.4968101,-75.4674309,,661,Cartographe Street,row_house,"661 Cartographe street, Ottawa, ON","661 Cartographe street, Ottawa, ON",4
+238607,way,580571057,45.4965415,-75.4684345,,687,Cartographe Street,row_house,"687 Cartographe street, Ottawa, ON","687 Cartographe street, Ottawa, ON",3
+238625,way,580571088,45.497779,-75.467309,,634,Cartographe Street,row_house,"634 Cartographe street, Ottawa, ON","634 Cartographe street, Ottawa, ON",3
+239705,way,581627359,45.4310045,-75.6859375,,244,York Street,row_house,"244 York street, Ottawa, ON","244 York street, Ottawa, ON",5
+239715,way,581627389,45.4317408,-75.685149,,277,York Street,row_house,"277 York street, Ottawa, ON","277 York street, Ottawa, ON",7
+239716,way,581627391,45.4317158,-75.6852094,,275,York Street,row_house,"275 York street, Ottawa, ON","275 York street, Ottawa, ON",7
+239941,way,581743050,45.4759679,-75.5018892,,1393,Coulter Place,row_house,"1393 Coulter place, Ottawa, ON","1393 Coulter place, Ottawa, ON",6
+239947,way,581743056,45.4764993,-75.5019615,,1377,Coulter Place,row_house,"1377 Coulter place, Ottawa, ON","1377 Coulter place, Ottawa, ON",4
+239950,way,581743059,45.4761321,-75.5026221,,1398,Coulter Place,row_house,"1398 Coulter place, Ottawa, ON","1398 Coulter place, Ottawa, ON",5
+239999,way,581743111,45.4787117,-75.5047624,,349,Kennedy Lane East,row_house,"349 Kennedy lane east, Ottawa, ON","349 Kennedy lane east, Ottawa, ON",3
+240007,way,581743120,45.4783488,-75.5055997,,327,Kennedy Lane East,row_house,"327 Kennedy lane east, Ottawa, ON","327 Kennedy lane east, Ottawa, ON",5
+241130,way,582006918,45.4503935,-75.6345481,,121,Avro Circle,row_house,"121 Avro circle, Ottawa, ON","121 Avro circle, Ottawa, ON",4
+241192,way,582012606,45.4442038,-75.6344808,,130,Matador Private,row_house,"130 Matador private, Ottawa, ON","130 Matador private, Ottawa, ON",6
+241200,way,582012622,45.4443027,-75.634017,,339,LeBoutillier Avenue,row_house,"339 Leboutillier avenue, Ottawa, ON","339 Leboutillier avenue, Ottawa, ON",6
+241551,way,582082621,45.3673961,-75.6163809,,34,Woodbury Crescent,row_house,"34 Woodbury crescent, Ottawa, ON","34 Woodbury crescent, Ottawa, ON",8
+241754,way,582099192,45.3784826,-75.7270498,,1054,Hollington Street,row_house,"1054 Hollington street, Ottawa, ON","1054 Hollington street, Ottawa, ON",4
+241781,way,582099219,45.3790532,-75.724943,,1183,Summerville Avenue,row_house,"1183 Summerville avenue, Ottawa, ON","1183 Summerville avenue, Ottawa, ON",4
+242393,way,582541646,45.376019,-75.7290321,,1302,Trenton Avenue,row_house,"1302 Trenton avenue, Ottawa, ON","1302 Trenton avenue, Ottawa, ON",7
+242404,way,582541659,45.3768827,-75.7286392,,1078,Silver Street,row_house,"1078 Silver street, Ottawa, ON","1078 Silver street, Ottawa, ON",4
+242430,way,582541691,45.3775383,-75.7254959,,1216,Trenton Avenue,row_house,"1216 Trenton avenue, Ottawa, ON","1216 Trenton avenue, Ottawa, ON",5
+242448,way,582541716,45.3739371,-75.734158,,1415,Rosenthal Avenue,row_house,"1415 Rosenthal avenue, Ottawa, ON","1415 Rosenthal avenue, Ottawa, ON",9
+242491,way,582688662,45.3760383,-75.7358582,,1009,Cavan Street,row_house,"1009 Cavan street, Ottawa, ON","1009 Cavan street, Ottawa, ON",10
+242509,way,582714245,45.368665,-75.6138782,,54,Moxley Private,row_house,"54 Moxley private, Ottawa, ON","54 Moxley private, Ottawa, ON",6
+242530,way,582714266,45.3691729,-75.613852,,1,Bradley Cole Private,row_house,"1 Bradley cole private, Ottawa, ON","1 Bradley cole private, Ottawa, ON",8
+242551,way,582714287,45.3687203,-75.614743,,26,Moxley Private,row_house,"26 Moxley private, Ottawa, ON","26 Moxley private, Ottawa, ON",10
+242561,way,582714298,45.3690131,-75.6170134,,23,Horsdal Private,row_house,"23 Horsdal private, Ottawa, ON","23 Horsdal private, Ottawa, ON",6
+242583,way,582714320,45.3694217,-75.6158635,,55,Horsdal Private,row_house,"55 Horsdal private, Ottawa, ON","55 Horsdal private, Ottawa, ON",6
+242702,way,582729667,45.3720854,-75.6039106,,38,Jessica Private,row_house,"38 Jessica private, Ottawa, ON","38 Jessica private, Ottawa, ON",7
+242706,way,582729671,45.3718865,-75.6038517,,46,Jessica Private,row_house,"46 Jessica private, Ottawa, ON","46 Jessica private, Ottawa, ON",7
+242710,way,582729675,45.372298,-75.6039802,,30,Jessica Private,row_house,"30 Jessica private, Ottawa, ON","30 Jessica private, Ottawa, ON",6
+242713,way,582729678,45.3727149,-75.6040948,,14,Jessica Private,row_house,"14 Jessica private, Ottawa, ON","14 Jessica private, Ottawa, ON",6
+242716,way,582729681,45.3725649,-75.6040518,,20,Jessica Private,row_house,"20 Jessica private, Ottawa, ON","20 Jessica private, Ottawa, ON",6
+242723,way,582729688,45.3722715,-75.6036026,,51,Meaghan Private,row_house,"51 Meaghan private, Ottawa, ON","51 Meaghan private, Ottawa, ON",8
+242725,way,582729690,45.3722153,-75.6028813,,72,Meaghan Private,row_house,"72 Meaghan private, Ottawa, ON","72 Meaghan private, Ottawa, ON",6
+242846,way,582941507,45.3727833,-75.6188715,,1001,Karsh Drive,row_house,"1001 Karsh drive, Ottawa, ON","1001 Karsh drive, Ottawa, ON",4
+242874,way,582941535,45.3739731,-75.6202476,,10,Clifford Private,row_house,"10 Clifford private, Ottawa, ON","10 Clifford private, Ottawa, ON",4
+242885,way,582941546,45.3743659,-75.6199128,,21,Clifford Private,row_house,"21 Clifford private, Ottawa, ON","21 Clifford private, Ottawa, ON",4
+242886,way,582941547,45.3743467,-75.6198414,,23,Clifford Private,row_house,"23 Clifford private, Ottawa, ON","23 Clifford private, Ottawa, ON",4
+242889,way,582941550,45.3739956,-75.6196511,,33,Clifford Private,row_house,"33 Clifford private, Ottawa, ON","33 Clifford private, Ottawa, ON",6
+242896,way,582941557,45.3736253,-75.6194266,,47,Clifford Private,row_house,"47 Clifford private, Ottawa, ON","47 Clifford private, Ottawa, ON",6
+242897,way,582941558,45.3735514,-75.6193598,,49,Clifford Private,row_house,"49 Clifford private, Ottawa, ON","49 Clifford private, Ottawa, ON",6
+242903,way,582941564,45.3731804,-75.6191202,,63,Clifford Private,row_house,"63 Clifford private, Ottawa, ON","63 Clifford private, Ottawa, ON",6
+243004,way,583050422,45.3641129,-75.6425176,,222,Honeysuckle Private,row_house,"222 Honeysuckle private, Ottawa, ON","222 Honeysuckle private, Ottawa, ON",3
+243010,way,583050428,45.3643459,-75.6426694,,227,Honeysuckle Private,row_house,"227 Honeysuckle private, Ottawa, ON","227 Honeysuckle private, Ottawa, ON",4
+243011,way,583050429,45.3642947,-75.6428665,,231,Honeysuckle Private,row_house,"231 Honeysuckle private, Ottawa, ON","231 Honeysuckle private, Ottawa, ON",4
+243039,way,583050463,45.3643881,-75.6437392,,160,Alliance Private,row_house,"160 Alliance private, Ottawa, ON","160 Alliance private, Ottawa, ON",7
+243050,way,583050482,45.3646146,-75.6438253,,159,Alliance Private,row_house,"159 Alliance private, Ottawa, ON","159 Alliance private, Ottawa, ON",6
+243058,way,583050494,45.3647028,-75.6431964,,251,White Clover Private,row_house,"251 White clover private, Ottawa, ON","251 White clover private, Ottawa, ON",3
+243060,way,583050496,45.3645428,-75.6428369,,242,White Clover Private,row_house,"242 White clover private, Ottawa, ON","242 White clover private, Ottawa, ON",4
+243125,way,583066684,45.3595653,-75.6468549,,3320,Albion Road South,row_house,"3320 Albion road south, Ottawa, ON","3320 Albion road south, Ottawa, ON",11
+243770,way,583258088,45.3520776,-75.6404639,,2898,Mésanges Drive,row_house,"2898 Mésanges drive, Ottawa, ON","2898 Mésanges drive, Ottawa, ON",3
+243771,way,583258089,45.3520682,-75.6407436,,2894,Mésanges Drive,row_house,"2894 Mésanges drive, Ottawa, ON","2894 Mésanges drive, Ottawa, ON",3
+243778,way,583258096,45.3524197,-75.6399286,,2873,Mésanges Drive,row_house,"2873 Mésanges drive, Ottawa, ON","2873 Mésanges drive, Ottawa, ON",5
+243780,way,583258098,45.3523467,-75.6399295,,2877,Mésanges Drive,row_house,"2877 Mésanges drive, Ottawa, ON","2877 Mésanges drive, Ottawa, ON",5
+243782,way,583258100,45.3525011,-75.6399654,,2869,Mésanges Drive,row_house,"2869 Mésanges drive, Ottawa, ON","2869 Mésanges drive, Ottawa, ON",6
+243791,way,583258109,45.3529444,-75.6402725,,2847,Mésanges Drive,row_house,"2847 Mésanges drive, Ottawa, ON","2847 Mésanges drive, Ottawa, ON",6
+243796,way,583258114,45.3523157,-75.6407691,,2884,Mésanges Drive,row_house,"2884 Mésanges drive, Ottawa, ON","2884 Mésanges drive, Ottawa, ON",4
+243808,way,583258127,45.3528405,-75.6412746,,2820,Mésanges Drive,row_house,"2820 Mésanges drive, Ottawa, ON","2820 Mésanges drive, Ottawa, ON",5
+243816,way,583258135,45.3530922,-75.6411059,,2837,Mésanges Drive,row_house,"2837 Mésanges drive, Ottawa, ON","2837 Mésanges drive, Ottawa, ON",6
+243823,way,583258142,45.3530569,-75.6421305,,2803,Mésanges Drive,row_house,"2803 Mésanges drive, Ottawa, ON","2803 Mésanges drive, Ottawa, ON",6
+243824,way,583258143,45.3530594,-75.6420661,,2805,Mésanges Drive,row_house,"2805 Mésanges drive, Ottawa, ON","2805 Mésanges drive, Ottawa, ON",6
+244204,way,583376790,45.3502935,-75.6396359,,1470,Bryson Lane,row_house,"1470 Bryson lane, Ottawa, ON","1470 Bryson lane, Ottawa, ON",4
+244234,way,583376821,45.3512232,-75.6386646,,1455,Waltham Street,row_house,"1455 Waltham street, Ottawa, ON","1455 Waltham street, Ottawa, ON",7
+244259,way,583376846,45.3512866,-75.6410066,,1405,Forge Street,row_house,"1405 Forge street, Ottawa, ON","1405 Forge street, Ottawa, ON",6
+244581,way,583394682,45.4444959,-75.6297873,,649 B,Carson's Road,row_house,"649 B Carson's road, Ottawa, ON","649 B Carson's road, Ottawa, ON",3
+245197,way,583511253,45.4459636,-75.6268332,,966,Gulf Place,row_house,"966 Gulf place, Ottawa, ON","966 Gulf place, Ottawa, ON",8
+245342,way,583532347,45.3480425,-75.6298441,,1592,Fortier Street,row_house,"1592 Fortier street, Ottawa, ON","1592 Fortier street, Ottawa, ON",4
+245368,way,583539091,45.3400301,-75.634654,,3500,Aladdin Lane,row_house,"3500 Aladdin lane, Ottawa, ON","3500 Aladdin lane, Ottawa, ON",7
+245369,way,583539092,45.3396883,-75.6342449,,3520,Aladdin Lane,row_house,"3520 Aladdin lane, Ottawa, ON","3520 Aladdin lane, Ottawa, ON",4
+245395,way,583539119,45.3403056,-75.6345966,,3507,Aladdin Lane,row_house,"3507 Aladdin lane, Ottawa, ON","3507 Aladdin lane, Ottawa, ON",7
+245422,way,583539146,45.3407153,-75.6327557,,3611,Aladdin Lane,row_house,"3611 Aladdin lane, Ottawa, ON","3611 Aladdin lane, Ottawa, ON",7
+245441,way,583539173,45.339111,-75.630946,,3675,Aladdin Lane,row_house,"3675 Aladdin lane, Ottawa, ON","3675 Aladdin lane, Ottawa, ON",5
+245457,way,583548875,45.3509107,-75.6503925,,2604,Pimlico Crescent,row_house,"2604 Pimlico crescent, Ottawa, ON","2604 Pimlico crescent, Ottawa, ON",6
+245495,way,583548913,45.3507188,-75.6496083,,2786,Pimlico Crescent,row_house,"2786 Pimlico crescent, Ottawa, ON","2786 Pimlico crescent, Ottawa, ON",7
+245524,way,583548942,45.3520592,-75.6489535,,2673,Pimlico Crescent,row_house,"2673 Pimlico crescent, Ottawa, ON","2673 Pimlico crescent, Ottawa, ON",9
+245527,way,583548945,45.3508407,-75.6487042,,2737,Pimlico Crescent,row_house,"2737 Pimlico crescent, Ottawa, ON","2737 Pimlico crescent, Ottawa, ON",7
+245541,way,583548961,45.351328,-75.6488578,,2705,Pimlico Crescent,row_house,"2705 Pimlico crescent, Ottawa, ON","2705 Pimlico crescent, Ottawa, ON",6
+245565,way,583548985,45.3500134,-75.6494372,,2787,Pimlico Crescent,row_house,"2787 Pimlico crescent, Ottawa, ON","2787 Pimlico crescent, Ottawa, ON",4
+246286,way,583830742,45.4255995,-75.6486036,,387,Queen Mary Street,row_house,"387 Queen mary street, Ottawa, ON","387 Queen mary street, Ottawa, ON",4
+246723,way,583840629,45.4238043,-75.6729062,,164,Goulburn Avenue,row_house,"164 Goulburn avenue, Ottawa, ON","164 Goulburn avenue, Ottawa, ON",3
+246958,way,584077676,45.431906,-75.6949195,,97,St. Andrew Street,row_house,"97 St. andrew street, Ottawa, ON","97 St. andrew street, Ottawa, ON",8
+247282,way,584078108,45.4331711,-75.6930623,,166,Bruyère Street,row_house,"166 Bruyère street, Ottawa, ON","166 Bruyère street, Ottawa, ON",3
+247361,way,584203023,45.4448975,-75.6045038,,912 A,Elmsmere Road,row_house,"912 A Elmsmere road, Ottawa, ON","912 A Elmsmere road, Ottawa, ON",9
+247375,way,584203046,45.4450395,-75.6044962,,910 G,Elmsmere Road,row_house,"910 G Elmsmere road, Ottawa, ON","910 G Elmsmere road, Ottawa, ON",9
+247396,way,584203078,45.4452013,-75.6060712,,53 J,Sumac Street,row_house,"53 J Sumac street, Ottawa, ON","53 J Sumac street, Ottawa, ON",14
+247399,way,584203083,45.4451834,-75.6058761,,53 M,Sumac Street,row_house,"53 M Sumac street, Ottawa, ON","53 M Sumac street, Ottawa, ON",14
+247419,way,584203108,45.4449843,-75.6065173,,48 C,Sumac Street,row_house,"48 C Sumac street, Ottawa, ON","48 C Sumac street, Ottawa, ON",9
+247431,way,584203126,45.4444912,-75.6070166,,45 B,Sumac Street,row_house,"45 B Sumac street, Ottawa, ON","45 B Sumac street, Ottawa, ON",9
+247432,way,584203127,45.444539,-75.6070426,,45 C,Sumac Street,row_house,"45 C Sumac street, Ottawa, ON","45 C Sumac street, Ottawa, ON",9
+247443,way,584203138,45.4446117,-75.6067831,,46 C,Sumac Street,row_house,"46 C Sumac street, Ottawa, ON","46 C Sumac street, Ottawa, ON",8
+247444,way,584203139,45.4446548,-75.6068067,,46 B,Sumac Street,row_house,"46 B Sumac street, Ottawa, ON","46 B Sumac street, Ottawa, ON",8
+247452,way,584206667,45.4441634,-75.6002879,,909 H,Elmsmere Road,row_house,"909 H Elmsmere road, Ottawa, ON","909 H Elmsmere road, Ottawa, ON",9
+247488,way,584206706,45.4442106,-75.6011783,,913 C,Elmsmere Road,row_house,"913 C Elmsmere road, Ottawa, ON","913 C Elmsmere road, Ottawa, ON",17
+247504,way,584215334,45.4421652,-75.5982499,,1915 M,Ogilvie Road,row_house,"1915 M Ogilvie road, Ottawa, ON","1915 M Ogilvie road, Ottawa, ON",19
+247506,way,584215336,45.4420663,-75.5981954,,1915 P,Ogilvie Road,row_house,"1915 P Ogilvie road, Ottawa, ON","1915 P Ogilvie road, Ottawa, ON",19
+247535,way,584215365,45.4427227,-75.5976826,,1917 G,Ogilvie Road,row_house,"1917 G Ogilvie road, Ottawa, ON","1917 G Ogilvie road, Ottawa, ON",16
+247549,way,584215379,45.4427306,-75.5983581,,1916 C,Elmridge Drive,row_house,"1916 C Elmridge drive, Ottawa, ON","1916 C Elmridge drive, Ottawa, ON",9
+247564,way,584215394,45.441317,-75.5986166,,1903 D,Ogilvie Road,row_house,"1903 D Ogilvie road, Ottawa, ON","1903 D Ogilvie road, Ottawa, ON",8
+247582,way,584215412,45.4417234,-75.5983844,,1913 A,Ogilvie Road,row_house,"1913 A Ogilvie road, Ottawa, ON","1913 A Ogilvie road, Ottawa, ON",6
+247594,way,584215424,45.4422267,-75.5991789,,1912 M,Elmridge Drive,row_house,"1912 M Elmridge drive, Ottawa, ON","1912 M Elmridge drive, Ottawa, ON",12
+247603,way,584215433,45.4428265,-75.5989597,,1914 F,Elmridge Drive,row_house,"1914 F Elmridge drive, Ottawa, ON","1914 F Elmridge drive, Ottawa, ON",8
+247627,way,584220527,45.4489742,-75.5864778,,121,Brilia Private,row_house,"121 Brilia private, Ottawa, ON","121 Brilia private, Ottawa, ON",5
+247636,way,584220536,45.4488497,-75.586933,,109,Brilia Private,row_house,"109 Brilia private, Ottawa, ON","109 Brilia private, Ottawa, ON",5
+247643,way,584220543,45.4486045,-75.5867948,,108,Brilia Private,row_house,"108 Brilia private, Ottawa, ON","108 Brilia private, Ottawa, ON",5
+248083,way,584500178,45.4098243,-75.6858408,,489,Metcalfe Street,row_house,"489 Metcalfe street, Ottawa, ON","489 Metcalfe street, Ottawa, ON",3
+248292,way,584808102,45.4047094,-75.675786,,300 G,Main Street,row_house,"300 G Main street, Ottawa, ON","300 G Main street, Ottawa, ON",9
+248769,way,585002644,45.4140994,-75.6739816,,150,Lees Avenue,row_house,"150 Lees avenue, Ottawa, ON","150 Lees avenue, Ottawa, ON",3
+248866,way,585003980,45.4162922,-75.6791681,,102,Greenfield Avenue,row_house,"102 Greenfield avenue, Ottawa, ON","102 Greenfield avenue, Ottawa, ON",5
+249254,way,585239203,45.4314302,-75.6367033,,4627,Cecilia Crescent,row_house,"4627 Cecilia crescent, Ottawa, ON","4627 Cecilia crescent, Ottawa, ON",7
+249256,way,585239205,45.4315218,-75.6367537,,4631,Cecilia Crescent,row_house,"4631 Cecilia crescent, Ottawa, ON","4631 Cecilia crescent, Ottawa, ON",7
+249328,way,585239330,45.43131,-75.6381711,,4548,Dora Crescent,row_house,"4548 Dora crescent, Ottawa, ON","4548 Dora crescent, Ottawa, ON",7
+249353,way,585239355,45.4299414,-75.6371878,,4331,Stella Crescent,row_house,"4331 Stella crescent, Ottawa, ON","4331 Stella crescent, Ottawa, ON",6
+249379,way,585239387,45.4296332,-75.6367522,,4305,Stella Crescent,row_house,"4305 Stella crescent, Ottawa, ON","4305 Stella crescent, Ottawa, ON",7
+249408,way,585239418,45.4304548,-75.6357224,,4868,Hendon Way,row_house,"4868 Hendon way, Ottawa, ON","4868 Hendon way, Ottawa, ON",6
+249416,way,585239431,45.4296302,-75.6351994,,4822,Hendon Way,row_house,"4822 Hendon way, Ottawa, ON","4822 Hendon way, Ottawa, ON",7
+249441,way,585239458,45.4287247,-75.63489,,1252,Bowmount Street,row_house,"1252 Bowmount street, Ottawa, ON","1252 Bowmount street, Ottawa, ON",7
+249495,way,585293608,45.4330824,-75.6363992,,926 B,Cummings Avenue,row_house,"926 B Cummings avenue, Ottawa, ON","926 B Cummings avenue, Ottawa, ON",15
+249532,way,585293645,45.4322389,-75.6355326,,976,Cummings Avenue,row_house,"976 Cummings avenue, Ottawa, ON","976 Cummings avenue, Ottawa, ON",16
+249555,way,585293681,45.4317227,-75.6357722,,1022,Cummings Avenue,row_house,"1022 Cummings avenue, Ottawa, ON","1022 Cummings avenue, Ottawa, ON",16
+249601,way,585489176,45.4266213,-75.6329303,,1440,Murdock Gate,row_house,"1440 Murdock gate, Ottawa, ON","1440 Murdock gate, Ottawa, ON",6
+249625,way,585489220,45.4267639,-75.6336212,,4354,Weldon Drive,row_house,"4354 Weldon drive, Ottawa, ON","4354 Weldon drive, Ottawa, ON",8
+249708,way,585489310,45.4278811,-75.6335244,,1276,Belgate Way,row_house,"1276 Belgate way, Ottawa, ON","1276 Belgate way, Ottawa, ON",8
+249769,way,585524855,45.4240775,-75.6518614,,1101 A,Lola Street,row_house,"1101 A Lola street, Ottawa, ON","1101 A Lola street, Ottawa, ON",10
+249772,way,585524858,45.4239517,-75.6517896,,1103 B,Lola Street,row_house,"1103 B Lola street, Ottawa, ON","1103 B Lola street, Ottawa, ON",10
+249777,way,585524863,45.4235456,-75.6512592,,336 A,Presland Road,row_house,"336 A Presland road, Ottawa, ON","336 A Presland road, Ottawa, ON",6
+249780,way,585524866,45.4234769,-75.651428,,332 B,Presland Road,row_house,"332 B Presland road, Ottawa, ON","332 B Presland road, Ottawa, ON",6
+249823,way,585524911,45.4241325,-75.6498109,,1104 A,Naughton Street,row_house,"1104 A Naughton street, Ottawa, ON","1104 A Naughton street, Ottawa, ON",6
+249831,way,585524919,45.4241901,-75.6484719,,389 B,Presland Road,row_house,"389 B Presland road, Ottawa, ON","389 B Presland road, Ottawa, ON",11
+249842,way,585524930,45.4237392,-75.6490641,,378 A,Presland Road,row_house,"378 A Presland road, Ottawa, ON","378 A Presland road, Ottawa, ON",10
+249852,way,585524940,45.4238081,-75.6484589,,390 A,Presland Road,row_house,"390 A Presland road, Ottawa, ON","390 A Presland road, Ottawa, ON",10
+249856,way,585524945,45.4238222,-75.6482106,,394 A,Presland Road,row_house,"394 A Presland road, Ottawa, ON","394 A Presland road, Ottawa, ON",10
+253047,way,589307518,45.3664832,-75.7020932,,105,Montauk Private,row_house,"105 Montauk private, Ottawa, ON","105 Montauk private, Ottawa, ON",5
+257211,way,601884346,45.3838476,-75.7432949,,4,Molenaar Private,row_house,"4 Molenaar private, Ottawa, ON","4 Molenaar private, Ottawa, ON",4
+257514,way,602797891,45.0387961,-75.6784993,,24,Royalty Way,row_house,"24 Royalty way, Ottawa, ON","24 Royalty way, Ottawa, ON",3
+268175,way,614586815,45.2697316,-75.779643,,110,Popplewell Crescent,row_house,"110 Popplewell crescent, Ottawa, ON","110 Popplewell crescent, Ottawa, ON",4
+279223,way,618279296,45.4478994,-75.5867488,,1011,Shefford Road,row_house,"1011 Shefford road, Ottawa, ON","1011 Shefford road, Ottawa, ON",3
+280276,way,619191212,45.4395564,-75.6788649,,25 C,Vaughan Street,row_house,"25 C Vaughan street, Ottawa, ON","25 C Vaughan street, Ottawa, ON",3
+281532,way,620515964,45.4257989,-75.6863768,,36,Stewart Street,row_house,"36 Stewart street, Ottawa, ON","36 Stewart street, Ottawa, ON",3
+282700,way,620760706,45.3606139,-75.7408433,,1468,Baseline Road,row_house,"1468 Baseline road, Ottawa, ON","1468 Baseline road, Ottawa, ON",4
+282748,way,620959484,45.3508282,-75.8013255,,3047,Richmond Road,row_house,"3047 Richmond road, Ottawa, ON","3047 Richmond road, Ottawa, ON",5
+282884,way,620996042,45.3899107,-75.7533091,,451,Edison Avenue,row_house,"451 Edison avenue, Ottawa, ON","451 Edison avenue, Ottawa, ON",8
+282892,way,620996050,45.3898928,-75.7528564,,346,Ravenhill Avenue East,row_house,"346 Ravenhill avenue east, Ottawa, ON","346 Ravenhill avenue east, Ottawa, ON",5
+285080,way,626431567,45.4331288,-75.6859433,,337,Murray Street,row_house,"337 Murray street, Ottawa, ON","337 Murray street, Ottawa, ON",8
+285087,way,626431585,45.4334958,-75.6859264,,444,Old St. Patrick Street,row_house,"444 Old st. patrick street, Ottawa, ON","444 Old st. patrick street, Ottawa, ON",7
