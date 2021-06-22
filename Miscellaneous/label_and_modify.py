@@ -35,7 +35,7 @@ def classify_and_rename(input_dir):
                 data[key] = class_dict[classId - 1]["name"]
             for key, val in data.items():
                 set_exif_title(
-                    pathlib.Path("{0}}/".format(input_dir) + key),
+                    pathlib.Path("{0}/".format(input_dir) + key),
                     data[key],
                 )
 
@@ -58,8 +58,8 @@ def classify_and_rename(input_dir):
 
         current_directory = os.getcwd()
         os.rename(
-            r"{0}/{1}}/{2}".format(current_directory, input_dir, file),
-            r"{0}/{1}}/{2}".format(current_directory, input_dir, filename),
+            r"{0}/{1}/{2}".format(current_directory, input_dir, file),
+            r"{0}/{1}/{2}".format(current_directory, input_dir, filename),
         )
 
 
