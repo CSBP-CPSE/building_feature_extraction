@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# .pbf to .osm
+# Inputs:
+# - .pbf of OSM data
+# Outputs:
+# - .osm of the same OSM data
+
 import osmium as o
 
 input_file = 'ontario-latest.osm.pbf'
